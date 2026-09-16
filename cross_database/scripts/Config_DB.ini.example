@@ -1,0 +1,23 @@
+# configure database connection info
+
+[CROSS_CLIMATE]
+user = your_username
+password = your_password
+host = 127.0.0.1
+port = 1521
+service = your_service_name
+
+[CROSS_HOUR]
+user = your_username
+password = your_password
+host = 127.0.0.1
+port = 1521
+service = your_service_name
+
+[CROSS_RAIN]
+user = your_username
+password = your_password
+host = 127.0.0.1
+port = 1521
+service = your_service_name
+

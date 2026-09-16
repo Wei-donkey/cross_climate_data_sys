@@ -1,0 +1,8 @@
+# Sensitive configuration files (contain DB credentials / internal IPs / local paths)
+# Copy the matching *.example file to the real name and fill in real values locally.
+src/DBCredentials.bas
+src/Ini/Config.ini
+
+# VB6 build/IDE noise
+*.log
+*.vbw

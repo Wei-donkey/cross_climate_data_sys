@@ -1,0 +1,84 @@
+[Caption]
+CROSS Climate Statistics System
+
+[Department]
+Guangdong Climate Center
+
+[MainPic]
+
+
+==== System server IP address1 ====
+[ServerIP1]
+
+==== FTP server port ====
+[FTPPort]
+
+==== System server IP address2 ====
+[ServerIP2]
+
+
+[User]
+
+[Password]
+
+
+==== the source of Normals ====
+[Norm_Src]
+CMA
+
+==== years for multi-year average ====
+[Years_NormSURF]
+1991-2020
+[Years_NormAWST]
+2006-2025
+
+==== Is this the first time you are running this system? ====
+[FirstSet]
+No
+
+==== Whether to enable the Surfer plotting function ====
+[Set_Surfer]
+Yes
+
+[Surfer_Edition]
+11EN
+
+==== Contour Line Interval Settings ====
+[LvlType_Value]
+Auto
+[LvlFile_Value]
+
+[Title_Value]
+No
+
+==== Output width (pixels) ====
+[Export_Width]
+2000
+
+==== Interpolation grid size (km) ====
+[Grid_Size]
+2
+[Grid_Method]
+srfKriging
+
+==== Map scale: PROV/CITY/COUNTY ====
+[District_Level]
+PROV
+
+[PROV_Name]
+
+[CITY_Name]
+
+[COUNTY_Name]
+
+==== Should the system be updated automatically? ====
+[Update]
+On
+[Update_day]
+
+==== Scope of provincial-level user data enquiries ====
+[Province]
+
+==== Automatic deactivation at midnight on Sunday ====
+[Auto_LogOff]
+Yes

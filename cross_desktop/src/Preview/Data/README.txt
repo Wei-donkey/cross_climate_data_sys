@@ -1,0 +1,1 @@
+The data is for preview purposes only; the latitude and longitude data in the site information has been randomly altered to incorrect values and should not be used.

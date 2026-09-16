@@ -1,0 +1,11 @@
+# Sensitive configuration files (contain DB credentials / internal IPs / API keys)
+# Copy the matching *.ini.example file to the real name and fill in real values locally.
+scripts/Config_DB.ini
+scripts/Config_MUSIC_GD.ini
+
+# Common Python/OS noise
+__pycache__/
+*.pyc
+*.log
+.venv/
+venv/

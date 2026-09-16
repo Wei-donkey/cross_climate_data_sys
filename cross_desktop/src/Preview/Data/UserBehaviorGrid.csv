@@ -1,0 +1,1544 @@
+,Department,Username,Data-Download IP,Data Download Time,Data Station Type,Data Type,Spatial Range,Time Range,Data Length,Element
+1,NotShown,lping101,NotShown,2026/9/15 15:59,National Station+AWS Station,时 Data,河源,2016-09-01至2016-09-30,30日,R
+2,NotShown,lping101,NotShown,2026/9/15 15:59,National Station+AWS Station,时 Data,河源,2016-08-01至2016-08-31,31日,R
+3,NotShown,lping101,NotShown,2026/9/15 15:58,National Station+AWS Station,时 Data,河源,2016-07-01至2016-07-31,31日,R
+4,NotShown,lping101,NotShown,2026/9/15 15:58,National Station+AWS Station,时 Data,河源,2016-06-01至2016-06-30,30日,R
+5,NotShown,lping101,NotShown,2026/9/15 15:57,National Station+AWS Station,时 Data,河源,2016-05-01至2016-05-31,31日,R
+6,NotShown,lping101,NotShown,2026/9/15 15:56,National Station+AWS Station,时 Data,河源,2016-04-01至2016-04-30,30日,R
+7,NotShown,lping101,NotShown,2026/9/15 15:55,National Station+AWS Station,时 Data,河源,2016-03-01至2016-03-31,31日,R
+8,NotShown,lping101,NotShown,2026/9/15 15:54,National Station+AWS Station,时 Data,河源,2015-03-01至2015-03-31,31日,R
+9,NotShown,lping101,NotShown,2026/9/15 15:54,National Station+AWS Station,时 Data,河源,2015-10-01至2015-10-31,31日,R
+10,NotShown,lping101,NotShown,2026/9/15 15:53,National Station+AWS Station,时 Data,河源,2015-09-01至2015-09-30,30日,R
+11,NotShown,lping101,NotShown,2026/9/15 15:52,National Station+AWS Station,时 Data,河源,2015-08-01至2015-08-31,31日,R
+12,NotShown,lping101,NotShown,2026/9/15 15:51,National Station+AWS Station,时 Data,河源,2015-07-01至2015-07-31,31日,R
+13,NotShown,lping101,NotShown,2026/9/15 15:51,National Station+AWS Station,时 Data,河源,2015-06-01至2015-06-30,30日,R
+14,NotShown,lping101,NotShown,2026/9/15 15:50,National Station+AWS Station,时 Data,河源,2015-05-01至2015-05-31,31日,R
+15,NotShown,lping101,NotShown,2026/9/15 15:49,National Station+AWS Station,时 Data,河源,2015-05-01至2015-05-31,31日,R
+16,NotShown,lping101,NotShown,2026/9/15 15:49,National Station+AWS Station,时 Data,河源,2015-05-01至2015-05-31,31日,R
+17,NotShown,lping101,NotShown,2026/9/15 15:48,National Station+AWS Station,时 Data,河源,2015-04-01至2015-04-30,30日,R
+18,NotShown,cz001,NotShown,2026/9/15 15:46,National Station+AWS Station,日 Data,多站点,2006-01-01至2006-12-31,365日,FJS
+19,NotShown,cz001,NotShown,2026/9/15 15:46,National Station+AWS Station,日 Data,多站点,2007-01-01至2007-12-31,365日,FJS
+20,NotShown,cz001,NotShown,2026/9/15 15:46,National Station+AWS Station,日 Data,多站点,2008-01-01至2008-12-31,366日,FJS
+21,NotShown,cz001,NotShown,2026/9/15 15:45,National Station+AWS Station,日 Data,多站点,2009-01-01至2009-12-31,365日,FJS
+22,NotShown,cz001,NotShown,2026/9/15 15:45,National Station+AWS Station,日 Data,多站点,2010-01-01至2010-12-31,365日,FJS
+23,NotShown,cz001,NotShown,2026/9/15 15:45,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,FJS
+24,NotShown,cz001,NotShown,2026/9/15 15:44,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,FJS
+25,NotShown,cz001,NotShown,2026/9/15 15:44,National Station+AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,FJS
+26,NotShown,hji101,NotShown,2026/9/15 15:40,National Station,月 Data,多站点,2024-01至2025-12,24月,R_SUM
+27,NotShown,hji101,NotShown,2026/9/15 15:40,National Station,月 Data,多站点,2024-01至2025-12,24月,TN_MIN
+28,NotShown,hji101,NotShown,2026/9/15 15:40,National Station,月 Data,多站点,2024-01至2025-12,24月,TX_MAX
+29,NotShown,hji101,NotShown,2026/9/15 15:39,National Station,月 Data,多站点,2024-01至2025-12,24月,TA_AVE
+30,NotShown,wchuan101,NotShown,2026/9/15 15:38,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,R
+31,NotShown,hji101,NotShown,2026/9/15 15:38,National Station,月 Data,多站点,2024-01至2025-12,24月,TA_AVE
+32,NotShown,cz001,NotShown,2026/9/15 15:35,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,FJS
+33,NotShown,cz001,NotShown,2026/9/15 15:35,National Station+AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,FJS
+34,NotShown,cz001,NotShown,2026/9/15 15:34,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,FJS
+35,NotShown,cz001,NotShown,2026/9/15 15:34,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,FJS
+36,NotShown,cz001,NotShown,2026/9/15 15:34,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,FJS
+37,NotShown,cz001,NotShown,2026/9/15 15:33,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,FJS
+38,NotShown,cz001,NotShown,2026/9/15 15:33,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,FJS
+39,NotShown,cz001,NotShown,2026/9/15 15:33,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,FJS
+40,NotShown,cz001,NotShown,2026/9/15 15:33,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,FJS
+41,NotShown,cz001,NotShown,2026/9/15 15:32,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,FJS
+42,NotShown,cz001,NotShown,2026/9/15 15:32,National Station+AWS Station,日 Data,多站点,2026-01-01至2026-08-31,243日,FJS
+43,NotShown,gming101,NotShown,2026/9/15 15:30,AWS Station,月 Data,多站点,2026-01至2026-08,8月,R08_SUM
+44,NotShown,dyuan101,NotShown,2026/9/15 15:27,National Station+AWS Station,年 Data,多站点,2010至2025,16年,F10S_MAX
+45,NotShown,dyuan101,NotShown,2026/9/15 15:23,National Station+AWS Station,月 Data,多站点,2010-01至2025-12,192月,R_DAYS
+46,NotShown,dyuan101,NotShown,2026/9/15 15:23,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MIN
+47,NotShown,dyuan101,NotShown,2026/9/15 15:21,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MIN
+48,NotShown,dyuan101,NotShown,2026/9/15 15:20,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MIN
+49,NotShown,dyuan101,NotShown,2026/9/15 15:19,National Station+AWS Station,月 Data,多站点,2010-01至2025-12,192月,R_SUM
+50,NotShown,dyuan101,NotShown,2026/9/15 15:19,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MIN
+51,NotShown,dyuan101,NotShown,2026/9/15 15:17,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T_MIN
+52,NotShown,dyuan101,NotShown,2026/9/15 15:16,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T_MIN
+53,NotShown,dyuan101,NotShown,2026/9/15 15:16,National Station+AWS Station,年 Data,多站点,2010至2025,16年,R_SUM
+54,NotShown,dyuan101,NotShown,2026/9/15 15:12,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,T_MIN
+55,NotShown,cz001,NotShown,2026/9/15 15:11,National Station+AWS Station,日 Data,多站点,2003-01-01至2003-12-31,365日,FZS
+56,NotShown,cz001,NotShown,2026/9/15 15:11,National Station+AWS Station,日 Data,多站点,2004-01-01至2004-12-31,366日,FZS
+57,NotShown,cz001,NotShown,2026/9/15 15:11,National Station+AWS Station,日 Data,多站点,2005-01-01至2005-12-31,365日,FZS
+58,NotShown,cz001,NotShown,2026/9/15 15:10,National Station+AWS Station,日 Data,多站点,2006-01-01至2006-12-31,365日,FZS
+59,NotShown,dyuan101,NotShown,2026/9/15 15:09,National Station+AWS Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T_MIN
+60,NotShown,cz001,NotShown,2026/9/15 15:09,National Station+AWS Station,日 Data,多站点,2007-01-01至2007-12-31,365日,FZS
+61,NotShown,cz001,NotShown,2026/9/15 15:08,National Station+AWS Station,日 Data,多站点,2008-01-01至2008-12-31,366日,FZS
+62,NotShown,xwen101,NotShown,2026/9/15 15:06,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,FZS
+63,NotShown,xwen101,NotShown,2026/9/15 15:05,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,FZS
+64,NotShown,xwen101,NotShown,2026/9/15 15:05,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,FZS
+65,NotShown,cz001,NotShown,2026/9/15 15:04,National Station+AWS Station,日 Data,多站点,2009-01-01至2009-12-31,365日,FZS
+66,NotShown,xwen101,NotShown,2026/9/15 15:04,National Station+AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,FZS
+67,NotShown,cz001,NotShown,2026/9/15 15:04,National Station+AWS Station,日 Data,多站点,2010-01-01至2010-12-31,365日,FZS
+68,NotShown,xwen101,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,FZS
+69,NotShown,xwen101,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,FZS
+70,NotShown,cz001,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,FZS
+71,NotShown,xwen101,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,FZS
+72,NotShown,xwen101,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,FZS
+73,NotShown,xwen101,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,FZS
+74,NotShown,cz001,NotShown,2026/9/15 15:03,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,FZS
+75,NotShown,xwen101,NotShown,2026/9/15 15:02,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,FZS
+76,NotShown,xwen101,NotShown,2026/9/15 15:02,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,FZS
+77,NotShown,xwen101,NotShown,2026/9/15 15:02,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,FZS
+78,NotShown,xwen101,NotShown,2026/9/15 15:01,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,FZS
+79,NotShown,xwen101,NotShown,2026/9/15 15:01,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,FZS
+80,NotShown,cz001,NotShown,2026/9/15 15:00,National Station+AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,FZS
+81,NotShown,cz001,NotShown,2026/9/15 15:00,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,FZS
+82,NotShown,cz001,NotShown,2026/9/15 14:59,National Station+AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,FZS
+83,NotShown,xwen101,NotShown,2026/9/15 14:59,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,FZS
+84,NotShown,cz001,NotShown,2026/9/15 14:59,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,FZS
+85,NotShown,xwen101,NotShown,2026/9/15 14:58,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,FZS
+86,NotShown,cz001,NotShown,2026/9/15 14:58,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,FZS
+87,NotShown,cz001,NotShown,2026/9/15 14:58,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,FZS
+88,NotShown,cz001,NotShown,2026/9/15 14:57,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,FZS
+89,NotShown,cz001,NotShown,2026/9/15 14:57,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,FZS
+90,NotShown,cz001,NotShown,2026/9/15 14:57,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,FZS
+91,NotShown,cz001,NotShown,2026/9/15 14:56,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,FZS
+92,NotShown,cz001,NotShown,2026/9/15 14:56,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,FZS
+93,NotShown,cz001,NotShown,2026/9/15 14:56,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,FZS
+94,NotShown,gming101,NotShown,2026/9/15 14:55,AWS Station,月 Data,多站点,2026-01至2026-09,9月,R08_SUM
+95,NotShown,cz001,NotShown,2026/9/15 14:55,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,FJS
+96,NotShown,cz001,NotShown,2026/9/15 14:54,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,FJS
+97,NotShown,cz001,NotShown,2026/9/15 14:54,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,FZS
+98,NotShown,cz001,NotShown,2026/9/15 14:50,National Station+AWS Station,日 Data,多站点,2026-01-01至2026-08-31,243日,FZS
+99,NotShown,hurj,NotShown,2026/9/15 11:44,National Station,时条件查询 Data,广东,2001-01-01至2001-12-31,365日,MULTI
+100,NotShown,hurj,NotShown,2026/9/15 11:44,National Station,时条件查询 Data,广东,2002-01-01至2002-12-31,365日,MULTI
+101,NotShown,wchuan101,NotShown,2026/9/15 11:42,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+102,NotShown,wchuan101,NotShown,2026/9/15 11:42,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+103,NotShown,wchuan101,NotShown,2026/9/15 11:42,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+104,NotShown,wchuan101,NotShown,2026/9/15 11:42,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+105,NotShown,dyuan101,NotShown,2026/9/15 11:41,National Station+AWS Station,月 Data,多站点,2021-11至2026-03,53月,TN_5DAYS
+106,NotShown,wchuan101,NotShown,2026/9/15 11:41,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+107,NotShown,wchuan101,NotShown,2026/9/15 11:41,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+108,NotShown,wchuan101,NotShown,2026/9/15 11:41,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+109,NotShown,wchuan101,NotShown,2026/9/15 11:41,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+110,NotShown,wchuan101,NotShown,2026/9/15 11:40,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R
+111,NotShown,wchuan101,NotShown,2026/9/15 11:40,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+112,NotShown,wchuan101,NotShown,2026/9/15 11:40,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R
+113,NotShown,wchuan101,NotShown,2026/9/15 11:39,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R
+114,NotShown,wchuan101,NotShown,2026/9/15 11:39,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R
+115,NotShown,hurj,NotShown,2026/9/15 11:39,National Station,时条件查询 Data,广东,2003-01-01至2003-12-31,365日,MULTI
+116,NotShown,wchuan101,NotShown,2026/9/15 11:39,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R
+117,NotShown,wchuan101,NotShown,2026/9/15 11:39,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,R
+118,NotShown,wchuan101,NotShown,2026/9/15 11:38,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,R
+119,NotShown,wchuan101,NotShown,2026/9/15 11:38,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,R
+120,NotShown,wchuan101,NotShown,2026/9/15 11:38,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,R
+121,NotShown,wchuan101,NotShown,2026/9/15 11:38,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,R
+122,NotShown,wchuan101,NotShown,2026/9/15 11:37,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,R
+123,NotShown,wchuan101,NotShown,2026/9/15 11:37,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,R
+124,NotShown,wchuan101,NotShown,2026/9/15 11:37,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,R
+125,NotShown,wchuan101,NotShown,2026/9/15 11:37,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,R
+126,NotShown,wchuan101,NotShown,2026/9/15 11:35,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,R
+127,NotShown,dyuan101,NotShown,2026/9/15 11:35,National Station+AWS Station,月 Data,多站点,2010-01至2026-08,200月,TA_AVE
+128,NotShown,wchuan101,NotShown,2026/9/15 11:35,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,R
+129,NotShown,wchuan101,NotShown,2026/9/15 11:35,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,R
+130,NotShown,wchuan101,NotShown,2026/9/15 11:34,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,R
+131,NotShown,wchuan101,NotShown,2026/9/15 11:34,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,R
+132,NotShown,wchuan101,NotShown,2026/9/15 11:34,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,R
+133,NotShown,wchuan101,NotShown,2026/9/15 11:34,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,R
+134,NotShown,wchuan101,NotShown,2026/9/15 11:33,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,R
+135,NotShown,wchuan101,NotShown,2026/9/15 11:33,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,R
+136,NotShown,wchuan101,NotShown,2026/9/15 11:33,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,R
+137,NotShown,wchuan101,NotShown,2026/9/15 11:33,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,R
+138,NotShown,wchuan101,NotShown,2026/9/15 11:32,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,R
+139,NotShown,wchuan101,NotShown,2026/9/15 11:32,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,R
+140,NotShown,wchuan101,NotShown,2026/9/15 11:32,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,R
+141,NotShown,wchuan101,NotShown,2026/9/15 11:31,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,R
+142,NotShown,wchuan101,NotShown,2026/9/15 11:31,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,R
+143,NotShown,wchuan101,NotShown,2026/9/15 11:31,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,R
+144,NotShown,wchuan101,NotShown,2026/9/15 11:31,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,R
+145,NotShown,wchuan101,NotShown,2026/9/15 11:31,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,R
+146,NotShown,wchuan101,NotShown,2026/9/15 11:30,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,R
+147,NotShown,wchuan101,NotShown,2026/9/15 11:30,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,R
+148,NotShown,wchuan101,NotShown,2026/9/15 11:30,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,R
+149,NotShown,dyuan101,NotShown,2026/9/15 11:23,National Station+AWS Station,日 Data,多站点,2005-01-01至2005-12-31,365日,R08
+150,NotShown,dyuan101,NotShown,2026/9/15 11:23,National Station+AWS Station,日 Data,多站点,2006-01-01至2006-12-31,365日,R08
+151,NotShown,dyuan101,NotShown,2026/9/15 11:23,National Station+AWS Station,日 Data,多站点,2007-01-01至2007-12-31,365日,R08
+152,NotShown,dyuan101,NotShown,2026/9/15 11:22,National Station+AWS Station,日 Data,多站点,2008-01-01至2008-12-31,366日,R08
+153,NotShown,hurj,NotShown,2026/9/15 11:20,National Station,时条件查询 Data,广东,2004-01-01至2004-12-31,366日,MULTI
+154,NotShown,hurj,NotShown,2026/9/15 11:20,National Station,时条件查询 Data,广东,2005-01-01至2005-12-31,365日,MULTI
+155,NotShown,cz001,NotShown,2026/9/15 11:19,National Station+AWS Station,逐年时段 Data,潮州,1993至2023,31年,R
+156,NotShown,cz001,NotShown,2026/9/15 11:19,National Station+AWS Station,逐年时段 Data,潮州,1993至2023,31年,T
+157,NotShown,dyuan101,NotShown,2026/9/15 11:16,National Station+AWS Station,日 Data,多站点,2008-01-01至2008-12-31,366日,R
+158,NotShown,dyuan101,NotShown,2026/9/15 11:15,National Station+AWS Station,日 Data,多站点,2007-01-01至2007-12-31,365日,R
+159,NotShown,dyuan101,NotShown,2026/9/15 11:15,National Station+AWS Station,日 Data,多站点,2006-01-01至2006-12-31,365日,R
+160,NotShown,dyuan101,NotShown,2026/9/15 11:15,National Station+AWS Station,日 Data,多站点,2005-01-01至2005-12-31,365日,R
+161,NotShown,cyang101,NotShown,2026/9/15 11:15,National Station+AWS Station,时 Data,多站点,2026-08-13至2026-08-31,19日,R
+162,NotShown,hurj,NotShown,2026/9/15 11:06,National Station,时条件查询 Data,广东,2006-01-01至2006-12-31,365日,MULTI
+163,NotShown,hping101,NotShown,2026/9/15 11:00,National Station,时 Data,多站点,2025-01-31至2025-02-28,29日,P
+164,NotShown,lping101,NotShown,2026/9/15 10:55,National Station,日 Data,多站点,2026-01-01至2026-09-14,257日,R
+165,NotShown,liuw,NotShown,2026/9/15 10:55,National Station,Conditional - Daily Data,广东,2025-01-01至2025-12-31,365日,MULTI
+166,NotShown,liuw,NotShown,2026/9/15 10:54,National Station,逐年时段 Data,广东,1997至2026,30年,T
+167,NotShown,liuw,NotShown,2026/9/15 10:53,National Station,年 Data,广东,1997至2026,30年,TA_AVE
+168,NotShown,liuw,NotShown,2026/9/15 10:52,National Station,季 Data,广东,2024至2026,3年,TA_AVE
+169,NotShown,liuw,NotShown,2026/9/15 10:52,National Station,月 Data,广东,2025-09至2026-08,12月,TA_AVE
+170,NotShown,dyuan101,NotShown,2026/9/15 10:50,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R08
+171,NotShown,dyuan101,NotShown,2026/9/15 10:49,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R08
+172,NotShown,dyuan101,NotShown,2026/9/15 10:49,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R08
+173,NotShown,dyuan101,NotShown,2026/9/15 10:49,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R08
+174,NotShown,dyuan101,NotShown,2026/9/15 10:49,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R08
+175,NotShown,dyuan101,NotShown,2026/9/15 10:49,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R08
+176,NotShown,dyuan101,NotShown,2026/9/15 10:48,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R08
+177,NotShown,dyuan101,NotShown,2026/9/15 10:48,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R08
+178,NotShown,dyuan101,NotShown,2026/9/15 10:48,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R08
+179,NotShown,dyuan101,NotShown,2026/9/15 10:48,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R08
+180,NotShown,dyuan101,NotShown,2026/9/15 10:47,National Station+AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R08
+181,NotShown,dyuan101,NotShown,2026/9/15 10:47,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R08
+182,NotShown,dyuan101,NotShown,2026/9/15 10:47,National Station+AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R08
+183,NotShown,hurj,NotShown,2026/9/15 10:47,National Station,时条件查询 Data,广东,2007-01-01至2007-12-31,365日,MULTI
+184,NotShown,dyuan101,NotShown,2026/9/15 10:47,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R08
+185,NotShown,dyuan101,NotShown,2026/9/15 10:46,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,R08
+186,NotShown,dyuan101,NotShown,2026/9/15 10:46,National Station+AWS Station,日 Data,多站点,2010-01-01至2010-12-31,365日,R08
+187,NotShown,dyuan101,NotShown,2026/9/15 10:46,National Station+AWS Station,日 Data,多站点,2009-01-01至2009-12-31,365日,R08
+188,NotShown,hurj,NotShown,2026/9/15 10:42,National Station,时条件查询 Data,广东,2008-01-01至2008-12-31,366日,MULTI
+189,NotShown,hurj,NotShown,2026/9/15 10:39,National Station,时条件查询 Data,广东,2009-01-01至2009-12-31,365日,MULTI
+190,NotShown,hurj,NotShown,2026/9/15 10:36,National Station,时条件查询 Data,广东,2010-01-01至2010-12-31,365日,MULTI
+191,NotShown,hurj,NotShown,2026/9/15 10:34,National Station,时条件查询 Data,广东,2011-01-01至2011-12-31,365日,MULTI
+192,NotShown,hurj,NotShown,2026/9/15 10:32,National Station,时条件查询 Data,广东,2012-01-01至2012-12-31,366日,MULTI
+193,NotShown,hurj,NotShown,2026/9/15 10:30,National Station,时条件查询 Data,广东,2013-01-01至2013-12-31,365日,MULTI
+194,NotShown,hping101,NotShown,2026/9/15 10:29,National Station,时 Data,多站点,2019-10-31至2019-11-30,31日,R
+195,NotShown,hurj,NotShown,2026/9/15 10:27,National Station,时条件查询 Data,广东,2014-01-01至2014-12-31,365日,MULTI
+196,NotShown,hurj,NotShown,2026/9/15 10:27,National Station,时条件查询 Data,广东,2015-01-01至2015-12-31,365日,MULTI
+197,NotShown,hurj,NotShown,2026/9/15 10:25,National Station,时条件查询 Data,广东,2016-01-01至2016-12-31,366日,MULTI
+198,NotShown,hurj,NotShown,2026/9/15 10:25,National Station,时条件查询 Data,广东,2017-01-01至2017-12-31,365日,MULTI
+199,NotShown,hurj,NotShown,2026/9/15 10:24,National Station,时条件查询 Data,广东,2018-01-01至2018-12-31,365日,MULTI
+200,NotShown,hurj,NotShown,2026/9/15 10:23,National Station,时条件查询 Data,广东,2019-01-01至2019-12-31,365日,MULTI
+201,NotShown,hurj,NotShown,2026/9/15 10:22,National Station,时条件查询 Data,广东,2020-01-01至2020-12-31,366日,MULTI
+202,NotShown,hurj,NotShown,2026/9/15 10:20,National Station,时条件查询 Data,广东,2021-01-01至2021-12-31,365日,MULTI
+203,NotShown,hurj,NotShown,2026/9/15 10:19,National Station,时条件查询 Data,广东,2022-01-01至2022-12-31,365日,MULTI
+204,NotShown,hurj,NotShown,2026/9/15 10:18,National Station,时条件查询 Data,广东,2023-01-01至2023-12-31,365日,MULTI
+205,NotShown,dyuan101,NotShown,2026/9/15 10:17,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+206,NotShown,dyuan101,NotShown,2026/9/15 10:17,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+207,NotShown,dyuan101,NotShown,2026/9/15 10:16,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+208,NotShown,dyuan101,NotShown,2026/9/15 10:16,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+209,NotShown,dyuan101,NotShown,2026/9/15 10:16,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+210,NotShown,dyuan101,NotShown,2026/9/15 10:16,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+211,NotShown,xyi101,NotShown,2026/9/15 10:15,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+212,NotShown,dyuan101,NotShown,2026/9/15 10:15,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+213,NotShown,xyi101,NotShown,2026/9/15 10:15,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+214,NotShown,dyuan101,NotShown,2026/9/15 10:15,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+215,NotShown,dyuan101,NotShown,2026/9/15 10:15,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R
+216,NotShown,hurj,NotShown,2026/9/15 10:15,National Station,时条件查询 Data,广东,2024-01-01至2024-12-31,366日,MULTI
+217,NotShown,xyi101,NotShown,2026/9/15 10:15,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+218,NotShown,dyuan101,NotShown,2026/9/15 10:14,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+219,NotShown,xyi101,NotShown,2026/9/15 10:14,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+220,NotShown,dyuan101,NotShown,2026/9/15 10:14,National Station+AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R
+221,NotShown,hurj,NotShown,2026/9/15 10:14,National Station,时条件查询 Data,广东,2025-01-01至2025-12-31,365日,MULTI
+222,NotShown,dyuan101,NotShown,2026/9/15 10:14,National Station+AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R
+223,NotShown,xyi101,NotShown,2026/9/15 10:14,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+224,NotShown,dyuan101,NotShown,2026/9/15 10:14,National Station+AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R
+225,NotShown,dyuan101,NotShown,2026/9/15 10:13,National Station+AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R
+226,NotShown,xyi101,NotShown,2026/9/15 10:13,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+227,NotShown,dyuan101,NotShown,2026/9/15 10:13,National Station+AWS Station,日 Data,多站点,2011-01-01至2011-12-31,365日,R
+228,NotShown,dyuan101,NotShown,2026/9/15 10:13,National Station+AWS Station,日 Data,多站点,2010-01-01至2010-12-31,365日,R
+229,NotShown,dyuan101,NotShown,2026/9/15 10:13,National Station+AWS Station,日 Data,多站点,2009-01-01至2009-12-31,365日,R
+230,NotShown,xyi101,NotShown,2026/9/15 10:11,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+231,NotShown,xyi101,NotShown,2026/9/15 10:11,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+232,NotShown,xyi101,NotShown,2026/9/15 10:11,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R
+233,NotShown,xyi101,NotShown,2026/9/15 10:10,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+234,NotShown,hurj,NotShown,2026/9/15 10:04,National Station,时条件查询 Data,广东,2000-01-01至2000-12-31,366日,MULTI
+235,NotShown,chenhw,NotShown,2026/9/15 9:40,National Station,月 Data,广东,2011-01至2026-08,188月,R08_SUM
+236,NotShown,chenhw,NotShown,2026/9/15 9:40,National Station,月 Data,广东,2011-01至2026-08,188月,R_SUM
+237,NotShown,chenhw,NotShown,2026/9/15 9:40,National Station,月 Data,广东,2011-01至2026-08,188月,TA_AVE
+238,NotShown,hlai101,NotShown,2026/9/15 9:34,National Station+AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州,2026-01-01至2026-09-14,257日,R
+239,NotShown,qy001,NotShown,2026/9/15 9:34,National Station+AWS Station,日 Data,多站点,2026-02-01至2026-09-14,226日,R
+240,NotShown,qxin101,NotShown,2026/9/15 9:24,AWS Station,日 Data,多站点,2026-01-01至2026-09-14,257日,T
+241,NotShown,qxin101,NotShown,2026/9/15 9:24,AWS Station,日 Data,多站点,2026-01-01至2026-09-14,257日,R
+242,NotShown,chenhw,NotShown,2026/9/15 9:20,National Station,月 Data,广东,2011-01至2011-12,12月,TA_AVE
+243,NotShown,xuyh,NotShown,2026/9/14 17:09,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,L_B
+244,NotShown,xuyh,NotShown,2026/9/14 17:09,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,L_B
+245,NotShown,xuyh,NotShown,2026/9/14 17:08,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,U
+246,NotShown,xuyh,NotShown,2026/9/14 17:08,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,FZS
+247,NotShown,sshui101,NotShown,2026/9/14 17:06,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-07-01至2026-06-30,365日,T_MAX
+248,NotShown,sshui101,NotShown,2026/9/14 17:06,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2024-07-01至2025-06-30,365日,T_MAX
+249,NotShown,qy001,NotShown,2026/9/14 17:00,AWS Station,日 Data,多站点,2026-02-01至2026-09-13,225日,R
+250,NotShown,xuyh,NotShown,2026/9/14 16:50,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,FZS
+251,NotShown,xuyh,NotShown,2026/9/14 16:49,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,U
+252,NotShown,hdong101,NotShown,2026/9/14 16:46,AWS Station,月 Data,多站点,2006-01至2025-12,240月,F10S_MAX
+253,NotShown,xuyh,NotShown,2026/9/14 16:41,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,S
+254,NotShown,xuyh,NotShown,2026/9/14 16:36,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,FZS
+255,NotShown,xuyh,NotShown,2026/9/14 16:35,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,U
+256,NotShown,xuyh,NotShown,2026/9/14 16:33,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,U
+257,NotShown,xuyh,NotShown,2026/9/14 16:32,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,FZS
+258,NotShown,xuyh,NotShown,2026/9/14 16:32,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,F2S
+259,NotShown,xuyh,NotShown,2026/9/14 16:31,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,R08
+260,NotShown,xuyh,NotShown,2026/9/14 16:31,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,R
+261,NotShown,xuyh,NotShown,2026/9/14 16:30,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,U
+262,NotShown,xuyh,NotShown,2026/9/14 16:29,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,T_MIN
+263,NotShown,qy001,NotShown,2026/9/14 16:29,AWS Station,日 Data,多站点,2026-02-01至2026-09-13,225日,R
+264,NotShown,xuyh,NotShown,2026/9/14 16:29,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,T_MAX
+265,NotShown,xuyh,NotShown,2026/9/14 16:29,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,T
+266,NotShown,xuyh,NotShown,2026/9/14 16:27,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,P
+267,NotShown,hdong101,NotShown,2026/9/14 16:04,AWS Station,月 Data,多站点,2005-01至2025-12,252月,TA_AVE
+268,NotShown,qy001,NotShown,2026/9/14 15:55,National Station+AWS Station,年 Data,清远,2016至2025,10年,R_SUM
+269,NotShown,qy001,NotShown,2026/9/14 15:53,National Station+AWS Station,时条件查询 Data,清远,2016-01-01至2016-12-31,366日,MULTI
+270,NotShown,qy001,NotShown,2026/9/14 15:49,National Station+AWS Station,时条件查询 Data,清远,2017-01-01至2017-12-31,365日,MULTI
+271,NotShown,qy001,NotShown,2026/9/14 15:45,National Station+AWS Station,时条件查询 Data,清远,2018-01-01至2018-12-31,365日,MULTI
+272,NotShown,qy001,NotShown,2026/9/14 15:40,National Station+AWS Station,时条件查询 Data,清远,2019-01-01至2019-12-31,365日,MULTI
+273,NotShown,hping101,NotShown,2026/9/14 15:36,National Station,时 Data,多站点,2014-10-02至2014-10-31,30日,R
+274,NotShown,xuyh,NotShown,2026/9/14 15:36,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,P
+275,NotShown,xuyh,NotShown,2026/9/14 15:32,National Station,日 Data,广东,2021-01-01至2021-12-31,365日,S
+276,NotShown,xuyh,NotShown,2026/9/14 15:31,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,F2S
+277,NotShown,xuyh,NotShown,2026/9/14 15:30,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,R08
+278,NotShown,xuyh,NotShown,2026/9/14 15:29,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,R
+279,NotShown,xuyh,NotShown,2026/9/14 15:29,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,R
+280,NotShown,xuyh,NotShown,2026/9/14 15:28,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,T_MIN
+281,NotShown,xuyh,NotShown,2026/9/14 15:27,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,T_MAX
+282,NotShown,xuyh,NotShown,2026/9/14 15:27,National Station,日 Data,广东,2020-01-01至2020-12-31,366日,T
+283,NotShown,qy001,NotShown,2026/9/14 15:27,National Station+AWS Station,时条件查询 Data,清远,2020-01-01至2020-12-31,366日,MULTI
+284,NotShown,qy001,NotShown,2026/9/14 15:13,National Station+AWS Station,时条件查询 Data,清远,2021-01-01至2021-12-31,365日,MULTI
+285,NotShown,qy001,NotShown,2026/9/14 15:05,National Station+AWS Station,时条件查询 Data,清远,2023-01-01至2023-12-31,365日,MULTI
+286,NotShown,qy001,NotShown,2026/9/14 14:58,National Station+AWS Station,时条件查询 Data,清远,2024-01-01至2024-12-31,366日,MULTI
+287,NotShown,qy001,NotShown,2026/9/14 14:53,National Station+AWS Station,时条件查询 Data,清远,2025-01-01至2025-12-31,365日,MULTI
+288,NotShown,qy001,NotShown,2026/9/14 14:52,National Station+AWS Station,时条件查询 Data,清远,2022-01-01至2022-12-31,365日,MULTI
+289,NotShown,yj001,NotShown,2026/9/14 14:42,National Station+AWS Station,日 Data,阳江,2026-01-01至2026-08-31,243日,R
+290,NotShown,qy001,NotShown,2026/9/14 11:07,National Station+AWS Station,时 Data,清远,2023-01-01至2023-01-31,31日,R
+291,NotShown,lhe101,NotShown,2026/9/14 10:33,AWS Station,逐年时段 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2010至2026,17年,
+292,NotShown,lhe101,NotShown,2026/9/14 10:32,AWS Station,逐年时段 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2010至2026,17年,
+293,NotShown,lhe101,NotShown,2026/9/14 10:32,AWS Station,逐年时段 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2010至2026,17年,
+294,NotShown,mm001,NotShown,2026/9/14 10:15,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+295,NotShown,mm001,NotShown,2026/9/14 10:04,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+296,NotShown,mm001,NotShown,2026/9/14 10:04,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+297,NotShown,mm001,NotShown,2026/9/14 10:03,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+298,NotShown,mm001,NotShown,2026/9/14 10:02,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+299,NotShown,mm001,NotShown,2026/9/14 10:01,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+300,NotShown,mm001,NotShown,2026/9/14 10:00,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+301,NotShown,mm001,NotShown,2026/9/14 9:59,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+302,NotShown,mm001,NotShown,2026/9/14 9:58,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+303,NotShown,cyang101,NotShown,2026/9/11 20:33,National Station+AWS Station,日条件查询 Data,多站点,2026-01-01至2026-07-24,205日,MULTI
+304,NotShown,cyang101,NotShown,2026/9/11 20:30,National Station+AWS Station,日条件查询 Data,多站点,2026-01-01至2026-07-24,205日,MULTI
+305,NotShown,cyang101,NotShown,2026/9/11 20:30,National Station+AWS Station,日条件查询 Data,多站点,2025-05-14至2025-12-31,232日,MULTI
+306,NotShown,byun101,NotShown,2026/9/11 14:49,AWS Station,日 Data,多站点,2024-05-02至2025-04-30,364日,R
+307,NotShown,byun101,NotShown,2026/9/11 14:48,AWS Station,日 Data,多站点,2023-05-02至2024-05-01,366日,R
+308,NotShown,byun101,NotShown,2026/9/11 14:48,AWS Station,日 Data,多站点,2022-05-01至2023-05-01,366日,R
+309,NotShown,byun101,NotShown,2026/9/11 14:47,AWS Station,日 Data,多站点,2021-05-01至2022-05-01,366日,R
+310,NotShown,hlai101,NotShown,2026/9/11 13:16,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TN_MIN
+311,NotShown,hlai101,NotShown,2026/9/11 13:16,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TN_MIN
+312,NotShown,hlai101,NotShown,2026/9/11 13:15,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TN_MIN
+313,NotShown,hlai101,NotShown,2026/9/11 13:08,National Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TX_MAX
+314,NotShown,hlai101,NotShown,2026/9/11 13:08,National Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TX_MAX
+315,NotShown,hlai101,NotShown,2026/9/11 13:08,National Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TX_MAX
+316,NotShown,hlai101,NotShown,2026/9/11 13:04,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TX_MAX
+317,NotShown,hlai101,NotShown,2026/9/11 13:04,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TX_MAX
+318,NotShown,hlai101,NotShown,2026/9/11 13:04,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TX_MAX
+319,NotShown,hlai101,NotShown,2026/9/11 12:57,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,R_SUM
+320,NotShown,hlai101,NotShown,2026/9/11 12:57,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,R_SUM
+321,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,R_SUM
+322,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TN_MIN
+323,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TN_MIN
+324,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TN_MIN
+325,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TN_MIN
+326,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TX_MAX
+327,NotShown,hlai101,NotShown,2026/9/11 12:56,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TX_MAX
+328,NotShown,hlai101,NotShown,2026/9/11 12:55,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TX_MAX
+329,NotShown,hlai101,NotShown,2026/9/11 12:53,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01至2025-12,12月,TA_AVE
+330,NotShown,hlai101,NotShown,2026/9/11 12:52,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01至2024-12,12月,TA_AVE
+331,NotShown,hlai101,NotShown,2026/9/11 12:52,National Station+AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01至2023-12,12月,TA_AVE
+332,NotShown,hlai101,NotShown,2026/9/11 12:42,AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-09至2026-08,12月,R_SUM
+333,NotShown,hlai101,NotShown,2026/9/11 12:42,AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-09至2026-08,12月,TN_MIN
+334,NotShown,hlai101,NotShown,2026/9/11 12:42,AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-09至2026-08,12月,TX_MAX
+335,NotShown,hlai101,NotShown,2026/9/11 12:42,AWS Station,月 Data,汕尾;揭阳;汕头;潮州;梅州,2025-09至2026-08,12月,TA_AVE
+336,NotShown,lfeng101,NotShown,2026/9/11 11:29,National Station,逐年时段 Data,汕尾,1996至2025,30年,T
+337,NotShown,hyang101,NotShown,2026/9/11 11:28,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+338,NotShown,hyang101,NotShown,2026/9/11 11:26,AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+339,NotShown,hyang101,NotShown,2026/9/11 11:07,AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+340,NotShown,hyang101,NotShown,2026/9/11 11:06,AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+341,NotShown,mz001,NotShown,2026/9/11 10:12,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+342,NotShown,mz001,NotShown,2026/9/11 10:03,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+343,NotShown,mz001,NotShown,2026/9/11 10:03,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+344,NotShown,mz001,NotShown,2026/9/11 10:03,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+345,NotShown,mz001,NotShown,2026/9/11 10:02,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+346,NotShown,mz001,NotShown,2026/9/11 10:01,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+347,NotShown,mz001,NotShown,2026/9/11 10:01,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+348,NotShown,mz001,NotShown,2026/9/11 10:00,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+349,NotShown,mz001,NotShown,2026/9/11 10:00,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+350,NotShown,mz001,NotShown,2026/9/11 9:59,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+351,NotShown,mz001,NotShown,2026/9/11 9:57,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+352,NotShown,mz001,NotShown,2026/9/11 9:57,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2016至2025,10年,R
+353,NotShown,gming101,NotShown,2026/9/10 20:11,AWS Station,月 Data,多站点,2015-10至2016-03,6月,R08_SUM
+354,NotShown,wyuan101,NotShown,2026/9/10 17:34,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2025-01-01至2025-12-31,365日,R
+355,NotShown,wyuan101,NotShown,2026/9/10 17:34,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2024-01-01至2024-12-31,366日,R
+356,NotShown,wyuan101,NotShown,2026/9/10 17:33,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2023-01-01至2023-12-31,365日,R
+357,NotShown,wyuan101,NotShown,2026/9/10 17:33,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2022-01-01至2022-12-31,365日,R
+358,NotShown,wyuan101,NotShown,2026/9/10 17:33,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2021-01-01至2021-12-31,365日,R
+359,NotShown,wyuan101,NotShown,2026/9/10 17:33,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1977-01-01至1977-12-31,365日,R
+360,NotShown,wyuan101,NotShown,2026/9/10 17:32,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1976-01-01至1976-12-31,366日,R
+361,NotShown,wyuan101,NotShown,2026/9/10 17:32,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1975-01-01至1975-12-31,365日,R
+362,NotShown,sde101,NotShown,2026/9/10 17:32,AWS Station,日 Data,多站点,2025-05-14至2026-05-13,365日,T_MAX
+363,NotShown,wyuan101,NotShown,2026/9/10 17:31,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1974-01-01至1974-12-31,365日,R
+364,NotShown,wyuan101,NotShown,2026/9/10 17:31,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1973-01-01至1973-12-31,365日,R
+365,NotShown,wyuan101,NotShown,2026/9/10 17:31,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1972-01-01至1972-12-31,366日,R
+366,NotShown,wyuan101,NotShown,2026/9/10 17:31,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1971-01-01至1971-12-31,365日,R
+367,NotShown,wyuan101,NotShown,2026/9/10 17:30,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1969-01-01至1969-12-31,365日,R
+368,NotShown,wyuan101,NotShown,2026/9/10 17:30,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1970-01-01至1970-12-31,365日,R
+369,NotShown,wyuan101,NotShown,2026/9/10 17:28,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1968-01-01至1968-12-31,366日,R
+370,NotShown,wyuan101,NotShown,2026/9/10 17:28,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1967-01-01至1967-12-31,365日,R
+371,NotShown,wyuan101,NotShown,2026/9/10 17:28,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1966-01-01至1966-12-31,365日,R
+372,NotShown,wyuan101,NotShown,2026/9/10 17:27,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1965-01-01至1965-12-31,365日,R
+373,NotShown,wyuan101,NotShown,2026/9/10 17:27,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1964-01-01至1964-12-31,366日,R
+374,NotShown,wyuan101,NotShown,2026/9/10 17:27,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1963-01-01至1963-12-31,365日,R
+375,NotShown,wyuan101,NotShown,2026/9/10 17:26,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1962-01-01至1962-12-31,365日,R
+376,NotShown,wyuan101,NotShown,2026/9/10 17:26,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1961-01-01至1961-12-31,365日,R
+377,NotShown,xyi101,NotShown,2026/9/10 17:26,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+378,NotShown,xyi101,NotShown,2026/9/10 17:25,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MAX
+379,NotShown,xyi101,NotShown,2026/9/10 17:25,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+380,NotShown,wyuan101,NotShown,2026/9/10 17:25,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,1960-01-01至1960-12-31,366日,R
+381,NotShown,xyi101,NotShown,2026/9/10 17:25,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+382,NotShown,xyi101,NotShown,2026/9/10 17:24,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+383,NotShown,xyi101,NotShown,2026/9/10 17:24,AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+384,NotShown,xyi101,NotShown,2026/9/10 17:23,AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MIN
+385,NotShown,xyi101,NotShown,2026/9/10 17:23,AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MAX
+386,NotShown,xyi101,NotShown,2026/9/10 17:22,AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T
+387,NotShown,xyi101,NotShown,2026/9/10 17:22,AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+388,NotShown,st001,NotShown,2026/9/10 17:22,National Station,月 Data,汕尾;揭阳;汕头;潮州,2011-01至2012-12,24月,
+389,NotShown,st001,NotShown,2026/9/10 17:22,National Station,月 Data,汕尾;揭阳;汕头;潮州,2010-01至2010-12,12月,
+390,NotShown,xyi101,NotShown,2026/9/10 17:22,AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+391,NotShown,xyi101,NotShown,2026/9/10 17:21,AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MAX
+392,NotShown,xyi101,NotShown,2026/9/10 17:21,AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T
+393,NotShown,xyi101,NotShown,2026/9/10 17:21,AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MIN
+394,NotShown,xyi101,NotShown,2026/9/10 17:20,AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MIN
+395,NotShown,xyi101,NotShown,2026/9/10 17:20,AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MAX
+396,NotShown,st001,NotShown,2026/9/10 17:20,National Station,月 Data,汕尾;揭阳;汕头;潮州,2011-01至2012-12,24月,
+397,NotShown,xyi101,NotShown,2026/9/10 17:20,AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T
+398,NotShown,st001,NotShown,2026/9/10 17:20,National Station,月 Data,汕尾;揭阳;汕头;潮州,2010-01至2010-12,12月,
+399,NotShown,xyi101,NotShown,2026/9/10 17:20,AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T
+400,NotShown,st001,NotShown,2026/9/10 17:19,National Station,月 Data,汕尾;揭阳;汕头;潮州,2010-01至2010-12,12月,
+401,NotShown,xyi101,NotShown,2026/9/10 17:19,AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+402,NotShown,st001,NotShown,2026/9/10 17:19,National Station,月 Data,汕尾;揭阳;汕头;潮州,2011-01至2012-12,24月,
+403,NotShown,xyi101,NotShown,2026/9/10 17:19,AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MIN
+404,NotShown,xyi101,NotShown,2026/9/10 17:18,AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MAX
+405,NotShown,xyi101,NotShown,2026/9/10 17:18,AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T
+406,NotShown,xyi101,NotShown,2026/9/10 17:17,AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MIN
+407,NotShown,xyi101,NotShown,2026/9/10 17:17,AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MAX
+408,NotShown,xyi101,NotShown,2026/9/10 17:17,AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T
+409,NotShown,xyi101,NotShown,2026/9/10 17:16,AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+410,NotShown,xyi101,NotShown,2026/9/10 17:16,AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+411,NotShown,xyi101,NotShown,2026/9/10 17:16,AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MIN
+412,NotShown,xyi101,NotShown,2026/9/10 17:15,AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MAX
+413,NotShown,xyi101,NotShown,2026/9/10 17:15,AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T
+414,NotShown,xyi101,NotShown,2026/9/10 17:14,AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MIN
+415,NotShown,xyi101,NotShown,2026/9/10 17:14,AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MAX
+416,NotShown,xyi101,NotShown,2026/9/10 17:13,AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T
+417,NotShown,xyi101,NotShown,2026/9/10 17:13,AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+418,NotShown,xyi101,NotShown,2026/9/10 17:12,AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MIN
+419,NotShown,xyi101,NotShown,2026/9/10 17:12,AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MAX
+420,NotShown,xyi101,NotShown,2026/9/10 17:11,AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T
+421,NotShown,xyi101,NotShown,2026/9/10 17:11,AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T
+422,NotShown,xyi101,NotShown,2026/9/10 17:10,AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+423,NotShown,xyi101,NotShown,2026/9/10 17:10,AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MIN
+424,NotShown,xyi101,NotShown,2026/9/10 17:10,AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MAX
+425,NotShown,xyi101,NotShown,2026/9/10 17:09,AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T
+426,NotShown,xyi101,NotShown,2026/9/10 17:09,AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T_MIN
+427,NotShown,xyi101,NotShown,2026/9/10 17:08,AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T_MAX
+428,NotShown,xyi101,NotShown,2026/9/10 17:08,AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T
+429,NotShown,xyi101,NotShown,2026/9/10 17:08,AWS Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R
+430,NotShown,xyi101,NotShown,2026/9/10 17:07,AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R
+431,NotShown,xyi101,NotShown,2026/9/10 17:07,AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T_MIN
+432,NotShown,xyi101,NotShown,2026/9/10 17:06,AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T_MAX
+433,NotShown,xyi101,NotShown,2026/9/10 17:06,AWS Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T
+434,NotShown,xyi101,NotShown,2026/9/10 17:05,AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R
+435,NotShown,xyi101,NotShown,2026/9/10 17:05,AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T_MIN
+436,NotShown,xyi101,NotShown,2026/9/10 17:04,AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T_MAX
+437,NotShown,xyi101,NotShown,2026/9/10 17:04,AWS Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T
+438,NotShown,xyi101,NotShown,2026/9/10 17:03,AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R
+439,NotShown,xyi101,NotShown,2026/9/10 17:02,AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T_MIN
+440,NotShown,xyi101,NotShown,2026/9/10 17:02,AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T_MAX
+441,NotShown,xyi101,NotShown,2026/9/10 17:02,AWS Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T
+442,NotShown,yde101,NotShown,2026/9/10 17:01,National Station,年 Data,多站点,1991至2025,35年,S_SUM
+443,NotShown,yde101,NotShown,2026/9/10 17:01,National Station,年 Data,多站点,1991至2025,35年,R_SUM
+444,NotShown,yde101,NotShown,2026/9/10 17:01,National Station,年 Data,多站点,1991至2025,35年,TA_AVE
+445,NotShown,dyuan101,NotShown,2026/9/10 16:46,National Station,月 Data,多站点,2005-01至2025-12,252月,TX_35DAYS
+446,NotShown,dyuan101,NotShown,2026/9/10 16:39,National Station,年 Data,多站点,2005至2025,21年,TX_35DAYS
+447,NotShown,st001,NotShown,2026/9/10 16:10,National Station+AWS Station,年 Data,汕尾;揭阳;汕头;潮州,2009至2025,17年,
+448,NotShown,lifz,NotShown,2026/9/10 15:32,National Station+AWS Station,时条件查询 Data,广州;韶关;清远;佛山;肇庆;珠海;中山;东莞;惠州;深圳;梅州;潮州;揭阳;汕尾;汕头;河源;阳江;江门;云浮;茂名;湛江,2025-01-01至2025-12-31,365日,
+449,NotShown,mz001,NotShown,2026/9/10 15:22,National Station+AWS Station,逐年时段 Data,清远;韶关;河源;梅州;潮州;揭阳;汕尾,2004至2026,23年,R
+450,NotShown,hy001,NotShown,2026/9/10 15:00,National Station,时条件查询 Data,多站点,2010-01-01至2010-12-31,365日,MULTI
+451,NotShown,hy001,NotShown,2026/9/10 15:00,National Station,时条件查询 Data,多站点,2011-01-01至2011-12-31,365日,MULTI
+452,NotShown,hy001,NotShown,2026/9/10 15:00,National Station,时条件查询 Data,多站点,2012-01-01至2012-12-31,366日,MULTI
+453,NotShown,hy001,NotShown,2026/9/10 14:59,National Station,时条件查询 Data,多站点,2013-01-01至2013-12-31,365日,MULTI
+454,NotShown,hy001,NotShown,2026/9/10 14:59,National Station,时条件查询 Data,多站点,2014-01-01至2014-12-31,365日,MULTI
+455,NotShown,lifz,NotShown,2026/9/10 14:58,National Station+AWS Station,时 Data,广州;韶关;清远;佛山;肇庆;珠海;中山;东莞;惠州;深圳;梅州;潮州;揭阳;汕尾;汕头;河源;阳江;江门;云浮;茂名;湛江,2024-04-01至2024-04-30,30日,
+456,NotShown,hy001,NotShown,2026/9/10 14:58,National Station,时条件查询 Data,多站点,2015-01-01至2015-12-31,365日,MULTI
+457,NotShown,hy001,NotShown,2026/9/10 14:57,National Station,时条件查询 Data,多站点,2016-01-01至2016-12-31,366日,MULTI
+458,NotShown,hy001,NotShown,2026/9/10 14:57,National Station,时条件查询 Data,多站点,2017-01-01至2017-12-31,365日,MULTI
+459,NotShown,hy001,NotShown,2026/9/10 14:56,National Station,时条件查询 Data,多站点,2018-01-01至2018-12-31,365日,MULTI
+460,NotShown,hy001,NotShown,2026/9/10 14:56,National Station,时条件查询 Data,多站点,2019-01-01至2019-12-31,365日,MULTI
+461,NotShown,hy001,NotShown,2026/9/10 14:55,National Station,时条件查询 Data,多站点,2020-01-01至2020-12-31,366日,MULTI
+462,NotShown,hy001,NotShown,2026/9/10 14:55,National Station,时条件查询 Data,多站点,2021-01-01至2021-12-31,365日,MULTI
+463,NotShown,hy001,NotShown,2026/9/10 14:54,National Station,时条件查询 Data,多站点,2022-01-01至2022-12-31,365日,MULTI
+464,NotShown,hy001,NotShown,2026/9/10 14:54,National Station,时条件查询 Data,多站点,2023-01-01至2023-12-31,365日,MULTI
+465,NotShown,hy001,NotShown,2026/9/10 14:54,National Station,时条件查询 Data,多站点,2024-01-01至2024-12-31,366日,MULTI
+466,NotShown,hy001,NotShown,2026/9/10 14:51,National Station,时条件查询 Data,多站点,2024-01-01至2024-12-31,366日,MULTI
+467,NotShown,hy001,NotShown,2026/9/10 14:51,National Station,时条件查询 Data,多站点,2023-01-01至2023-12-31,365日,MULTI
+468,NotShown,hy001,NotShown,2026/9/10 14:50,National Station,时条件查询 Data,多站点,2022-01-01至2022-12-31,365日,MULTI
+469,NotShown,hy001,NotShown,2026/9/10 14:50,National Station,时条件查询 Data,多站点,2021-01-01至2021-12-31,365日,MULTI
+470,NotShown,hy001,NotShown,2026/9/10 14:49,National Station,时条件查询 Data,多站点,2020-01-01至2020-12-31,366日,MULTI
+471,NotShown,hy001,NotShown,2026/9/10 14:48,National Station,时条件查询 Data,多站点,2019-01-01至2019-12-31,365日,MULTI
+472,NotShown,hy001,NotShown,2026/9/10 14:48,National Station,时条件查询 Data,多站点,2018-01-01至2018-12-31,365日,MULTI
+473,NotShown,hy001,NotShown,2026/9/10 14:46,National Station,时条件查询 Data,多站点,2017-01-01至2017-12-31,365日,MULTI
+474,NotShown,hy001,NotShown,2026/9/10 14:46,National Station,时条件查询 Data,多站点,2016-01-01至2016-12-31,366日,MULTI
+475,NotShown,hy001,NotShown,2026/9/10 14:45,National Station,时条件查询 Data,多站点,2015-01-01至2015-12-31,365日,MULTI
+476,NotShown,hy001,NotShown,2026/9/10 14:45,National Station,时条件查询 Data,多站点,2014-01-01至2014-12-31,365日,MULTI
+477,NotShown,hy001,NotShown,2026/9/10 14:44,National Station,时条件查询 Data,多站点,2013-01-01至2013-12-31,365日,MULTI
+478,NotShown,hy001,NotShown,2026/9/10 14:43,National Station,时条件查询 Data,多站点,2012-01-01至2012-12-31,366日,MULTI
+479,NotShown,hy001,NotShown,2026/9/10 14:43,National Station,时条件查询 Data,多站点,2011-01-01至2011-12-31,365日,MULTI
+480,NotShown,hy001,NotShown,2026/9/10 14:42,National Station,时条件查询 Data,多站点,2010-01-01至2010-12-31,365日,MULTI
+481,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2025-01至2025-12,12月,
+482,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2023-01至2024-12,24月,
+483,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2021-01至2022-12,24月,
+484,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2019-01至2020-12,24月,
+485,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2017-01至2018-12,24月,
+486,NotShown,st001,NotShown,2026/9/10 12:00,National Station,月 Data,汕尾;揭阳;汕头;潮州,2015-01至2016-12,24月,
+487,NotShown,st001,NotShown,2026/9/10 11:59,National Station,月 Data,汕尾;揭阳;汕头;潮州,2013-01至2014-12,24月,
+488,NotShown,st001,NotShown,2026/9/10 11:58,National Station,月 Data,汕尾;揭阳;汕头;潮州,2013-01至2014-12,24月,
+489,NotShown,st001,NotShown,2026/9/10 11:58,National Station,月 Data,汕尾;揭阳;汕头;潮州,2015-01至2016-12,24月,
+490,NotShown,st001,NotShown,2026/9/10 11:57,National Station,月 Data,汕尾;揭阳;汕头;潮州,2017-01至2018-12,24月,
+491,NotShown,st001,NotShown,2026/9/10 11:57,National Station,月 Data,汕尾;揭阳;汕头;潮州,2019-01至2020-12,24月,
+492,NotShown,st001,NotShown,2026/9/10 11:56,National Station,月 Data,汕尾;揭阳;汕头;潮州,2021-01至2022-12,24月,
+493,NotShown,st001,NotShown,2026/9/10 11:56,National Station,月 Data,汕尾;揭阳;汕头;潮州,2023-01至2024-12,24月,
+494,NotShown,st001,NotShown,2026/9/10 11:55,National Station,月 Data,汕尾;揭阳;汕头;潮州,2025-01至2025-12,12月,
+495,NotShown,st001,NotShown,2026/9/10 11:54,National Station,月 Data,汕尾;揭阳;汕头;潮州,2025-01至2025-12,12月,
+496,NotShown,st001,NotShown,2026/9/10 11:54,National Station,月 Data,汕尾;揭阳;汕头;潮州,2023-01至2024-12,24月,
+497,NotShown,st001,NotShown,2026/9/10 11:54,National Station,月 Data,汕尾;揭阳;汕头;潮州,2021-01至2022-12,24月,
+498,NotShown,st001,NotShown,2026/9/10 11:54,National Station,月 Data,汕尾;揭阳;汕头;潮州,2019-01至2020-12,24月,
+499,NotShown,st001,NotShown,2026/9/10 11:53,National Station,月 Data,汕尾;揭阳;汕头;潮州,2017-01至2018-12,24月,
+500,NotShown,st001,NotShown,2026/9/10 11:52,National Station,月 Data,汕尾;揭阳;汕头;潮州,2013-01至2014-12,24月,
+501,NotShown,st001,NotShown,2026/9/10 11:52,National Station,月 Data,汕尾;揭阳;汕头;潮州,2015-01至2016-12,24月,
+502,NotShown,dyuan101,NotShown,2026/9/10 11:50,National Station,月 Data,多站点,2005-01至2025-12,252月,R_50DAYS
+503,NotShown,st001,NotShown,2026/9/10 11:21,National Station,日 Data,汕尾;揭阳;汕头;潮州,2025-01-01至2025-12-31,365日,
+504,NotShown,st001,NotShown,2026/9/10 11:20,National Station,日 Data,汕尾;揭阳;汕头;潮州,2024-01-01至2024-12-31,366日,
+505,NotShown,st001,NotShown,2026/9/10 11:20,National Station,日 Data,汕尾;揭阳;汕头;潮州,2023-01-01至2023-12-31,365日,
+506,NotShown,st001,NotShown,2026/9/10 11:20,National Station,日 Data,汕尾;揭阳;汕头;潮州,2022-01-01至2022-12-31,365日,
+507,NotShown,st001,NotShown,2026/9/10 11:19,National Station,日 Data,汕尾;揭阳;汕头;潮州,2021-01-01至2021-12-31,365日,
+508,NotShown,st001,NotShown,2026/9/10 11:17,National Station,日 Data,汕尾;揭阳;汕头;潮州,2020-01-01至2020-12-31,366日,
+509,NotShown,st001,NotShown,2026/9/10 11:14,National Station,日 Data,汕尾;揭阳;汕头;潮州,2019-01-01至2019-12-31,365日,
+510,NotShown,st001,NotShown,2026/9/10 11:14,National Station,日 Data,汕尾;揭阳;汕头;潮州,2018-01-01至2018-12-31,365日,
+511,NotShown,st001,NotShown,2026/9/10 11:13,National Station,日 Data,汕尾;揭阳;汕头;潮州,2017-01-01至2017-12-31,365日,
+512,NotShown,st001,NotShown,2026/9/10 11:13,National Station,日 Data,汕尾;揭阳;汕头;潮州,2016-01-01至2016-12-31,366日,
+513,NotShown,st001,NotShown,2026/9/10 11:12,National Station,日 Data,汕尾;揭阳;汕头;潮州,2015-01-01至2015-12-31,365日,
+514,NotShown,st001,NotShown,2026/9/10 11:12,National Station,日 Data,汕尾;揭阳;汕头;潮州,2014-01-01至2014-12-31,365日,
+515,NotShown,st001,NotShown,2026/9/10 11:12,National Station,日 Data,汕尾;揭阳;汕头;潮州,2013-01-01至2013-12-31,365日,
+516,NotShown,st001,NotShown,2026/9/10 11:11,National Station,日 Data,汕尾;揭阳;汕头;潮州,2013-01-01至2013-12-31,365日,
+517,NotShown,st001,NotShown,2026/9/10 11:11,National Station,日 Data,汕尾;揭阳;汕头;潮州,2014-01-01至2014-12-31,365日,
+518,NotShown,st001,NotShown,2026/9/10 11:10,National Station,日 Data,汕尾;揭阳;汕头;潮州,2015-01-01至2015-12-31,365日,
+519,NotShown,st001,NotShown,2026/9/10 11:10,National Station,日 Data,汕尾;揭阳;汕头;潮州,2016-01-01至2016-12-31,366日,
+520,NotShown,st001,NotShown,2026/9/10 11:10,National Station,日 Data,汕尾;揭阳;汕头;潮州,2017-01-01至2017-12-31,365日,
+521,NotShown,st001,NotShown,2026/9/10 11:10,National Station,日 Data,汕尾;揭阳;汕头;潮州,2018-01-01至2018-12-31,365日,
+522,NotShown,st001,NotShown,2026/9/10 11:10,National Station,日 Data,汕尾;揭阳;汕头;潮州,2019-01-01至2019-12-31,365日,
+523,NotShown,st001,NotShown,2026/9/10 11:09,National Station,日 Data,汕尾;揭阳;汕头;潮州,2020-01-01至2020-12-31,366日,
+524,NotShown,st001,NotShown,2026/9/10 11:09,National Station,日 Data,汕尾;揭阳;汕头;潮州,2021-01-01至2021-12-31,365日,
+525,NotShown,st001,NotShown,2026/9/10 11:09,National Station,日 Data,汕尾;揭阳;汕头;潮州,2022-01-01至2022-12-31,365日,
+526,NotShown,st001,NotShown,2026/9/10 11:09,National Station,日 Data,汕尾;揭阳;汕头;潮州,2023-01-01至2023-12-31,365日,
+527,NotShown,st001,NotShown,2026/9/10 11:08,National Station,日 Data,汕尾;揭阳;汕头;潮州,2024-01-01至2024-12-31,366日,
+528,NotShown,st001,NotShown,2026/9/10 11:07,National Station,日 Data,汕尾;揭阳;汕头;潮州,2025-01-01至2025-12-31,365日,
+529,NotShown,st001,NotShown,2026/9/10 11:05,National Station,日 Data,汕尾;揭阳;汕头;潮州,2025-01-01至2025-12-31,365日,
+530,NotShown,st001,NotShown,2026/9/10 11:05,National Station,日 Data,汕尾;揭阳;汕头;潮州,2024-01-01至2024-12-31,366日,
+531,NotShown,st001,NotShown,2026/9/10 11:05,National Station,日 Data,汕尾;揭阳;汕头;潮州,2023-01-01至2023-12-31,365日,
+532,NotShown,st001,NotShown,2026/9/10 11:04,National Station,日 Data,汕尾;揭阳;汕头;潮州,2022-01-01至2022-12-31,365日,
+533,NotShown,st001,NotShown,2026/9/10 11:03,National Station,日 Data,汕尾;揭阳;汕头;潮州,2021-01-01至2021-12-31,365日,
+534,NotShown,st001,NotShown,2026/9/10 11:03,National Station,日 Data,汕尾;揭阳;汕头;潮州,2020-01-01至2020-12-31,366日,
+535,NotShown,st001,NotShown,2026/9/10 11:02,National Station,日 Data,汕尾;揭阳;汕头;潮州,2019-01-01至2019-12-31,365日,
+536,NotShown,st001,NotShown,2026/9/10 11:02,National Station,日 Data,汕尾;揭阳;汕头;潮州,2018-01-01至2018-12-31,365日,
+537,NotShown,st001,NotShown,2026/9/10 11:01,National Station,日 Data,汕尾;揭阳;汕头;潮州,2017-01-01至2017-12-31,365日,
+538,NotShown,st001,NotShown,2026/9/10 11:01,National Station,日 Data,汕尾;揭阳;汕头;潮州,2016-01-01至2016-12-31,366日,
+539,NotShown,st001,NotShown,2026/9/10 11:01,National Station,日 Data,汕尾;揭阳;汕头;潮州,2015-01-01至2015-12-31,365日,
+540,NotShown,st001,NotShown,2026/9/10 11:00,National Station,日 Data,汕尾;揭阳;汕头;潮州,2014-01-01至2014-12-31,365日,
+541,NotShown,st001,NotShown,2026/9/10 11:00,National Station,日 Data,汕尾;揭阳;汕头;潮州,2013-01-01至2013-12-31,365日,
+542,NotShown,yj001,NotShown,2026/9/10 10:49,National Station+AWS Station,日 Data,阳江,2026-01-01至2026-09-09,252日,R
+543,NotShown,hji101,NotShown,2026/9/10 9:44,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MIN
+544,NotShown,hji101,NotShown,2026/9/10 9:44,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MAX
+545,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T
+546,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+547,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R
+548,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T
+549,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MAX
+550,NotShown,hji101,NotShown,2026/9/10 9:43,National Station+AWS Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MIN
+551,NotShown,hji101,NotShown,2026/9/10 9:42,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MIN
+552,NotShown,hji101,NotShown,2026/9/10 9:42,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MAX
+553,NotShown,hji101,NotShown,2026/9/10 9:42,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T
+554,NotShown,hji101,NotShown,2026/9/10 9:42,National Station+AWS Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+555,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+556,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T
+557,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MAX
+558,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MIN
+559,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MIN
+560,NotShown,hji101,NotShown,2026/9/10 9:41,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MAX
+561,NotShown,hji101,NotShown,2026/9/10 9:40,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T
+562,NotShown,hji101,NotShown,2026/9/10 9:40,National Station+AWS Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+563,NotShown,hji101,NotShown,2026/9/10 9:40,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+564,NotShown,hji101,NotShown,2026/9/10 9:39,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T
+565,NotShown,hji101,NotShown,2026/9/10 9:39,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MAX
+566,NotShown,hji101,NotShown,2026/9/10 9:39,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MIN
+567,NotShown,hji101,NotShown,2026/9/10 9:39,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MIN
+568,NotShown,hji101,NotShown,2026/9/10 9:38,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MAX
+569,NotShown,hji101,NotShown,2026/9/10 9:38,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T
+570,NotShown,hji101,NotShown,2026/9/10 9:38,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+571,NotShown,hji101,NotShown,2026/9/10 9:38,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+572,NotShown,hji101,NotShown,2026/9/10 9:38,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T
+573,NotShown,hji101,NotShown,2026/9/10 9:37,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MAX
+574,NotShown,hji101,NotShown,2026/9/10 9:37,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MIN
+575,NotShown,hji101,NotShown,2026/9/10 9:37,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MIN
+576,NotShown,hji101,NotShown,2026/9/10 9:37,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MAX
+577,NotShown,hji101,NotShown,2026/9/10 9:36,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T
+578,NotShown,hji101,NotShown,2026/9/10 9:36,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+579,NotShown,hji101,NotShown,2026/9/10 9:36,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+580,NotShown,hji101,NotShown,2026/9/10 9:36,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+581,NotShown,hji101,NotShown,2026/9/10 9:35,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MAX
+582,NotShown,hji101,NotShown,2026/9/10 9:35,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+583,NotShown,zj001,NotShown,2026/9/9 22:34,National Station,日 Data,多站点,2026-01-01至2026-08-31,243日,R08
+584,NotShown,zj001,NotShown,2026/9/9 22:34,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R08
+585,NotShown,zj001,NotShown,2026/9/9 22:33,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R08
+586,NotShown,zj001,NotShown,2026/9/9 22:33,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R08
+587,NotShown,zj001,NotShown,2026/9/9 22:33,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R08
+588,NotShown,zj001,NotShown,2026/9/9 22:32,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R08
+589,NotShown,zj001,NotShown,2026/9/9 22:32,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R08
+590,NotShown,zj001,NotShown,2026/9/9 22:31,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R08
+591,NotShown,zj001,NotShown,2026/9/9 22:31,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R08
+592,NotShown,zj001,NotShown,2026/9/9 22:31,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R08
+593,NotShown,zj001,NotShown,2026/9/9 22:30,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R08
+594,NotShown,zj001,NotShown,2026/9/9 22:30,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R08
+595,NotShown,zj001,NotShown,2026/9/9 22:29,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R08
+596,NotShown,zj001,NotShown,2026/9/9 22:29,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R08
+597,NotShown,zj001,NotShown,2026/9/9 22:28,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R08
+598,NotShown,zj001,NotShown,2026/9/9 22:28,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,R08
+599,NotShown,zj001,NotShown,2026/9/9 22:27,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,R08
+600,NotShown,zj001,NotShown,2026/9/9 22:27,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,R08
+601,NotShown,zj001,NotShown,2026/9/9 22:26,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,R08
+602,NotShown,zj001,NotShown,2026/9/9 22:26,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,R08
+603,NotShown,zj001,NotShown,2026/9/9 22:25,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,R08
+604,NotShown,zj001,NotShown,2026/9/9 22:25,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,R08
+605,NotShown,zj001,NotShown,2026/9/9 22:25,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,R08
+606,NotShown,zj001,NotShown,2026/9/9 22:24,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,R08
+607,NotShown,zj001,NotShown,2026/9/9 22:24,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,R08
+608,NotShown,zj001,NotShown,2026/9/9 22:23,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,R08
+609,NotShown,zj001,NotShown,2026/9/9 22:23,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,R08
+610,NotShown,zj001,NotShown,2026/9/9 22:23,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,R08
+611,NotShown,zj001,NotShown,2026/9/9 22:22,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,R08
+612,NotShown,zj001,NotShown,2026/9/9 22:22,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,R08
+613,NotShown,zj001,NotShown,2026/9/9 22:22,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,R08
+614,NotShown,zj001,NotShown,2026/9/9 22:21,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,R08
+615,NotShown,zj001,NotShown,2026/9/9 22:21,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,R08
+616,NotShown,zj001,NotShown,2026/9/9 22:15,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,R08
+617,NotShown,zj001,NotShown,2026/9/9 22:14,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,R08
+618,NotShown,zj001,NotShown,2026/9/9 22:14,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,R08
+619,NotShown,zj001,NotShown,2026/9/9 22:07,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,R08
+620,NotShown,zj001,NotShown,2026/9/9 22:07,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,R08
+621,NotShown,zj001,NotShown,2026/9/9 22:06,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,R08
+622,NotShown,zj001,NotShown,2026/9/9 22:06,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,R08
+623,NotShown,zj001,NotShown,2026/9/9 22:05,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,R08
+624,NotShown,zj001,NotShown,2026/9/9 22:05,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,R08
+625,NotShown,zj001,NotShown,2026/9/9 22:03,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,R08
+626,NotShown,zj001,NotShown,2026/9/9 22:03,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,R08
+627,NotShown,zj001,NotShown,2026/9/9 22:03,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,R08
+628,NotShown,zj001,NotShown,2026/9/9 22:01,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,R08
+629,NotShown,zj001,NotShown,2026/9/9 22:01,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,R08
+630,NotShown,zj001,NotShown,2026/9/9 22:00,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,R08
+631,NotShown,zj001,NotShown,2026/9/9 22:00,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,R08
+632,NotShown,zj001,NotShown,2026/9/9 21:59,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,R08
+633,NotShown,zj001,NotShown,2026/9/9 21:53,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,R08
+634,NotShown,zj001,NotShown,2026/9/9 21:53,National Station,日 Data,多站点,1975-01-01至1975-12-31,365日,R08
+635,NotShown,zj001,NotShown,2026/9/9 21:53,National Station,日 Data,多站点,1974-01-01至1974-12-31,365日,R08
+636,NotShown,zj001,NotShown,2026/9/9 21:52,National Station,日 Data,多站点,1973-01-01至1973-12-31,365日,R08
+637,NotShown,zj001,NotShown,2026/9/9 21:52,National Station,日 Data,多站点,1972-01-01至1972-12-31,366日,R08
+638,NotShown,zj001,NotShown,2026/9/9 21:52,National Station,日 Data,多站点,1971-01-01至1971-12-31,365日,R08
+639,NotShown,zj001,NotShown,2026/9/9 21:51,National Station,日 Data,多站点,1970-01-01至1970-12-31,365日,R08
+640,NotShown,zj001,NotShown,2026/9/9 21:43,National Station,日 Data,湛江,1971-01-01至1971-12-31,365日,R08
+641,NotShown,zj001,NotShown,2026/9/9 21:40,National Station,日 Data,湛江,1970-01-01至1970-12-31,365日,R08
+642,NotShown,dg001,NotShown,2026/9/9 19:46,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山,2024-01至2026-08,32月,R_SUM
+643,NotShown,wyuan101,NotShown,2026/9/9 18:29,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2025-01-01至2025-12-31,365日,R
+644,NotShown,wyuan101,NotShown,2026/9/9 18:28,National Station,年 Data,清远;韶关;河源;梅州;惠州;广州,1960至2025,66年,R_SUM
+645,NotShown,wyuan101,NotShown,2026/9/9 18:27,National Station,年 Data,清远;韶关;河源;梅州;惠州;广州,1960至2025,66年,TA_AVE
+646,NotShown,wyuan101,NotShown,2026/9/9 18:27,National Station,月 Data,清远;韶关;河源;梅州;惠州;广州,1960-01至2025-12,792月,R_SUM
+647,NotShown,wyuan101,NotShown,2026/9/9 18:26,National Station,月 Data,清远;韶关;河源;梅州;惠州;广州,1960-01至2025-12,792月,TA_AVE
+648,NotShown,wyuan101,NotShown,2026/9/9 18:24,National Station,日 Data,清远;韶关;河源;梅州;惠州;广州,2025-01-01至2025-12-31,365日,T
+649,NotShown,rhua101,NotShown,2026/9/9 17:13,National Station+AWS Station,时 Data,韶关,2022-06-01至2022-06-30,30日,R
+650,NotShown,rhua101,NotShown,2026/9/9 17:11,National Station+AWS Station,时 Data,韶关,2022-05-01至2022-05-31,31日,R
+651,NotShown,fs001,NotShown,2026/9/9 15:29,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2016-01-01至2016-12-31,366日,
+652,NotShown,fs001,NotShown,2026/9/9 15:28,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2017-01-01至2017-12-31,365日,
+653,NotShown,fs001,NotShown,2026/9/9 15:28,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2018-01-01至2018-12-31,365日,
+654,NotShown,fs001,NotShown,2026/9/9 15:27,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2019-01-01至2019-12-31,365日,
+655,NotShown,fs001,NotShown,2026/9/9 15:27,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2020-01-01至2020-12-31,366日,
+656,NotShown,fs001,NotShown,2026/9/9 15:26,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2021-01-01至2021-12-31,365日,
+657,NotShown,fs001,NotShown,2026/9/9 15:25,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2022-01-01至2022-12-31,365日,
+658,NotShown,hy001,NotShown,2026/9/9 15:25,National Station+AWS Station,日 Data,多站点,2026-01-01至2026-09-08,251日,R
+659,NotShown,fs001,NotShown,2026/9/9 15:25,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2023-01-01至2023-12-31,365日,
+660,NotShown,fs001,NotShown,2026/9/9 15:24,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2024-01-01至2024-12-31,366日,
+661,NotShown,fs001,NotShown,2026/9/9 15:19,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-01-01至2025-12-31,365日,
+662,NotShown,hurj,NotShown,2026/9/9 15:01,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,U
+663,NotShown,hurj,NotShown,2026/9/9 15:00,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+664,NotShown,hurj,NotShown,2026/9/9 14:59,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+665,NotShown,hurj,NotShown,2026/9/9 14:59,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MAX
+666,NotShown,zh001,NotShown,2026/9/9 14:59,National Station,时条件查询 Data,珠海,2025-01-01至2025-12-31,365日,MULTI
+667,NotShown,hy001,NotShown,2026/9/9 14:56,AWS Station,日 Data,多站点,2026-01-01至2026-09-08,251日,R
+668,NotShown,hurj,NotShown,2026/9/9 14:50,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+669,NotShown,sw001,NotShown,2026/9/9 12:29,National Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2025-01-01至2025-12-31,365日,
+670,NotShown,sw001,NotShown,2026/9/9 12:28,National Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2025-01-01至2025-12-31,365日,
+671,NotShown,sw001,NotShown,2026/9/9 12:27,National Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2025-01-01至2025-12-31,365日,
+672,NotShown,sw001,NotShown,2026/9/9 12:23,National Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2025-01-01至2025-12-31,365日,
+673,NotShown,dyuan101,NotShown,2026/9/9 11:45,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,D_MIN
+674,NotShown,dyuan101,NotShown,2026/9/9 11:44,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,D_MIN
+675,NotShown,dyuan101,NotShown,2026/9/9 11:44,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,D_MIN
+676,NotShown,dyuan101,NotShown,2026/9/9 11:44,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,D_MIN
+677,NotShown,dyuan101,NotShown,2026/9/9 11:44,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,D_MIN
+678,NotShown,dyuan101,NotShown,2026/9/9 11:43,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,D_MIN
+679,NotShown,dyuan101,NotShown,2026/9/9 11:43,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,D_MIN
+680,NotShown,dyuan101,NotShown,2026/9/9 11:43,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,D_MIN
+681,NotShown,dyuan101,NotShown,2026/9/9 11:43,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,D_MIN
+682,NotShown,dyuan101,NotShown,2026/9/9 11:43,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,D_MIN
+683,NotShown,dyuan101,NotShown,2026/9/9 11:42,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,D_MIN
+684,NotShown,dyuan101,NotShown,2026/9/9 11:42,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,D_MIN
+685,NotShown,dyuan101,NotShown,2026/9/9 11:42,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,D_MIN
+686,NotShown,dyuan101,NotShown,2026/9/9 11:42,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,D_MIN
+687,NotShown,dyuan101,NotShown,2026/9/9 11:41,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,D_MIN
+688,NotShown,dyuan101,NotShown,2026/9/9 11:41,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,D_MIN
+689,NotShown,dyuan101,NotShown,2026/9/9 11:41,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,D_MIN
+690,NotShown,dyuan101,NotShown,2026/9/9 11:40,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,D_MIN
+691,NotShown,dyuan101,NotShown,2026/9/9 11:40,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,D_MIN
+692,NotShown,dyuan101,NotShown,2026/9/9 11:39,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,D_MIN
+693,NotShown,dyuan101,NotShown,2026/9/9 11:39,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,D_MIN
+694,NotShown,dyuan101,NotShown,2026/9/9 11:34,National Station,年 Data,多站点,2005至2026,22年,DN_MIN
+695,NotShown,lping101,NotShown,2026/9/9 11:29,National Station,月 Data,多站点,2026-01至2026-08,8月,F10S_MAX
+696,NotShown,lping101,NotShown,2026/9/9 11:29,National Station,月 Data,多站点,2026-01至2026-08,8月,UA_AVE
+697,NotShown,lping101,NotShown,2026/9/9 11:29,National Station,月 Data,多站点,2026-01至2026-08,8月,R_SUM
+698,NotShown,lping101,NotShown,2026/9/9 11:28,National Station,月 Data,多站点,2026-01至2026-08,8月,TA_AVE
+699,NotShown,yshan101,NotShown,2026/9/9 11:11,National Station+AWS Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+700,NotShown,yshan101,NotShown,2026/9/9 11:10,National Station+AWS Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+701,NotShown,dyuan101,NotShown,2026/9/9 11:08,National Station,月 Data,河源,2005-01至2025-12,252月,UA_AVE
+702,NotShown,lping101,NotShown,2026/9/9 10:50,National Station+AWS Station,年 Data,多站点,2001至2026,26年,F10S_MAX
+703,NotShown,lping101,NotShown,2026/9/9 10:50,National Station+AWS Station,年 Data,多站点,2001至2026,26年,UA_AVE
+704,NotShown,lping101,NotShown,2026/9/9 10:49,National Station+AWS Station,年 Data,多站点,2001至2026,26年,TA_AVE
+705,NotShown,lping101,NotShown,2026/9/9 10:49,National Station+AWS Station,年 Data,多站点,2001至2026,26年,R_SUM
+706,NotShown,rhua101,NotShown,2026/9/9 10:42,National Station,日 Data,韶关,2025-01-01至2025-12-31,365日,D_MIN
+707,NotShown,rhua101,NotShown,2026/9/9 10:42,National Station,日 Data,韶关,2024-01-01至2024-12-31,366日,D_MIN
+708,NotShown,rhua101,NotShown,2026/9/9 10:42,National Station,日 Data,韶关,2023-01-01至2023-12-31,365日,D_MIN
+709,NotShown,rhua101,NotShown,2026/9/9 10:42,National Station,日 Data,韶关,2022-01-01至2022-12-31,365日,D_MIN
+710,NotShown,dg001,NotShown,2026/9/9 10:41,National Station+AWS Station,日 Data,多站点,2025-11-01至2026-08-31,304日,R
+711,NotShown,rhua101,NotShown,2026/9/9 10:41,National Station,日 Data,韶关,2021-01-01至2021-12-31,365日,D_MIN
+712,NotShown,rhua101,NotShown,2026/9/9 10:41,National Station,日 Data,韶关,2020-01-01至2020-12-31,366日,D_MIN
+713,NotShown,rhua101,NotShown,2026/9/9 10:41,National Station,日 Data,韶关,2019-01-01至2019-12-31,365日,D_MIN
+714,NotShown,dyuan101,NotShown,2026/9/9 10:41,National Station,日条件查询 Data,多站点,2025-01-01至2025-12-31,365日,MULTI
+715,NotShown,rhua101,NotShown,2026/9/9 10:41,National Station,日 Data,韶关,2018-01-01至2018-12-31,365日,D_MIN
+716,NotShown,dyuan101,NotShown,2026/9/9 10:41,National Station,日条件查询 Data,多站点,2024-01-01至2024-12-31,366日,MULTI
+717,NotShown,rhua101,NotShown,2026/9/9 10:40,National Station,日 Data,韶关,2017-01-01至2017-12-31,365日,D_MIN
+718,NotShown,dyuan101,NotShown,2026/9/9 10:40,National Station,日条件查询 Data,多站点,2023-01-01至2023-12-31,365日,MULTI
+719,NotShown,dyuan101,NotShown,2026/9/9 10:40,National Station,日条件查询 Data,多站点,2022-01-01至2022-12-31,365日,MULTI
+720,NotShown,rhua101,NotShown,2026/9/9 10:40,National Station,日 Data,韶关,2016-01-01至2016-12-31,366日,D_MIN
+721,NotShown,dyuan101,NotShown,2026/9/9 10:40,National Station,日条件查询 Data,多站点,2021-01-01至2021-12-31,365日,MULTI
+722,NotShown,dg001,NotShown,2026/9/9 10:40,National Station+AWS Station,日 Data,多站点,2025-11-01至2026-08-31,304日,FJS
+723,NotShown,rhua101,NotShown,2026/9/9 10:40,National Station,日 Data,韶关,2015-01-01至2015-12-31,365日,D_MIN
+724,NotShown,dyuan101,NotShown,2026/9/9 10:40,National Station,日条件查询 Data,多站点,2020-01-01至2020-12-31,366日,MULTI
+725,NotShown,dg001,NotShown,2026/9/9 10:40,National Station+AWS Station,日 Data,多站点,2025-11-01至2026-08-31,304日,T_MIN
+726,NotShown,rhua101,NotShown,2026/9/9 10:40,National Station,日 Data,韶关,2014-01-01至2014-12-31,365日,D_MIN
+727,NotShown,dyuan101,NotShown,2026/9/9 10:40,National Station,日条件查询 Data,多站点,2019-01-01至2019-12-31,365日,MULTI
+728,NotShown,rhua101,NotShown,2026/9/9 10:40,National Station,日 Data,韶关,2013-01-01至2013-12-31,365日,D_MIN
+729,NotShown,dg001,NotShown,2026/9/9 10:39,National Station+AWS Station,日 Data,多站点,2025-11-01至2026-08-31,304日,T_MAX
+730,NotShown,rhua101,NotShown,2026/9/9 10:39,National Station,日 Data,韶关,2012-01-01至2012-12-31,366日,D_MIN
+731,NotShown,dyuan101,NotShown,2026/9/9 10:39,National Station,日条件查询 Data,多站点,2018-01-01至2018-12-31,365日,MULTI
+732,NotShown,dyuan101,NotShown,2026/9/9 10:39,National Station,日条件查询 Data,多站点,2017-01-01至2017-12-31,365日,MULTI
+733,NotShown,rhua101,NotShown,2026/9/9 10:39,National Station,日 Data,韶关,2011-01-01至2011-12-31,365日,D_MIN
+734,NotShown,dyuan101,NotShown,2026/9/9 10:39,National Station,日条件查询 Data,多站点,2016-01-01至2016-12-31,366日,MULTI
+735,NotShown,rhua101,NotShown,2026/9/9 10:39,National Station,日 Data,韶关,2010-01-01至2010-12-31,365日,D_MIN
+736,NotShown,dyuan101,NotShown,2026/9/9 10:38,National Station,日条件查询 Data,多站点,2015-01-01至2015-12-31,365日,MULTI
+737,NotShown,rhua101,NotShown,2026/9/9 10:38,National Station,日 Data,韶关,2009-01-01至2009-12-31,365日,D_MIN
+738,NotShown,dyuan101,NotShown,2026/9/9 10:38,National Station,日条件查询 Data,多站点,2014-01-01至2014-12-31,365日,MULTI
+739,NotShown,rhua101,NotShown,2026/9/9 10:38,National Station,日 Data,韶关,2008-01-01至2008-12-31,366日,D_MIN
+740,NotShown,dyuan101,NotShown,2026/9/9 10:38,National Station,日条件查询 Data,多站点,2013-01-01至2013-12-31,365日,MULTI
+741,NotShown,rhua101,NotShown,2026/9/9 10:38,National Station,日 Data,韶关,2007-01-01至2007-12-31,365日,D_MIN
+742,NotShown,dyuan101,NotShown,2026/9/9 10:38,National Station,日条件查询 Data,多站点,2012-01-01至2012-12-31,366日,MULTI
+743,NotShown,rhua101,NotShown,2026/9/9 10:38,National Station,日 Data,韶关,2006-01-01至2006-12-31,365日,D_MIN
+744,NotShown,dyuan101,NotShown,2026/9/9 10:38,National Station,日条件查询 Data,多站点,2011-01-01至2011-12-31,365日,MULTI
+745,NotShown,rhua101,NotShown,2026/9/9 10:38,National Station,日 Data,韶关,2005-01-01至2005-12-31,365日,D_MIN
+746,NotShown,dyuan101,NotShown,2026/9/9 10:37,National Station,日条件查询 Data,多站点,2010-01-01至2010-12-31,365日,MULTI
+747,NotShown,rhua101,NotShown,2026/9/9 10:37,National Station,日 Data,韶关,2004-01-01至2004-12-31,366日,D_MIN
+748,NotShown,dyuan101,NotShown,2026/9/9 10:37,National Station,日条件查询 Data,多站点,2009-01-01至2009-12-31,365日,MULTI
+749,NotShown,rhua101,NotShown,2026/9/9 10:37,National Station,日 Data,韶关,2003-01-01至2003-12-31,365日,D_MIN
+750,NotShown,dyuan101,NotShown,2026/9/9 10:37,National Station,日条件查询 Data,多站点,2008-01-01至2008-12-31,366日,MULTI
+751,NotShown,rhua101,NotShown,2026/9/9 10:37,National Station,日 Data,韶关,2002-01-01至2002-12-31,365日,D_MIN
+752,NotShown,dyuan101,NotShown,2026/9/9 10:37,National Station,日条件查询 Data,多站点,2007-01-01至2007-12-31,365日,MULTI
+753,NotShown,rhua101,NotShown,2026/9/9 10:37,National Station,日 Data,韶关,2001-01-01至2001-12-31,365日,D_MIN
+754,NotShown,dyuan101,NotShown,2026/9/9 10:37,National Station,日条件查询 Data,多站点,2006-01-01至2006-12-31,365日,MULTI
+755,NotShown,rhua101,NotShown,2026/9/9 10:37,National Station,日 Data,韶关,2000-01-01至2000-12-31,366日,D_MIN
+756,NotShown,dyuan101,NotShown,2026/9/9 10:36,National Station,日条件查询 Data,多站点,2005-01-01至2005-12-31,365日,MULTI
+757,NotShown,rhua101,NotShown,2026/9/9 10:36,National Station,日 Data,韶关,1999-01-01至1999-12-31,365日,D_MIN
+758,NotShown,rhua101,NotShown,2026/9/9 10:36,National Station,日 Data,韶关,1998-01-01至1998-12-31,365日,D_MIN
+759,NotShown,rhua101,NotShown,2026/9/9 10:36,National Station,日 Data,韶关,1997-01-01至1997-12-31,365日,D_MIN
+760,NotShown,rhua101,NotShown,2026/9/9 10:36,National Station,日 Data,韶关,1996-01-01至1996-12-31,366日,D_MIN
+761,NotShown,rhua101,NotShown,2026/9/9 10:36,National Station,日 Data,韶关,1995-01-01至1995-12-31,365日,D_MIN
+762,NotShown,rhua101,NotShown,2026/9/9 10:35,National Station,日 Data,韶关,1994-01-01至1994-12-31,365日,D_MIN
+763,NotShown,rhua101,NotShown,2026/9/9 10:35,National Station,日 Data,韶关,1993-01-01至1993-12-31,365日,D_MIN
+764,NotShown,dyuan101,NotShown,2026/9/9 10:35,National Station,日条件查询 Data,多站点,2025-01-01至2025-12-31,365日,MULTI
+765,NotShown,rhua101,NotShown,2026/9/9 10:35,National Station,日 Data,韶关,1992-01-01至1992-12-31,366日,D_MIN
+766,NotShown,rhua101,NotShown,2026/9/9 10:35,National Station,日 Data,韶关,1991-01-01至1991-12-31,365日,D_MIN
+767,NotShown,dyuan101,NotShown,2026/9/9 10:34,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+768,NotShown,rhua101,NotShown,2026/9/9 10:34,National Station,日 Data,韶关,1990-01-01至1990-12-31,365日,D_MIN
+769,NotShown,dyuan101,NotShown,2026/9/9 10:34,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T
+770,NotShown,rhua101,NotShown,2026/9/9 10:34,National Station,日 Data,韶关,1989-01-01至1989-12-31,365日,D_MIN
+771,NotShown,dyuan101,NotShown,2026/9/9 10:34,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T
+772,NotShown,rhua101,NotShown,2026/9/9 10:34,National Station,日 Data,韶关,1988-01-01至1988-12-31,366日,D_MIN
+773,NotShown,rhua101,NotShown,2026/9/9 10:34,National Station,日 Data,韶关,1987-01-01至1987-12-31,365日,D_MIN
+774,NotShown,dyuan101,NotShown,2026/9/9 10:33,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T
+775,NotShown,rhua101,NotShown,2026/9/9 10:33,National Station,日 Data,韶关,1986-01-01至1986-12-31,365日,D_MIN
+776,NotShown,dyuan101,NotShown,2026/9/9 10:33,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T
+777,NotShown,dyuan101,NotShown,2026/9/9 10:33,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T
+778,NotShown,dyuan101,NotShown,2026/9/9 10:31,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T
+779,NotShown,dyuan101,NotShown,2026/9/9 10:31,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T
+780,NotShown,dyuan101,NotShown,2026/9/9 10:31,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T
+781,NotShown,dyuan101,NotShown,2026/9/9 10:30,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T
+782,NotShown,dyuan101,NotShown,2026/9/9 10:30,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T
+783,NotShown,dyuan101,NotShown,2026/9/9 10:30,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T
+784,NotShown,dyuan101,NotShown,2026/9/9 10:29,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T
+785,NotShown,dyuan101,NotShown,2026/9/9 10:28,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T
+786,NotShown,dyuan101,NotShown,2026/9/9 10:28,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T
+787,NotShown,dyuan101,NotShown,2026/9/9 10:27,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,T
+788,NotShown,dyuan101,NotShown,2026/9/9 10:26,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T
+789,NotShown,rhua101,NotShown,2026/9/9 10:19,National Station,日 Data,韶关,1985-01-01至1985-12-31,365日,D_MIN
+790,NotShown,dyuan101,NotShown,2026/9/9 10:19,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T
+791,NotShown,rhua101,NotShown,2026/9/9 10:19,National Station,日 Data,韶关,1984-01-01至1984-12-31,366日,D_MIN
+792,NotShown,dyuan101,NotShown,2026/9/9 10:19,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,T
+793,NotShown,rhua101,NotShown,2026/9/9 10:19,National Station,日 Data,韶关,1983-01-01至1983-12-31,365日,D_MIN
+794,NotShown,rhua101,NotShown,2026/9/9 10:19,National Station,日 Data,韶关,1982-01-01至1982-12-31,365日,D_MIN
+795,NotShown,rhua101,NotShown,2026/9/9 10:18,National Station,日 Data,韶关,1981-01-01至1981-12-31,365日,D_MIN
+796,NotShown,rhua101,NotShown,2026/9/9 10:18,National Station,日 Data,韶关,1980-01-01至1980-12-31,366日,D_MIN
+797,NotShown,rhua101,NotShown,2026/9/9 10:18,National Station,日 Data,韶关,1979-01-01至1979-12-31,365日,D_MIN
+798,NotShown,dyuan101,NotShown,2026/9/9 10:17,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,T
+799,NotShown,rhua101,NotShown,2026/9/9 10:17,National Station,日 Data,韶关,1978-01-01至1978-12-31,365日,D_MIN
+800,NotShown,dyuan101,NotShown,2026/9/9 10:17,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,T
+801,NotShown,rhua101,NotShown,2026/9/9 10:17,National Station,日 Data,韶关,1977-01-01至1977-12-31,365日,D_MIN
+802,NotShown,dyuan101,NotShown,2026/9/9 10:17,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,T
+803,NotShown,rhua101,NotShown,2026/9/9 10:17,National Station,日 Data,韶关,1976-01-01至1976-12-31,366日,D_MIN
+804,NotShown,rhua101,NotShown,2026/9/9 10:16,National Station,日 Data,韶关,1975-01-01至1975-12-31,365日,D_MIN
+805,NotShown,dyuan101,NotShown,2026/9/9 10:16,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,T
+806,NotShown,rhua101,NotShown,2026/9/9 10:16,National Station,日 Data,韶关,1974-01-01至1974-12-31,365日,D_MIN
+807,NotShown,dyuan101,NotShown,2026/9/9 10:13,National Station,逐年时段 Data,河源,2005至2025,21年,R
+808,NotShown,zs001,NotShown,2026/9/9 10:06,AWS Station,日 Data,多站点,2025-04-01至2025-09-30,183日,R
+809,NotShown,zs001,NotShown,2026/9/9 10:06,AWS Station,日 Data,多站点,2024-04-01至2024-09-30,183日,R
+810,NotShown,zs001,NotShown,2026/9/9 10:05,AWS Station,日 Data,多站点,2023-04-01至2023-09-30,183日,R
+811,NotShown,rhua101,NotShown,2026/9/9 9:49,National Station+AWS Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T
+812,NotShown,rhua101,NotShown,2026/9/9 9:48,National Station+AWS Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T
+813,NotShown,hji101,NotShown,2026/9/9 9:48,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+814,NotShown,hji101,NotShown,2026/9/9 9:47,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MAX
+815,NotShown,hji101,NotShown,2026/9/9 9:47,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+816,NotShown,hji101,NotShown,2026/9/9 9:47,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MIN
+817,NotShown,hji101,NotShown,2026/9/9 9:47,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T_MAX
+818,NotShown,hji101,NotShown,2026/9/9 9:46,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,R
+819,NotShown,hji101,NotShown,2026/9/9 9:46,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,R
+820,NotShown,hji101,NotShown,2026/9/9 9:46,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MAX
+821,NotShown,hji101,NotShown,2026/9/9 9:46,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T_MIN
+822,NotShown,hji101,NotShown,2026/9/9 9:45,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MIN
+823,NotShown,hji101,NotShown,2026/9/9 9:45,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T_MAX
+824,NotShown,hji101,NotShown,2026/9/9 9:45,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,R
+825,NotShown,hji101,NotShown,2026/9/9 9:45,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,R
+826,NotShown,hji101,NotShown,2026/9/9 9:45,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MAX
+827,NotShown,dyuan101,NotShown,2026/9/9 9:44,National Station,月 Data,河源,2005-01至2025-12,252月,R_DAYS
+828,NotShown,hji101,NotShown,2026/9/9 9:44,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T_MIN
+829,NotShown,hji101,NotShown,2026/9/9 9:44,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MIN
+830,NotShown,hji101,NotShown,2026/9/9 9:43,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T_MAX
+831,NotShown,hji101,NotShown,2026/9/9 9:43,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,R
+832,NotShown,hji101,NotShown,2026/9/9 9:42,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,R
+833,NotShown,hji101,NotShown,2026/9/9 9:42,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MAX
+834,NotShown,hji101,NotShown,2026/9/9 9:42,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T_MIN
+835,NotShown,hji101,NotShown,2026/9/9 9:41,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MIN
+836,NotShown,hji101,NotShown,2026/9/9 9:41,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T_MAX
+837,NotShown,hji101,NotShown,2026/9/9 9:41,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,R
+838,NotShown,hji101,NotShown,2026/9/9 9:41,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,R
+839,NotShown,hji101,NotShown,2026/9/9 9:41,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MAX
+840,NotShown,hji101,NotShown,2026/9/9 9:40,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T_MIN
+841,NotShown,hji101,NotShown,2026/9/9 9:40,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MIN
+842,NotShown,hji101,NotShown,2026/9/9 9:40,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T_MAX
+843,NotShown,hji101,NotShown,2026/9/9 9:40,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,R
+844,NotShown,hji101,NotShown,2026/9/9 9:40,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,R
+845,NotShown,hji101,NotShown,2026/9/9 9:39,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T_MAX
+846,NotShown,hji101,NotShown,2026/9/9 9:39,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T_MIN
+847,NotShown,hji101,NotShown,2026/9/9 9:38,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T_MIN
+848,NotShown,hping101,NotShown,2026/9/9 9:38,AWS Station,日 Data,多站点,2026-03-01至2026-08-31,184日,R
+849,NotShown,hji101,NotShown,2026/9/9 9:38,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T_MAX
+850,NotShown,hji101,NotShown,2026/9/9 9:38,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,R
+851,NotShown,hji101,NotShown,2026/9/9 9:38,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,R
+852,NotShown,hping101,NotShown,2026/9/9 9:37,AWS Station,日 Data,多站点,2026-03-01至2026-08-31,184日,T_MIN
+853,NotShown,hji101,NotShown,2026/9/9 9:37,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T_MAX
+854,NotShown,hji101,NotShown,2026/9/9 9:37,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T_MIN
+855,NotShown,hji101,NotShown,2026/9/9 9:37,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T_MIN
+856,NotShown,hji101,NotShown,2026/9/9 9:36,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T_MAX
+857,NotShown,hji101,NotShown,2026/9/9 9:36,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,R
+858,NotShown,hji101,NotShown,2026/9/9 9:36,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,R
+859,NotShown,hji101,NotShown,2026/9/9 9:36,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,T_MAX
+860,NotShown,hji101,NotShown,2026/9/9 9:35,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,T_MIN
+861,NotShown,hji101,NotShown,2026/9/9 9:35,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T_MIN
+862,NotShown,hurj,NotShown,2026/9/9 9:35,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,R
+863,NotShown,hji101,NotShown,2026/9/9 9:35,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T_MAX
+864,NotShown,hurj,NotShown,2026/9/9 9:34,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,F10S
+865,NotShown,hji101,NotShown,2026/9/9 9:34,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,R
+866,NotShown,hurj,NotShown,2026/9/9 9:34,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,P
+867,NotShown,hurj,NotShown,2026/9/9 9:33,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,U
+868,NotShown,hurj,NotShown,2026/9/9 9:32,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MIN
+869,NotShown,hurj,NotShown,2026/9/9 9:32,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T_MAX
+870,NotShown,hji101,NotShown,2026/9/9 9:32,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,R
+871,NotShown,hurj,NotShown,2026/9/9 9:32,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+872,NotShown,hji101,NotShown,2026/9/9 9:32,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,T_MAX
+873,NotShown,hji101,NotShown,2026/9/9 9:32,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,T_MIN
+874,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,T_MIN
+875,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,T_MAX
+876,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,R
+877,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,R
+878,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,T_MAX
+879,NotShown,hji101,NotShown,2026/9/9 9:31,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,T_MIN
+880,NotShown,hji101,NotShown,2026/9/9 9:30,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,T_MIN
+881,NotShown,hji101,NotShown,2026/9/9 9:30,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,T_MAX
+882,NotShown,hji101,NotShown,2026/9/9 9:29,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,R
+883,NotShown,hji101,NotShown,2026/9/9 9:29,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,R
+884,NotShown,hji101,NotShown,2026/9/9 9:29,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,T_MAX
+885,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,T_MIN
+886,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,T_MIN
+887,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,T_MAX
+888,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,R
+889,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,R
+890,NotShown,hji101,NotShown,2026/9/9 9:28,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,T_MAX
+891,NotShown,hji101,NotShown,2026/9/9 9:27,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,T_MIN
+892,NotShown,hji101,NotShown,2026/9/9 9:27,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,T_MIN
+893,NotShown,hji101,NotShown,2026/9/9 9:27,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,T_MAX
+894,NotShown,hji101,NotShown,2026/9/9 9:27,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,R
+895,NotShown,hji101,NotShown,2026/9/9 9:27,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,R
+896,NotShown,hji101,NotShown,2026/9/9 9:26,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,T_MAX
+897,NotShown,hji101,NotShown,2026/9/9 9:26,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,T_MIN
+898,NotShown,hji101,NotShown,2026/9/9 9:26,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,T_MIN
+899,NotShown,hji101,NotShown,2026/9/9 9:26,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,T_MAX
+900,NotShown,hji101,NotShown,2026/9/9 9:25,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,R
+901,NotShown,hji101,NotShown,2026/9/9 9:25,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,R
+902,NotShown,hji101,NotShown,2026/9/9 9:25,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,T_MAX
+903,NotShown,hji101,NotShown,2026/9/9 9:25,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,T_MIN
+904,NotShown,hji101,NotShown,2026/9/9 9:25,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,T_MIN
+905,NotShown,hji101,NotShown,2026/9/9 9:24,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,T_MAX
+906,NotShown,hji101,NotShown,2026/9/9 9:24,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,R
+907,NotShown,hji101,NotShown,2026/9/9 9:24,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,R
+908,NotShown,hji101,NotShown,2026/9/9 9:24,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,T_MAX
+909,NotShown,gming101,NotShown,2026/9/9 9:24,AWS Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-07-01至2026-06-30,365日,
+910,NotShown,hji101,NotShown,2026/9/9 9:23,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,T_MIN
+911,NotShown,hji101,NotShown,2026/9/9 9:23,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,T_MIN
+912,NotShown,hji101,NotShown,2026/9/9 9:23,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,T_MAX
+913,NotShown,hji101,NotShown,2026/9/9 9:23,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,R
+914,NotShown,hji101,NotShown,2026/9/9 9:23,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,R
+915,NotShown,hji101,NotShown,2026/9/9 9:22,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,T_MAX
+916,NotShown,hji101,NotShown,2026/9/9 9:22,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,T_MIN
+917,NotShown,hji101,NotShown,2026/9/9 9:22,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,T_MIN
+918,NotShown,hji101,NotShown,2026/9/9 9:22,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,T_MAX
+919,NotShown,hji101,NotShown,2026/9/9 9:22,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,R
+920,NotShown,ychun101,NotShown,2026/9/9 9:21,National Station+AWS Station,月 Data,多站点,2025-01至2026-09,21月,R_SUM
+921,NotShown,hji101,NotShown,2026/9/9 9:21,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,R
+922,NotShown,hji101,NotShown,2026/9/9 9:21,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,T_MAX
+923,NotShown,hji101,NotShown,2026/9/9 9:21,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,T_MIN
+924,NotShown,hji101,NotShown,2026/9/9 9:21,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,T_MIN
+925,NotShown,hji101,NotShown,2026/9/9 9:20,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,T_MAX
+926,NotShown,hji101,NotShown,2026/9/9 9:20,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,R
+927,NotShown,hji101,NotShown,2026/9/9 9:20,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,R
+928,NotShown,hji101,NotShown,2026/9/9 9:20,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,T_MAX
+929,NotShown,hji101,NotShown,2026/9/9 9:19,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,T_MIN
+930,NotShown,hji101,NotShown,2026/9/9 9:19,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,T_MIN
+931,NotShown,hji101,NotShown,2026/9/9 9:19,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,T_MAX
+932,NotShown,hji101,NotShown,2026/9/9 9:19,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,R
+933,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,R
+934,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,T_MAX
+935,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,T_MIN
+936,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,T_MIN
+937,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,T_MAX
+938,NotShown,hji101,NotShown,2026/9/9 9:18,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,R
+939,NotShown,hji101,NotShown,2026/9/9 9:17,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,R
+940,NotShown,hji101,NotShown,2026/9/9 9:17,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,T_MAX
+941,NotShown,hji101,NotShown,2026/9/9 9:17,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,T_MIN
+942,NotShown,hji101,NotShown,2026/9/9 9:16,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,T_MIN
+943,NotShown,hji101,NotShown,2026/9/9 9:15,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,T_MAX
+944,NotShown,hji101,NotShown,2026/9/9 9:15,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,R
+945,NotShown,hji101,NotShown,2026/9/9 9:15,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,R
+946,NotShown,hji101,NotShown,2026/9/9 9:15,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,T_MAX
+947,NotShown,hji101,NotShown,2026/9/9 9:15,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,T_MIN
+948,NotShown,hji101,NotShown,2026/9/9 9:14,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,T_MIN
+949,NotShown,hji101,NotShown,2026/9/9 9:14,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,T_MAX
+950,NotShown,hji101,NotShown,2026/9/9 9:14,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,R
+951,NotShown,hji101,NotShown,2026/9/9 9:14,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,R
+952,NotShown,hji101,NotShown,2026/9/9 9:13,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,T_MAX
+953,NotShown,hji101,NotShown,2026/9/9 9:13,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,T_MIN
+954,NotShown,hji101,NotShown,2026/9/9 9:13,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,T_MIN
+955,NotShown,hji101,NotShown,2026/9/9 9:13,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,T_MAX
+956,NotShown,hji101,NotShown,2026/9/9 9:12,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,R
+957,NotShown,hji101,NotShown,2026/9/9 9:12,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,R
+958,NotShown,hji101,NotShown,2026/9/9 9:12,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,T_MAX
+959,NotShown,hji101,NotShown,2026/9/9 9:12,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,T_MIN
+960,NotShown,hji101,NotShown,2026/9/9 9:11,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,T_MIN
+961,NotShown,hji101,NotShown,2026/9/9 9:11,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,T_MAX
+962,NotShown,hji101,NotShown,2026/9/9 9:11,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,R
+963,NotShown,hji101,NotShown,2026/9/9 9:11,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,R
+964,NotShown,hji101,NotShown,2026/9/9 9:10,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,T_MAX
+965,NotShown,hji101,NotShown,2026/9/9 9:10,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,T_MIN
+966,NotShown,hji101,NotShown,2026/9/9 9:09,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,T_MIN
+967,NotShown,hji101,NotShown,2026/9/9 9:09,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,T_MAX
+968,NotShown,hji101,NotShown,2026/9/9 9:08,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,R
+969,NotShown,hji101,NotShown,2026/9/9 9:08,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,R
+970,NotShown,hji101,NotShown,2026/9/9 9:07,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,T_MAX
+971,NotShown,hji101,NotShown,2026/9/9 9:06,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,T_MIN
+972,NotShown,hji101,NotShown,2026/9/9 9:06,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,T_MIN
+973,NotShown,hji101,NotShown,2026/9/9 9:05,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,T_MAX
+974,NotShown,hji101,NotShown,2026/9/9 9:05,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,R
+975,NotShown,gzhou101,NotShown,2026/9/9 5:17,National Station+AWS Station,年 Data,茂名;阳江;湛江;云浮,1960至2025,66年,
+976,NotShown,mm001,NotShown,2026/9/8 17:36,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+977,NotShown,mm001,NotShown,2026/9/8 17:22,National Station,年 Data,茂名;阳江;湛江;云浮,1959至2025,67年,
+978,NotShown,hji101,NotShown,2026/9/8 17:16,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,T
+979,NotShown,hji101,NotShown,2026/9/8 17:15,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,T
+980,NotShown,hji101,NotShown,2026/9/8 17:15,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,T
+981,NotShown,hji101,NotShown,2026/9/8 17:15,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,T
+982,NotShown,hji101,NotShown,2026/9/8 17:15,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,T
+983,NotShown,hji101,NotShown,2026/9/8 17:14,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,T
+984,NotShown,hji101,NotShown,2026/9/8 17:14,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,T
+985,NotShown,hji101,NotShown,2026/9/8 17:14,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,T
+986,NotShown,hji101,NotShown,2026/9/8 17:13,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,T
+987,NotShown,hji101,NotShown,2026/9/8 17:12,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,T
+988,NotShown,hji101,NotShown,2026/9/8 17:12,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,T
+989,NotShown,hji101,NotShown,2026/9/8 17:12,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,T
+990,NotShown,hji101,NotShown,2026/9/8 17:11,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,T
+991,NotShown,hji101,NotShown,2026/9/8 17:11,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,T
+992,NotShown,hji101,NotShown,2026/9/8 17:11,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,T
+993,NotShown,hji101,NotShown,2026/9/8 17:10,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,T
+994,NotShown,hji101,NotShown,2026/9/8 17:10,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,T
+995,NotShown,hji101,NotShown,2026/9/8 17:10,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,T
+996,NotShown,hji101,NotShown,2026/9/8 17:09,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,T
+997,NotShown,hji101,NotShown,2026/9/8 17:09,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,T
+998,NotShown,hji101,NotShown,2026/9/8 17:09,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,T
+999,NotShown,hji101,NotShown,2026/9/8 17:08,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,T
+1000,NotShown,hji101,NotShown,2026/9/8 17:08,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,T
+1001,NotShown,hji101,NotShown,2026/9/8 17:08,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,T
+1002,NotShown,hji101,NotShown,2026/9/8 17:07,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,T
+1003,NotShown,hji101,NotShown,2026/9/8 17:07,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,T
+1004,NotShown,hji101,NotShown,2026/9/8 17:07,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,T
+1005,NotShown,hji101,NotShown,2026/9/8 17:06,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,T
+1006,NotShown,hji101,NotShown,2026/9/8 17:06,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,T
+1007,NotShown,hji101,NotShown,2026/9/8 17:06,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,T
+1008,NotShown,hji101,NotShown,2026/9/8 17:05,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,T
+1009,NotShown,hji101,NotShown,2026/9/8 17:05,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,T
+1010,NotShown,hji101,NotShown,2026/9/8 17:04,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,T
+1011,NotShown,hji101,NotShown,2026/9/8 17:04,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,T
+1012,NotShown,hji101,NotShown,2026/9/8 17:03,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,T
+1013,NotShown,hji101,NotShown,2026/9/8 17:02,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,T
+1014,NotShown,hji101,NotShown,2026/9/8 17:02,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,T
+1015,NotShown,hji101,NotShown,2026/9/8 17:02,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,T
+1016,NotShown,hji101,NotShown,2026/9/8 17:02,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,T
+1017,NotShown,hji101,NotShown,2026/9/8 16:59,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,T
+1018,NotShown,hji101,NotShown,2026/9/8 16:58,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,T
+1019,NotShown,hji101,NotShown,2026/9/8 16:57,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,T
+1020,NotShown,hji101,NotShown,2026/9/8 16:57,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,T
+1021,NotShown,hji101,NotShown,2026/9/8 16:57,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,T
+1022,NotShown,hji101,NotShown,2026/9/8 16:56,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,T
+1023,NotShown,hji101,NotShown,2026/9/8 16:56,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,T
+1024,NotShown,hji101,NotShown,2026/9/8 16:56,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,T
+1025,NotShown,hji101,NotShown,2026/9/8 16:56,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,T
+1026,NotShown,hji101,NotShown,2026/9/8 16:55,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,T
+1027,NotShown,hji101,NotShown,2026/9/8 16:55,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+1028,NotShown,hji101,NotShown,2026/9/8 16:20,National Station,日 Data,多站点,2025-01-01至2025-12-31,365日,S
+1029,NotShown,hji101,NotShown,2026/9/8 16:18,National Station,日 Data,多站点,2024-01-01至2024-12-31,366日,S
+1030,NotShown,hji101,NotShown,2026/9/8 16:18,National Station,日 Data,多站点,2023-01-01至2023-12-31,365日,S
+1031,NotShown,hji101,NotShown,2026/9/8 16:18,National Station,日 Data,多站点,2022-01-01至2022-12-31,365日,S
+1032,NotShown,hji101,NotShown,2026/9/8 16:18,National Station,日 Data,多站点,2021-01-01至2021-12-31,365日,S
+1033,NotShown,hji101,NotShown,2026/9/8 16:17,National Station,日 Data,多站点,2020-01-01至2020-12-31,366日,S
+1034,NotShown,hji101,NotShown,2026/9/8 16:17,National Station,日 Data,多站点,2019-01-01至2019-12-31,365日,S
+1035,NotShown,hji101,NotShown,2026/9/8 16:17,National Station,日 Data,多站点,2018-01-01至2018-12-31,365日,S
+1036,NotShown,hji101,NotShown,2026/9/8 16:16,National Station,日 Data,多站点,2017-01-01至2017-12-31,365日,S
+1037,NotShown,hji101,NotShown,2026/9/8 16:16,National Station,日 Data,多站点,2016-01-01至2016-12-31,366日,S
+1038,NotShown,hji101,NotShown,2026/9/8 16:15,National Station,日 Data,多站点,2015-01-01至2015-12-31,365日,S
+1039,NotShown,hji101,NotShown,2026/9/8 16:15,National Station,日 Data,多站点,2014-01-01至2014-12-31,365日,S
+1040,NotShown,hji101,NotShown,2026/9/8 16:14,National Station,日 Data,多站点,2013-01-01至2013-12-31,365日,S
+1041,NotShown,hji101,NotShown,2026/9/8 16:14,National Station,日 Data,多站点,2012-01-01至2012-12-31,366日,S
+1042,NotShown,hji101,NotShown,2026/9/8 16:14,National Station,日 Data,多站点,2011-01-01至2011-12-31,365日,S
+1043,NotShown,hji101,NotShown,2026/9/8 16:13,National Station,日 Data,多站点,2010-01-01至2010-12-31,365日,S
+1044,NotShown,hji101,NotShown,2026/9/8 16:13,National Station,日 Data,多站点,2009-01-01至2009-12-31,365日,S
+1045,NotShown,hji101,NotShown,2026/9/8 16:13,National Station,日 Data,多站点,2008-01-01至2008-12-31,366日,S
+1046,NotShown,hji101,NotShown,2026/9/8 16:13,National Station,日 Data,多站点,2007-01-01至2007-12-31,365日,S
+1047,NotShown,hji101,NotShown,2026/9/8 16:12,National Station,日 Data,多站点,2006-01-01至2006-12-31,365日,S
+1048,NotShown,hji101,NotShown,2026/9/8 16:12,National Station,日 Data,多站点,2005-01-01至2005-12-31,365日,S
+1049,NotShown,hji101,NotShown,2026/9/8 16:12,National Station,日 Data,多站点,2004-01-01至2004-12-31,366日,S
+1050,NotShown,hji101,NotShown,2026/9/8 16:12,National Station,日 Data,多站点,2003-01-01至2003-12-31,365日,S
+1051,NotShown,hji101,NotShown,2026/9/8 16:11,National Station,日 Data,多站点,2002-01-01至2002-12-31,365日,S
+1052,NotShown,hji101,NotShown,2026/9/8 16:11,National Station,日 Data,多站点,2001-01-01至2001-12-31,365日,S
+1053,NotShown,hji101,NotShown,2026/9/8 16:11,National Station,日 Data,多站点,2000-01-01至2000-12-31,366日,S
+1054,NotShown,hji101,NotShown,2026/9/8 16:11,National Station,日 Data,多站点,1999-01-01至1999-12-31,365日,S
+1055,NotShown,hji101,NotShown,2026/9/8 16:10,National Station,日 Data,多站点,1998-01-01至1998-12-31,365日,S
+1056,NotShown,hji101,NotShown,2026/9/8 16:10,National Station,日 Data,多站点,1997-01-01至1997-12-31,365日,S
+1057,NotShown,hji101,NotShown,2026/9/8 16:10,National Station,日 Data,多站点,1996-01-01至1996-12-31,366日,S
+1058,NotShown,rhua101,NotShown,2026/9/8 16:10,National Station+AWS Station,日 Data,多站点,2025-01-01至2025-12-31,365日,T
+1059,NotShown,hji101,NotShown,2026/9/8 16:10,National Station,日 Data,多站点,1995-01-01至1995-12-31,365日,S
+1060,NotShown,hji101,NotShown,2026/9/8 16:09,National Station,日 Data,多站点,1994-01-01至1994-12-31,365日,S
+1061,NotShown,hji101,NotShown,2026/9/8 16:09,National Station,日 Data,多站点,1993-01-01至1993-12-31,365日,S
+1062,NotShown,hji101,NotShown,2026/9/8 16:09,National Station,日 Data,多站点,1992-01-01至1992-12-31,366日,S
+1063,NotShown,hji101,NotShown,2026/9/8 16:08,National Station,日 Data,多站点,1991-01-01至1991-12-31,365日,S
+1064,NotShown,hji101,NotShown,2026/9/8 16:08,National Station,日 Data,多站点,1990-01-01至1990-12-31,365日,S
+1065,NotShown,hji101,NotShown,2026/9/8 16:08,National Station,日 Data,多站点,1989-01-01至1989-12-31,365日,S
+1066,NotShown,hji101,NotShown,2026/9/8 16:07,National Station,日 Data,多站点,1988-01-01至1988-12-31,366日,S
+1067,NotShown,hji101,NotShown,2026/9/8 16:07,National Station,日 Data,多站点,1987-01-01至1987-12-31,365日,S
+1068,NotShown,hji101,NotShown,2026/9/8 16:06,National Station,日 Data,多站点,1986-01-01至1986-12-31,365日,S
+1069,NotShown,hji101,NotShown,2026/9/8 16:05,National Station,日 Data,多站点,1985-01-01至1985-12-31,365日,S
+1070,NotShown,hji101,NotShown,2026/9/8 16:04,National Station,日 Data,多站点,1984-01-01至1984-12-31,366日,S
+1071,NotShown,hji101,NotShown,2026/9/8 16:04,National Station,日 Data,多站点,1983-01-01至1983-12-31,365日,S
+1072,NotShown,hji101,NotShown,2026/9/8 16:04,National Station,日 Data,多站点,1982-01-01至1982-12-31,365日,S
+1073,NotShown,hji101,NotShown,2026/9/8 16:03,National Station,日 Data,多站点,1981-01-01至1981-12-31,365日,S
+1074,NotShown,hji101,NotShown,2026/9/8 16:03,National Station,日 Data,多站点,1980-01-01至1980-12-31,366日,S
+1075,NotShown,hji101,NotShown,2026/9/8 16:03,National Station,日 Data,多站点,1979-01-01至1979-12-31,365日,S
+1076,NotShown,hji101,NotShown,2026/9/8 16:02,National Station,日 Data,多站点,1978-01-01至1978-12-31,365日,S
+1077,NotShown,hji101,NotShown,2026/9/8 16:01,National Station,日 Data,多站点,1977-01-01至1977-12-31,365日,S
+1078,NotShown,hji101,NotShown,2026/9/8 16:00,National Station,日 Data,多站点,1976-01-01至1976-12-31,366日,S
+1079,NotShown,yde101,NotShown,2026/9/8 15:26,AWS Station,时 Data,清远;韶关;河源;梅州;广州;佛山;肇庆,2026-08-16至2026-09-03,19日,R
+1080,NotShown,gz001,NotShown,2026/9/8 15:13,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;韶关;清远,2024-12至2025-12,13月,
+1081,NotShown,gz001,NotShown,2026/9/8 15:13,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;韶关;清远,2024-12至2025-12,13月,
+1082,NotShown,gz001,NotShown,2026/9/8 15:12,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;韶关;清远,2024-12至2025-12,13月,
+1083,NotShown,gz001,NotShown,2026/9/8 15:12,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;韶关;清远,2024-12至2025-12,13月,
+1084,NotShown,gz001,NotShown,2026/9/8 15:11,National Station+AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;韶关;清远,2024-12至2025-12,13月,
+1085,NotShown,yde101,NotShown,2026/9/8 15:11,AWS Station,时 Data,清远;韶关;河源;梅州;广州;佛山;肇庆,2026-08-16至2026-09-02,18日,R
+1086,NotShown,fkai101,NotShown,2026/9/8 12:02,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2025-01至2025-12,12月,
+1087,NotShown,fkai101,NotShown,2026/9/8 12:02,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2025-01至2025-12,12月,
+1088,NotShown,fkai101,NotShown,2026/9/8 12:01,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2025-01至2025-12,12月,
+1089,NotShown,fkai101,NotShown,2026/9/8 12:01,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2025-01至2025-12,12月,
+1090,NotShown,fkai101,NotShown,2026/9/8 12:01,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2024-01至2024-12,12月,
+1091,NotShown,fkai101,NotShown,2026/9/8 12:00,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2024-01至2024-12,12月,
+1092,NotShown,fkai101,NotShown,2026/9/8 12:00,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2024-01至2024-12,12月,
+1093,NotShown,fkai101,NotShown,2026/9/8 12:00,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2024-01至2024-12,12月,
+1094,NotShown,fkai101,NotShown,2026/9/8 11:59,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2023-01至2023-12,12月,
+1095,NotShown,fkai101,NotShown,2026/9/8 11:59,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2023-01至2023-12,12月,
+1096,NotShown,fkai101,NotShown,2026/9/8 11:59,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2023-01至2023-12,12月,
+1097,NotShown,fkai101,NotShown,2026/9/8 11:58,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2023-01至2023-12,12月,
+1098,NotShown,fkai101,NotShown,2026/9/8 11:58,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2022-01至2022-12,12月,
+1099,NotShown,fkai101,NotShown,2026/9/8 11:57,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2022-01至2022-12,12月,
+1100,NotShown,fkai101,NotShown,2026/9/8 11:57,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2022-01至2022-12,12月,
+1101,NotShown,fkai101,NotShown,2026/9/8 11:56,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2022-01至2022-12,12月,
+1102,NotShown,fkai101,NotShown,2026/9/8 11:55,AWS Station,月 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮,2021-01至2021-12,12月,
+1103,NotShown,fs001,NotShown,2026/9/8 10:10,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2020-01-01至2020-12-31,366日,
+1104,NotShown,fs001,NotShown,2026/9/8 10:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2021-01-01至2021-12-31,365日,
+1105,NotShown,fs001,NotShown,2026/9/8 10:08,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2022-01-01至2022-12-31,365日,
+1106,NotShown,wchuan101,NotShown,2026/9/8 10:08,National Station,月 Data,多站点,1981-01至2025-12,540月,R_SUM
+1107,NotShown,fs001,NotShown,2026/9/8 10:07,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2023-01-01至2023-12-31,365日,
+1108,NotShown,fs001,NotShown,2026/9/8 10:05,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-01-01至2025-12-31,365日,
+1109,NotShown,fs001,NotShown,2026/9/8 10:04,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2024-01-01至2024-12-31,366日,
+1110,NotShown,dyuan101,NotShown,2026/9/8 9:33,National Station,年 Data,多站点,2005至2025,21年,DA_MIN
+1111,NotShown,dyuan101,NotShown,2026/9/8 9:32,National Station,年 Data,多站点,2005至2025,21年,DA_MAX
+1112,NotShown,mm001,NotShown,2026/9/8 9:31,National Station,时条件查询 Data,茂名;阳江;湛江;云浮,2019-01-01至2019-12-31,365日,
+1113,NotShown,wchuan101,NotShown,2026/9/8 9:30,National Station,逐年时段 Data,多站点,1981至2025,45年,R
+1114,NotShown,mm001,NotShown,2026/9/8 9:27,National Station,时条件查询 Data,茂名;阳江;湛江;云浮,2018-01-01至2018-12-31,365日,
+1115,NotShown,dyuan101,NotShown,2026/9/8 9:25,National Station,年 Data,多站点,2005至2025,21年,DA_AVE
+1116,NotShown,sw001,NotShown,2026/9/8 9:21,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2025-01-01至2025-12-31,365日,
+1117,NotShown,sw001,NotShown,2026/9/8 9:21,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2024-01-01至2024-12-31,366日,
+1118,NotShown,sw001,NotShown,2026/9/8 9:21,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2023-01-01至2023-12-31,365日,
+1119,NotShown,sw001,NotShown,2026/9/8 9:20,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2022-01-01至2022-12-31,365日,
+1120,NotShown,sw001,NotShown,2026/9/8 9:20,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州;河源;惠州,2021-01-01至2021-12-31,365日,
+1121,NotShown,fs001,NotShown,2026/9/8 9:12,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2016-01-01至2016-12-31,366日,
+1122,NotShown,fs001,NotShown,2026/9/8 9:12,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2017-01-01至2017-12-31,365日,
+1123,NotShown,fs001,NotShown,2026/9/8 9:12,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2018-01-01至2018-12-31,365日,
+1124,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2019-01-01至2019-12-31,365日,
+1125,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2020-01-01至2020-12-31,366日,
+1126,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2021-01-01至2021-12-31,365日,
+1127,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2022-01-01至2022-12-31,365日,
+1128,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2023-01-01至2023-12-31,365日,
+1129,NotShown,fs001,NotShown,2026/9/8 9:11,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2024-01-01至2024-12-31,366日,
+1130,NotShown,fs001,NotShown,2026/9/8 9:10,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-01-01至2025-12-31,365日,
+1131,NotShown,fs001,NotShown,2026/9/8 9:10,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-01-01至2025-12-31,365日,
+1132,NotShown,fs001,NotShown,2026/9/8 9:10,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2024-01-01至2024-12-31,366日,
+1133,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2023-01-01至2023-12-31,365日,
+1134,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2022-01-01至2022-12-31,365日,
+1135,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2021-01-01至2021-12-31,365日,
+1136,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2020-01-01至2020-12-31,366日,
+1137,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2019-01-01至2019-12-31,365日,
+1138,NotShown,fs001,NotShown,2026/9/8 9:09,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2018-01-01至2018-12-31,365日,
+1139,NotShown,fs001,NotShown,2026/9/8 9:08,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2017-01-01至2017-12-31,365日,
+1140,NotShown,fs001,NotShown,2026/9/8 9:08,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2016-01-01至2016-12-31,366日,
+1141,NotShown,sg001,NotShown,2026/9/8 8:50,National Station,时 Data,多站点,2005-12-01至2005-12-31,31日,U
+1142,NotShown,sg001,NotShown,2026/9/8 8:50,National Station,时 Data,多站点,2004-12-01至2004-12-31,31日,U
+1143,NotShown,sg001,NotShown,2026/9/8 8:50,National Station,时 Data,多站点,2003-12-01至2003-12-31,31日,U
+1144,NotShown,sg001,NotShown,2026/9/8 8:49,National Station,时 Data,多站点,2002-12-01至2002-12-31,31日,U
+1145,NotShown,sg001,NotShown,2026/9/8 8:49,National Station,时 Data,多站点,2001-12-01至2001-12-31,31日,U
+1146,NotShown,sg001,NotShown,2026/9/8 8:49,National Station,时 Data,多站点,2000-12-01至2000-12-31,31日,U
+1147,NotShown,sg001,NotShown,2026/9/8 8:48,National Station,时 Data,多站点,1999-12-01至1999-12-31,31日,U
+1148,NotShown,sg001,NotShown,2026/9/8 8:48,National Station,时 Data,多站点,1998-12-01至1998-12-31,31日,U
+1149,NotShown,sg001,NotShown,2026/9/8 8:47,National Station,时 Data,多站点,1997-12-01至1997-12-31,31日,U
+1150,NotShown,sg001,NotShown,2026/9/8 8:47,National Station,时 Data,多站点,1996-12-01至1996-12-31,31日,U
+1151,NotShown,liuw,NotShown,2026/9/8 8:43,National Station,时条件查询 Data,多站点,2005-04-01至2005-09-30,183日,MULTI
+1152,NotShown,liuw,NotShown,2026/9/8 8:22,National Station,时条件查询 Data,多站点,2005-04-01至2005-09-30,183日,MULTI
+1153,NotShown,nhai101,NotShown,2026/9/7 19:43,National Station,日 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,2025-08-01至2026-06-30,334日,
+1154,NotShown,mm001,NotShown,2026/9/7 18:47,National Station,年 Data,茂名;阳江;湛江;云浮,1953至2025,73年,
+1155,NotShown,mm001,NotShown,2026/9/7 18:47,National Station,年 Data,茂名;阳江;湛江;云浮,1953至2025,73年,
+1156,NotShown,mm001,NotShown,2026/9/7 18:46,National Station,年 Data,茂名;阳江;湛江;云浮,1953至2025,73年,
+1157,NotShown,jxi101,NotShown,2026/9/7 17:45,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州,2025-01-01至2025-12-31,365日,
+1158,NotShown,jxi101,NotShown,2026/9/7 17:44,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州,2024-01-01至2024-12-31,366日,
+1159,NotShown,jxi101,NotShown,2026/9/7 17:44,AWS Station,日 Data,汕尾;揭阳;汕头;潮州;梅州,2023-01-01至2023-12-31,365日,
+1160,NotShown,sg001,NotShown,2026/9/7 17:28,National Station,时 Data,多站点,1996-11-01至1996-11-30,30日,U
+1161,NotShown,sg001,NotShown,2026/9/7 17:28,National Station,时 Data,多站点,1997-11-01至1997-11-30,30日,U
+1162,NotShown,sg001,NotShown,2026/9/7 17:28,National Station,时 Data,多站点,1998-11-01至1998-11-30,30日,U
+1163,NotShown,sg001,NotShown,2026/9/7 17:27,National Station,时 Data,多站点,1999-11-01至1999-11-30,30日,U
+1164,NotShown,sg001,NotShown,2026/9/7 17:27,National Station,时 Data,多站点,2000-11-01至2000-11-30,30日,U
+1165,NotShown,sg001,NotShown,2026/9/7 17:26,National Station,时 Data,多站点,2001-11-01至2001-11-30,30日,U
+1166,NotShown,sg001,NotShown,2026/9/7 17:26,National Station,时 Data,多站点,2002-11-01至2002-11-30,30日,U
+1167,NotShown,mm001,NotShown,2026/9/7 17:24,National Station,日 Data,茂名;阳江;湛江;云浮,2025-01-01至2025-12-31,365日,
+1168,NotShown,mm001,NotShown,2026/9/7 17:24,National Station,日 Data,茂名;阳江;湛江;云浮,2024-01-01至2024-12-31,366日,
+1169,NotShown,mm001,NotShown,2026/9/7 17:23,National Station,日 Data,茂名;阳江;湛江;云浮,2023-01-01至2023-12-31,365日,
+1170,NotShown,mm001,NotShown,2026/9/7 17:23,National Station,日 Data,茂名;阳江;湛江;云浮,2022-01-01至2022-12-31,365日,
+1171,NotShown,mm001,NotShown,2026/9/7 17:23,National Station,日 Data,茂名;阳江;湛江;云浮,2021-01-01至2021-12-31,365日,
+1172,NotShown,mm001,NotShown,2026/9/7 17:23,National Station,日 Data,茂名;阳江;湛江;云浮,2020-01-01至2020-12-31,366日,
+1173,NotShown,mm001,NotShown,2026/9/7 17:23,National Station,日 Data,茂名;阳江;湛江;云浮,2019-01-01至2019-12-31,365日,
+1174,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2018-01-01至2018-12-31,365日,
+1175,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2017-01-01至2017-12-31,365日,
+1176,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2016-01-01至2016-12-31,366日,
+1177,NotShown,sg001,NotShown,2026/9/7 17:22,National Station,时 Data,多站点,2003-11-01至2003-11-30,30日,U
+1178,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2015-01-01至2015-12-31,365日,
+1179,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2014-01-01至2014-12-31,365日,
+1180,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2013-01-01至2013-12-31,365日,
+1181,NotShown,sg001,NotShown,2026/9/7 17:22,National Station,时 Data,多站点,2004-11-01至2004-11-30,30日,U
+1182,NotShown,mm001,NotShown,2026/9/7 17:22,National Station,日 Data,茂名;阳江;湛江;云浮,2012-01-01至2012-12-31,366日,
+1183,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2011-01-01至2011-12-31,365日,
+1184,NotShown,sg001,NotShown,2026/9/7 17:21,National Station,时 Data,多站点,2005-11-01至2005-11-30,30日,U
+1185,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2010-01-01至2010-12-31,365日,
+1186,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2009-01-01至2009-12-31,365日,
+1187,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2008-01-01至2008-12-31,366日,
+1188,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2007-01-01至2007-12-31,365日,
+1189,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2006-01-01至2006-12-31,365日,
+1190,NotShown,mm001,NotShown,2026/9/7 17:21,National Station,日 Data,茂名;阳江;湛江;云浮,2005-01-01至2005-12-31,365日,
+1191,NotShown,mm001,NotShown,2026/9/7 17:20,National Station,日 Data,茂名;阳江;湛江;云浮,2004-01-01至2004-12-31,366日,
+1192,NotShown,mm001,NotShown,2026/9/7 17:20,National Station,日 Data,茂名;阳江;湛江;云浮,2003-01-01至2003-12-31,365日,
+1193,NotShown,mm001,NotShown,2026/9/7 17:20,National Station,日 Data,茂名;阳江;湛江;云浮,2002-01-01至2002-12-31,365日,
+1194,NotShown,mm001,NotShown,2026/9/7 17:20,National Station,日 Data,茂名;阳江;湛江;云浮,2001-01-01至2001-12-31,365日,
+1195,NotShown,mm001,NotShown,2026/9/7 17:20,National Station,日 Data,茂名;阳江;湛江;云浮,2000-01-01至2000-12-31,366日,
+1196,NotShown,mm001,NotShown,2026/9/7 17:19,National Station,日 Data,茂名;阳江;湛江;云浮,1999-01-01至1999-12-31,365日,
+1197,NotShown,mm001,NotShown,2026/9/7 17:19,National Station,日 Data,茂名;阳江;湛江;云浮,1998-01-01至1998-12-31,365日,
+1198,NotShown,mm001,NotShown,2026/9/7 17:19,National Station,日 Data,茂名;阳江;湛江;云浮,1997-01-01至1997-12-31,365日,
+1199,NotShown,mm001,NotShown,2026/9/7 17:19,National Station,日 Data,茂名;阳江;湛江;云浮,1996-01-01至1996-12-31,366日,
+1200,NotShown,sg001,NotShown,2026/9/7 17:19,National Station,时 Data,多站点,2005-10-01至2005-10-31,31日,U
+1201,NotShown,sg001,NotShown,2026/9/7 17:18,National Station,时 Data,多站点,2004-10-01至2004-10-31,31日,U
+1202,NotShown,sg001,NotShown,2026/9/7 17:18,National Station,时 Data,多站点,2003-10-01至2003-10-31,31日,U
+1203,NotShown,sg001,NotShown,2026/9/7 17:18,National Station,时 Data,多站点,2002-10-01至2002-10-31,31日,U
+1204,NotShown,sg001,NotShown,2026/9/7 17:18,National Station,时 Data,多站点,2001-10-01至2001-10-31,31日,U
+1205,NotShown,sg001,NotShown,2026/9/7 17:17,National Station,时 Data,多站点,2000-10-01至2000-10-31,31日,U
+1206,NotShown,sg001,NotShown,2026/9/7 17:17,National Station,时 Data,多站点,1999-10-01至1999-10-31,31日,U
+1207,NotShown,sg001,NotShown,2026/9/7 17:16,National Station,时 Data,多站点,1998-10-01至1998-10-31,31日,U
+1208,NotShown,sg001,NotShown,2026/9/7 17:16,National Station,时 Data,多站点,1997-10-01至1997-10-31,31日,U
+1209,NotShown,sg001,NotShown,2026/9/7 17:16,National Station,时 Data,多站点,1996-10-01至1996-10-31,31日,U
+1210,NotShown,sg001,NotShown,2026/9/7 17:15,National Station,时 Data,多站点,1996-09-01至1996-09-30,30日,U
+1211,NotShown,sg001,NotShown,2026/9/7 17:15,National Station,时 Data,多站点,1997-09-01至1997-09-30,30日,U
+1212,NotShown,sg001,NotShown,2026/9/7 17:15,National Station,时 Data,多站点,1998-09-01至1998-09-30,30日,U
+1213,NotShown,sg001,NotShown,2026/9/7 17:14,National Station,时 Data,多站点,1999-09-01至1999-09-30,30日,U
+1214,NotShown,sg001,NotShown,2026/9/7 17:14,National Station,时 Data,多站点,2000-09-01至2000-09-30,30日,U
+1215,NotShown,sg001,NotShown,2026/9/7 17:14,National Station,时 Data,多站点,2001-09-01至2001-09-30,30日,U
+1216,NotShown,sg001,NotShown,2026/9/7 17:13,National Station,时 Data,多站点,2002-09-01至2002-09-30,30日,U
+1217,NotShown,sg001,NotShown,2026/9/7 17:13,National Station,时 Data,多站点,2003-09-01至2003-09-30,30日,U
+1218,NotShown,sg001,NotShown,2026/9/7 17:13,National Station,时 Data,多站点,2004-09-01至2004-09-30,30日,U
+1219,NotShown,sg001,NotShown,2026/9/7 17:12,National Station,时 Data,多站点,2005-09-01至2005-09-30,30日,U
+1220,NotShown,sg001,NotShown,2026/9/7 17:09,National Station,时 Data,多站点,2005-08-01至2005-08-31,31日,U
+1221,NotShown,sg001,NotShown,2026/9/7 17:09,National Station,时 Data,多站点,2004-08-01至2004-08-31,31日,U
+1222,NotShown,sg001,NotShown,2026/9/7 17:08,National Station,时 Data,多站点,2003-08-01至2003-08-31,31日,U
+1223,NotShown,sg001,NotShown,2026/9/7 17:08,National Station,时 Data,多站点,2002-08-01至2002-08-31,31日,U
+1224,NotShown,sg001,NotShown,2026/9/7 17:08,National Station,时 Data,多站点,2001-08-01至2001-08-31,31日,U
+1225,NotShown,sg001,NotShown,2026/9/7 17:08,National Station,时 Data,多站点,2000-08-01至2000-08-31,31日,U
+1226,NotShown,sg001,NotShown,2026/9/7 17:06,National Station,时 Data,多站点,1999-08-01至1999-08-31,31日,U
+1227,NotShown,sg001,NotShown,2026/9/7 17:06,National Station,时 Data,多站点,1998-08-01至1998-08-31,31日,U
+1228,NotShown,sg001,NotShown,2026/9/7 17:06,National Station,时 Data,多站点,1997-08-01至1997-08-31,31日,U
+1229,NotShown,sg001,NotShown,2026/9/7 17:05,National Station,时 Data,多站点,1996-08-01至1996-08-31,31日,U
+1230,NotShown,sg001,NotShown,2026/9/7 17:04,National Station,时 Data,多站点,1996-07-01至1996-07-31,31日,U
+1231,NotShown,sg001,NotShown,2026/9/7 17:03,National Station,时 Data,多站点,1997-07-01至1997-07-31,31日,U
+1232,NotShown,sg001,NotShown,2026/9/7 17:03,National Station,时 Data,多站点,1998-07-01至1998-07-31,31日,U
+1233,NotShown,sg001,NotShown,2026/9/7 17:03,National Station,时 Data,多站点,1999-07-01至1999-07-31,31日,U
+1234,NotShown,sg001,NotShown,2026/9/7 17:02,National Station,时 Data,多站点,2000-07-01至2000-07-31,31日,U
+1235,NotShown,sg001,NotShown,2026/9/7 17:02,National Station,时 Data,多站点,2001-07-01至2001-07-31,31日,U
+1236,NotShown,sg001,NotShown,2026/9/7 17:02,National Station,时 Data,多站点,2002-07-01至2002-07-31,31日,U
+1237,NotShown,sg001,NotShown,2026/9/7 17:01,National Station,时 Data,多站点,2003-07-01至2003-07-31,31日,U
+1238,NotShown,sg001,NotShown,2026/9/7 17:01,National Station,时 Data,多站点,2004-07-01至2004-07-31,31日,U
+1239,NotShown,sg001,NotShown,2026/9/7 17:00,National Station,时 Data,多站点,2005-07-01至2005-07-31,31日,U
+1240,NotShown,sg001,NotShown,2026/9/7 16:59,National Station,时 Data,多站点,2005-06-01至2005-06-30,30日,U
+1241,NotShown,sg001,NotShown,2026/9/7 16:59,National Station,时 Data,多站点,2004-06-01至2004-06-30,30日,U
+1242,NotShown,sg001,NotShown,2026/9/7 16:58,National Station,时 Data,多站点,2003-06-01至2003-06-30,30日,U
+1243,NotShown,sg001,NotShown,2026/9/7 16:56,National Station,时 Data,多站点,2002-06-01至2002-06-30,30日,U
+1244,NotShown,sg001,NotShown,2026/9/7 16:56,National Station,时 Data,多站点,2001-06-01至2001-06-30,30日,U
+1245,NotShown,sg001,NotShown,2026/9/7 16:56,National Station,时 Data,多站点,2000-06-01至2000-06-30,30日,U
+1246,NotShown,sg001,NotShown,2026/9/7 16:55,National Station,时 Data,多站点,1999-06-01至1999-06-30,30日,U
+1247,NotShown,sg001,NotShown,2026/9/7 16:55,National Station,时 Data,多站点,1998-06-01至1998-06-30,30日,U
+1248,NotShown,sg001,NotShown,2026/9/7 16:55,National Station,时 Data,多站点,1997-06-01至1997-06-30,30日,U
+1249,NotShown,sg001,NotShown,2026/9/7 16:54,National Station,时 Data,多站点,1996-06-01至1996-06-30,30日,U
+1250,NotShown,sg001,NotShown,2026/9/7 16:53,National Station,时 Data,多站点,2005-05-01至2005-05-31,31日,U
+1251,NotShown,sg001,NotShown,2026/9/7 16:53,National Station,时 Data,多站点,2004-05-01至2004-05-31,31日,U
+1252,NotShown,sg001,NotShown,2026/9/7 16:52,National Station,时 Data,多站点,2003-05-01至2003-05-31,31日,U
+1253,NotShown,sg001,NotShown,2026/9/7 16:52,National Station,时 Data,多站点,2002-05-01至2002-05-31,31日,U
+1254,NotShown,sg001,NotShown,2026/9/7 16:50,National Station,时 Data,多站点,2001-05-01至2001-05-31,31日,U
+1255,NotShown,sg001,NotShown,2026/9/7 16:48,National Station,时 Data,多站点,2000-05-01至2000-05-31,31日,U
+1256,NotShown,sg001,NotShown,2026/9/7 16:47,National Station,时 Data,多站点,1999-05-01至1999-05-31,31日,U
+1257,NotShown,sg001,NotShown,2026/9/7 16:47,National Station,时 Data,多站点,1998-05-01至1998-05-31,31日,U
+1258,NotShown,sg001,NotShown,2026/9/7 16:45,National Station,时 Data,多站点,1997-05-01至1997-05-31,31日,U
+1259,NotShown,sg001,NotShown,2026/9/7 16:44,National Station,时 Data,多站点,1996-05-01至1996-05-31,31日,U
+1260,NotShown,sg001,NotShown,2026/9/7 16:41,National Station,时 Data,多站点,1996-04-01至1996-04-30,30日,U
+1261,NotShown,sg001,NotShown,2026/9/7 16:41,National Station,时 Data,多站点,1997-04-01至1997-04-30,30日,U
+1262,NotShown,sg001,NotShown,2026/9/7 16:41,National Station,时 Data,多站点,1998-04-01至1998-04-30,30日,U
+1263,NotShown,sg001,NotShown,2026/9/7 16:40,National Station,时 Data,多站点,1999-04-01至1999-04-30,30日,U
+1264,NotShown,sg001,NotShown,2026/9/7 16:40,National Station,时 Data,多站点,2000-04-01至2000-04-30,30日,U
+1265,NotShown,sg001,NotShown,2026/9/7 16:36,National Station,时 Data,多站点,2001-04-01至2001-04-30,30日,U
+1266,NotShown,sg001,NotShown,2026/9/7 16:36,National Station,时 Data,多站点,2002-04-01至2002-04-30,30日,U
+1267,NotShown,sg001,NotShown,2026/9/7 16:35,National Station,时 Data,多站点,2003-04-01至2003-04-30,30日,U
+1268,NotShown,sg001,NotShown,2026/9/7 16:35,National Station,时 Data,多站点,2004-04-01至2004-04-30,30日,U
+1269,NotShown,sg001,NotShown,2026/9/7 16:35,National Station,时 Data,多站点,2005-04-01至2005-04-30,30日,U
+1270,NotShown,sg001,NotShown,2026/9/7 16:34,National Station,时 Data,多站点,2005-03-01至2005-03-31,31日,U
+1271,NotShown,sg001,NotShown,2026/9/7 16:33,National Station,时 Data,多站点,2004-03-01至2004-03-31,31日,U
+1272,NotShown,sg001,NotShown,2026/9/7 16:33,National Station,时 Data,多站点,2003-03-01至2003-03-31,31日,U
+1273,NotShown,sg001,NotShown,2026/9/7 16:32,National Station,时 Data,多站点,2002-03-01至2002-03-31,31日,U
+1274,NotShown,sg001,NotShown,2026/9/7 16:32,National Station,时 Data,多站点,2001-03-01至2001-03-31,31日,U
+1275,NotShown,sg001,NotShown,2026/9/7 16:31,National Station,时 Data,多站点,2000-03-01至2000-03-31,31日,U
+1276,NotShown,sg001,NotShown,2026/9/7 16:31,National Station,时 Data,多站点,1999-03-01至1999-03-31,31日,U
+1277,NotShown,sg001,NotShown,2026/9/7 16:30,National Station,时 Data,多站点,1998-03-01至1998-03-31,31日,U
+1278,NotShown,sg001,NotShown,2026/9/7 16:29,National Station,时 Data,多站点,1997-03-01至1997-03-31,31日,U
+1279,NotShown,sg001,NotShown,2026/9/7 16:29,National Station,时 Data,多站点,1996-03-01至1996-03-31,31日,U
+1280,NotShown,sg001,NotShown,2026/9/7 16:26,National Station,时 Data,多站点,1996-02-01至1996-02-29,29日,U
+1281,NotShown,sg001,NotShown,2026/9/7 16:26,National Station,时 Data,多站点,1997-02-01至1997-02-28,28日,U
+1282,NotShown,sg001,NotShown,2026/9/7 16:26,National Station,时 Data,多站点,1998-02-01至1998-02-28,28日,U
+1283,NotShown,sg001,NotShown,2026/9/7 16:25,National Station,时 Data,多站点,1999-02-01至1999-02-28,28日,U
+1284,NotShown,sg001,NotShown,2026/9/7 16:25,National Station,时 Data,多站点,2000-02-01至2000-02-29,29日,U
+1285,NotShown,sg001,NotShown,2026/9/7 16:24,National Station,时 Data,多站点,2001-02-01至2001-02-28,28日,U
+1286,NotShown,sg001,NotShown,2026/9/7 16:24,National Station,时 Data,多站点,2002-02-01至2002-02-28,28日,U
+1287,NotShown,sg001,NotShown,2026/9/7 16:24,National Station,时 Data,多站点,2003-02-01至2003-02-28,28日,U
+1288,NotShown,sg001,NotShown,2026/9/7 16:23,National Station,时 Data,多站点,2004-02-01至2004-02-29,29日,U
+1289,NotShown,sg001,NotShown,2026/9/7 16:22,National Station,时 Data,多站点,2005-02-01至2005-02-28,28日,U
+1290,NotShown,sg001,NotShown,2026/9/7 16:16,National Station,时 Data,多站点,2005-01-01至2005-01-31,31日,U
+1291,NotShown,sg001,NotShown,2026/9/7 16:16,National Station,时 Data,多站点,2004-01-01至2004-01-31,31日,U
+1292,NotShown,sg001,NotShown,2026/9/7 16:16,National Station,时 Data,多站点,2003-01-01至2003-01-31,31日,U
+1293,NotShown,sg001,NotShown,2026/9/7 16:15,National Station,时 Data,多站点,2002-01-01至2002-01-31,31日,U
+1294,NotShown,sg001,NotShown,2026/9/7 16:15,National Station,时 Data,多站点,2001-01-01至2001-01-31,31日,U
+1295,NotShown,sg001,NotShown,2026/9/7 16:15,National Station,时 Data,多站点,2000-01-01至2000-01-31,31日,U
+1296,NotShown,sg001,NotShown,2026/9/7 16:14,National Station,时 Data,多站点,1999-01-01至1999-01-31,31日,U
+1297,NotShown,sg001,NotShown,2026/9/7 16:14,National Station,时 Data,多站点,1998-01-01至1998-01-31,31日,U
+1298,NotShown,sg001,NotShown,2026/9/7 16:14,National Station,时 Data,多站点,1997-01-01至1997-01-31,31日,U
+1299,NotShown,sg001,NotShown,2026/9/7 16:13,National Station,时 Data,多站点,1996-01-01至1996-01-31,31日,U
+1300,NotShown,sg001,NotShown,2026/9/7 16:11,National Station,时 Data,多站点,1996-12-01至1996-12-31,31日,T
+1301,NotShown,sg001,NotShown,2026/9/7 16:11,National Station,时 Data,多站点,1997-12-01至1997-12-31,31日,T
+1302,NotShown,sg001,NotShown,2026/9/7 16:11,National Station,时 Data,多站点,1998-12-01至1998-12-31,31日,T
+1303,NotShown,sg001,NotShown,2026/9/7 16:10,National Station,时 Data,多站点,1999-12-01至1999-12-31,31日,T
+1304,NotShown,sg001,NotShown,2026/9/7 16:10,National Station,时 Data,多站点,2000-12-01至2000-12-31,31日,T
+1305,NotShown,sg001,NotShown,2026/9/7 16:10,National Station,时 Data,多站点,2001-12-01至2001-12-31,31日,T
+1306,NotShown,sg001,NotShown,2026/9/7 16:09,National Station,时 Data,多站点,2002-12-01至2002-12-31,31日,T
+1307,NotShown,sg001,NotShown,2026/9/7 16:09,National Station,时 Data,多站点,2003-12-01至2003-12-31,31日,T
+1308,NotShown,sg001,NotShown,2026/9/7 16:08,National Station,时 Data,多站点,2004-12-01至2004-12-31,31日,T
+1309,NotShown,sg001,NotShown,2026/9/7 16:08,National Station,时 Data,多站点,2005-12-01至2005-12-31,31日,T
+1310,NotShown,sg001,NotShown,2026/9/7 16:07,National Station,时 Data,多站点,2005-11-01至2005-11-30,30日,T
+1311,NotShown,sg001,NotShown,2026/9/7 16:07,National Station,时 Data,多站点,2004-11-01至2004-11-30,30日,T
+1312,NotShown,sg001,NotShown,2026/9/7 16:06,National Station,时 Data,多站点,2003-11-01至2003-11-30,30日,T
+1313,NotShown,sg001,NotShown,2026/9/7 16:06,National Station,时 Data,多站点,2002-11-01至2002-11-30,30日,T
+1314,NotShown,sg001,NotShown,2026/9/7 16:06,National Station,时 Data,多站点,2001-11-01至2001-11-30,30日,T
+1315,NotShown,sg001,NotShown,2026/9/7 16:06,National Station,时 Data,多站点,2000-11-01至2000-11-30,30日,T
+1316,NotShown,sg001,NotShown,2026/9/7 16:05,National Station,时 Data,多站点,1999-11-01至1999-11-30,30日,T
+1317,NotShown,sg001,NotShown,2026/9/7 16:05,National Station,时 Data,多站点,1998-11-01至1998-11-30,30日,T
+1318,NotShown,sg001,NotShown,2026/9/7 16:05,National Station,时 Data,多站点,1997-11-01至1997-11-30,30日,T
+1319,NotShown,sg001,NotShown,2026/9/7 16:04,National Station,时 Data,多站点,1996-11-01至1996-11-30,30日,T
+1320,NotShown,sg001,NotShown,2026/9/7 15:58,National Station,时 Data,多站点,1996-10-01至1996-10-31,31日,T
+1321,NotShown,sg001,NotShown,2026/9/7 15:57,National Station,时 Data,多站点,1997-10-01至1997-10-31,31日,T
+1322,NotShown,sg001,NotShown,2026/9/7 15:57,National Station,时 Data,多站点,1998-10-01至1998-10-31,31日,T
+1323,NotShown,sg001,NotShown,2026/9/7 15:57,National Station,时 Data,多站点,1999-10-01至1999-10-31,31日,T
+1324,NotShown,sg001,NotShown,2026/9/7 15:57,National Station,时 Data,多站点,2000-10-01至2000-10-31,31日,T
+1325,NotShown,sg001,NotShown,2026/9/7 15:56,National Station,时 Data,多站点,2001-10-01至2001-10-31,31日,T
+1326,NotShown,sg001,NotShown,2026/9/7 15:56,National Station,时 Data,多站点,2002-10-01至2002-10-31,31日,T
+1327,NotShown,sg001,NotShown,2026/9/7 15:56,National Station,时 Data,多站点,2003-10-01至2003-10-31,31日,T
+1328,NotShown,sg001,NotShown,2026/9/7 15:55,National Station,时 Data,多站点,2004-10-01至2004-10-31,31日,T
+1329,NotShown,sg001,NotShown,2026/9/7 15:55,National Station,时 Data,多站点,2008-10-01至2008-10-31,31日,T
+1330,NotShown,sg001,NotShown,2026/9/7 15:55,National Station,时 Data,多站点,2007-10-01至2007-10-31,31日,T
+1331,NotShown,sg001,NotShown,2026/9/7 15:54,National Station,时 Data,多站点,2006-10-01至2006-10-31,31日,T
+1332,NotShown,sg001,NotShown,2026/9/7 15:54,National Station,时 Data,多站点,2005-10-01至2005-10-31,31日,T
+1333,NotShown,sg001,NotShown,2026/9/7 15:53,National Station,时 Data,多站点,2005-09-01至2005-09-30,30日,T
+1334,NotShown,sg001,NotShown,2026/9/7 15:53,National Station,时 Data,多站点,2004-09-01至2004-09-30,30日,T
+1335,NotShown,sg001,NotShown,2026/9/7 15:53,National Station,时 Data,多站点,2003-09-01至2003-09-30,30日,T
+1336,NotShown,sg001,NotShown,2026/9/7 15:52,National Station,时 Data,多站点,2002-09-01至2002-09-30,30日,T
+1337,NotShown,sg001,NotShown,2026/9/7 15:51,National Station,时 Data,多站点,2001-09-01至2001-09-30,30日,T
+1338,NotShown,sg001,NotShown,2026/9/7 15:51,National Station,时 Data,多站点,2000-09-01至2000-09-30,30日,T
+1339,NotShown,sg001,NotShown,2026/9/7 15:48,National Station,时 Data,多站点,1999-09-01至1999-09-30,30日,T
+1340,NotShown,sg001,NotShown,2026/9/7 15:48,National Station,时 Data,多站点,1998-09-01至1998-09-30,30日,T
+1341,NotShown,sg001,NotShown,2026/9/7 15:48,National Station,时 Data,多站点,1997-09-01至1997-09-30,30日,T
+1342,NotShown,sg001,NotShown,2026/9/7 15:47,National Station,时 Data,多站点,1996-09-01至1996-09-30,30日,T
+1343,NotShown,sg001,NotShown,2026/9/7 15:47,National Station,时 Data,多站点,1996-08-01至1996-08-31,31日,T
+1344,NotShown,sg001,NotShown,2026/9/7 15:46,National Station,时 Data,多站点,1997-08-01至1997-08-31,31日,T
+1345,NotShown,sg001,NotShown,2026/9/7 15:46,National Station,时 Data,多站点,1998-08-01至1998-08-31,31日,T
+1346,NotShown,sg001,NotShown,2026/9/7 15:46,National Station,时 Data,多站点,1999-08-01至1999-08-31,31日,T
+1347,NotShown,sg001,NotShown,2026/9/7 15:45,National Station,时 Data,多站点,2000-08-01至2000-08-31,31日,T
+1348,NotShown,sg001,NotShown,2026/9/7 15:45,National Station,时 Data,多站点,2001-08-01至2001-08-31,31日,T
+1349,NotShown,sg001,NotShown,2026/9/7 15:45,National Station,时 Data,多站点,2002-08-01至2002-08-31,31日,T
+1350,NotShown,sg001,NotShown,2026/9/7 15:44,National Station,时 Data,多站点,2003-08-01至2003-08-31,31日,T
+1351,NotShown,sg001,NotShown,2026/9/7 15:44,National Station,时 Data,多站点,2004-08-01至2004-08-31,31日,T
+1352,NotShown,sg001,NotShown,2026/9/7 15:44,National Station,时 Data,多站点,2005-08-01至2005-08-31,31日,T
+1353,NotShown,sg001,NotShown,2026/9/7 15:42,National Station,时 Data,多站点,2005-07-01至2005-07-31,31日,T
+1354,NotShown,sg001,NotShown,2026/9/7 15:42,National Station,时 Data,多站点,2004-07-01至2004-07-31,31日,T
+1355,NotShown,sg001,NotShown,2026/9/7 15:41,National Station,时 Data,多站点,2003-07-01至2003-07-31,31日,T
+1356,NotShown,sg001,NotShown,2026/9/7 15:41,National Station,时 Data,多站点,2002-07-01至2002-07-31,31日,T
+1357,NotShown,sg001,NotShown,2026/9/7 15:41,National Station,时 Data,多站点,2001-07-01至2001-07-31,31日,T
+1358,NotShown,sg001,NotShown,2026/9/7 15:39,National Station,时 Data,多站点,2000-07-01至2000-07-31,31日,T
+1359,NotShown,sg001,NotShown,2026/9/7 15:38,National Station,时 Data,多站点,1999-07-01至1999-07-31,31日,T
+1360,NotShown,sg001,NotShown,2026/9/7 15:38,National Station,时 Data,多站点,1998-07-01至1998-07-31,31日,T
+1361,NotShown,sg001,NotShown,2026/9/7 15:38,National Station,时 Data,多站点,1997-07-01至1997-07-31,31日,T
+1362,NotShown,sg001,NotShown,2026/9/7 15:37,National Station,时 Data,多站点,1996-07-01至1996-07-31,31日,T
+1363,NotShown,sg001,NotShown,2026/9/7 15:36,National Station,时 Data,多站点,1996-06-01至1996-06-30,30日,T
+1364,NotShown,sg001,NotShown,2026/9/7 15:36,National Station,时 Data,多站点,1997-06-01至1997-06-30,30日,T
+1365,NotShown,sg001,NotShown,2026/9/7 15:27,National Station,时 Data,多站点,1998-06-01至1998-06-30,30日,T
+1366,NotShown,sg001,NotShown,2026/9/7 15:27,National Station,时 Data,多站点,1999-06-01至1999-06-30,30日,T
+1367,NotShown,sg001,NotShown,2026/9/7 15:26,National Station,时 Data,多站点,2000-06-01至2000-06-30,30日,T
+1368,NotShown,sg001,NotShown,2026/9/7 15:26,National Station,时 Data,多站点,2001-06-01至2001-06-30,30日,T
+1369,NotShown,sg001,NotShown,2026/9/7 15:26,National Station,时 Data,多站点,2002-06-01至2002-06-30,30日,T
+1370,NotShown,sg001,NotShown,2026/9/7 15:25,National Station,时 Data,多站点,2003-06-01至2003-06-30,30日,T
+1371,NotShown,sg001,NotShown,2026/9/7 15:25,National Station,时 Data,多站点,2004-06-01至2004-06-30,30日,T
+1372,NotShown,sg001,NotShown,2026/9/7 15:25,National Station,时 Data,多站点,2005-06-01至2005-06-30,30日,T
+1373,NotShown,sg001,NotShown,2026/9/7 15:23,National Station,时 Data,多站点,2005-05-01至2005-05-31,31日,T
+1374,NotShown,sg001,NotShown,2026/9/7 15:23,National Station,时 Data,多站点,2004-05-01至2004-05-31,31日,T
+1375,NotShown,sg001,NotShown,2026/9/7 15:23,National Station,时 Data,多站点,2003-05-01至2003-05-31,31日,T
+1376,NotShown,sg001,NotShown,2026/9/7 15:22,National Station,时 Data,多站点,2002-05-01至2002-05-31,31日,T
+1377,NotShown,sg001,NotShown,2026/9/7 15:21,National Station,时 Data,多站点,2001-05-01至2001-05-31,31日,T
+1378,NotShown,sg001,NotShown,2026/9/7 15:21,National Station,时 Data,多站点,2000-05-01至2000-05-31,31日,T
+1379,NotShown,sg001,NotShown,2026/9/7 15:16,National Station,时 Data,多站点,1999-05-01至1999-05-31,31日,T
+1380,NotShown,sg001,NotShown,2026/9/7 15:16,National Station,时 Data,多站点,1998-05-01至1998-05-31,31日,T
+1381,NotShown,sg001,NotShown,2026/9/7 15:16,National Station,时 Data,多站点,1997-05-01至1997-05-31,31日,T
+1382,NotShown,sg001,NotShown,2026/9/7 15:15,National Station,时 Data,多站点,1996-05-01至1996-05-31,31日,T
+1383,NotShown,sg001,NotShown,2026/9/7 15:14,National Station,时 Data,多站点,1996-04-01至1996-04-30,30日,T
+1384,NotShown,sg001,NotShown,2026/9/7 15:14,National Station,时 Data,多站点,1997-04-01至1997-04-30,30日,T
+1385,NotShown,sg001,NotShown,2026/9/7 15:13,National Station,时 Data,多站点,1998-04-01至1998-04-30,30日,T
+1386,NotShown,sg001,NotShown,2026/9/7 15:13,National Station,时 Data,多站点,1999-04-01至1999-04-30,30日,T
+1387,NotShown,sg001,NotShown,2026/9/7 15:12,National Station,时 Data,多站点,2000-04-01至2000-04-30,30日,T
+1388,NotShown,sg001,NotShown,2026/9/7 15:10,National Station,时 Data,多站点,2001-04-01至2001-04-30,30日,T
+1389,NotShown,sg001,NotShown,2026/9/7 15:10,National Station,时 Data,多站点,2002-04-01至2002-04-30,30日,T
+1390,NotShown,sg001,NotShown,2026/9/7 15:10,National Station,时 Data,多站点,2003-04-01至2003-04-30,30日,T
+1391,NotShown,sg001,NotShown,2026/9/7 15:10,National Station,时 Data,多站点,2004-04-01至2004-04-30,30日,T
+1392,NotShown,sg001,NotShown,2026/9/7 15:09,National Station,时 Data,多站点,2005-04-01至2005-04-30,30日,T
+1393,NotShown,sg001,NotShown,2026/9/7 15:09,National Station,时 Data,多站点,2005-03-01至2005-03-31,31日,T
+1394,NotShown,sg001,NotShown,2026/9/7 15:08,National Station,时 Data,多站点,2004-03-01至2004-03-31,31日,T
+1395,NotShown,sg001,NotShown,2026/9/7 15:08,National Station,时 Data,多站点,2003-03-01至2003-03-31,31日,T
+1396,NotShown,sg001,NotShown,2026/9/7 15:07,National Station,时 Data,多站点,2002-03-01至2002-03-31,31日,T
+1397,NotShown,sg001,NotShown,2026/9/7 15:07,National Station,时 Data,多站点,2001-03-01至2001-03-31,31日,T
+1398,NotShown,sg001,NotShown,2026/9/7 15:07,National Station,时 Data,多站点,2000-03-01至2000-03-31,31日,T
+1399,NotShown,sg001,NotShown,2026/9/7 15:06,National Station,时 Data,多站点,1999-03-01至1999-03-31,31日,T
+1400,NotShown,sg001,NotShown,2026/9/7 15:06,National Station,时 Data,多站点,1998-03-01至1998-03-31,31日,T
+1401,NotShown,sg001,NotShown,2026/9/7 15:06,National Station,时 Data,多站点,1997-03-01至1997-03-31,31日,T
+1402,NotShown,sg001,NotShown,2026/9/7 15:05,National Station,时 Data,多站点,1996-03-01至1996-03-31,31日,T
+1403,NotShown,sg001,NotShown,2026/9/7 15:04,National Station,时 Data,多站点,1996-02-01至1996-02-29,29日,T
+1404,NotShown,sg001,NotShown,2026/9/7 15:03,National Station,时 Data,多站点,1996-02-01至1996-02-28,28日,T
+1405,NotShown,sg001,NotShown,2026/9/7 15:03,National Station,时 Data,多站点,1997-02-01至1997-02-28,28日,T
+1406,NotShown,sg001,NotShown,2026/9/7 15:03,National Station,时 Data,多站点,1998-02-01至1998-02-28,28日,T
+1407,NotShown,sg001,NotShown,2026/9/7 15:02,National Station,时 Data,多站点,1999-02-01至1999-02-28,28日,T
+1408,NotShown,sg001,NotShown,2026/9/7 15:02,National Station,时 Data,多站点,2000-02-01至2000-02-29,29日,T
+1409,NotShown,sg001,NotShown,2026/9/7 15:01,National Station,时 Data,多站点,2001-02-01至2001-02-28,28日,T
+1410,NotShown,sg001,NotShown,2026/9/7 15:00,National Station,时 Data,多站点,2002-02-01至2002-02-28,28日,T
+1411,NotShown,sg001,NotShown,2026/9/7 15:00,National Station,时 Data,多站点,2003-02-01至2003-02-28,28日,T
+1412,NotShown,sg001,NotShown,2026/9/7 14:59,National Station,时 Data,多站点,2004-02-01至2004-02-29,29日,T
+1413,NotShown,sg001,NotShown,2026/9/7 14:58,National Station,时 Data,多站点,2005-02-01至2005-02-28,28日,T
+1414,NotShown,sg001,NotShown,2026/9/7 14:57,National Station,时 Data,多站点,2005-01-01至2005-01-31,31日,T
+1415,NotShown,sg001,NotShown,2026/9/7 14:56,National Station,时 Data,多站点,2004-01-01至2004-01-31,31日,T
+1416,NotShown,sg001,NotShown,2026/9/7 14:56,National Station,时 Data,多站点,2003-01-01至2003-01-31,31日,T
+1417,NotShown,sg001,NotShown,2026/9/7 14:56,National Station,时 Data,多站点,2002-01-01至2002-01-31,31日,T
+1418,NotShown,sg001,NotShown,2026/9/7 14:55,National Station,时 Data,多站点,2001-01-01至2001-01-31,31日,T
+1419,NotShown,sg001,NotShown,2026/9/7 14:55,National Station,时 Data,多站点,2000-01-01至2000-01-31,31日,T
+1420,NotShown,sg001,NotShown,2026/9/7 14:54,National Station,时 Data,多站点,1999-01-01至1999-01-31,31日,T
+1421,NotShown,sg001,NotShown,2026/9/7 14:54,National Station,时 Data,多站点,1998-01-01至1998-01-31,31日,T
+1422,NotShown,sg001,NotShown,2026/9/7 14:54,National Station,时 Data,多站点,1997-01-01至1997-01-31,31日,T
+1423,NotShown,sg001,NotShown,2026/9/7 14:53,National Station,时 Data,多站点,1996-01-01至1996-01-31,31日,T
+1424,NotShown,lzhou101,NotShown,2026/9/7 11:05,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,T
+1425,NotShown,lzhou101,NotShown,2026/9/7 11:05,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,T_MAX
+1426,NotShown,lzhou101,NotShown,2026/9/7 11:04,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,T_MIN
+1427,NotShown,lzhou101,NotShown,2026/9/7 11:04,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,R
+1428,NotShown,lzhou101,NotShown,2026/9/7 11:04,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,FJS
+1429,NotShown,lzhou101,NotShown,2026/9/7 11:04,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,FJX
+1430,NotShown,lzhou101,NotShown,2026/9/7 11:03,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,F10S
+1431,NotShown,lzhou101,NotShown,2026/9/7 11:03,AWS Station,时 Data,多站点,2023-11-01至2023-11-30,30日,F10X
+1432,NotShown,lzhou101,NotShown,2026/9/7 11:02,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,F10X
+1433,NotShown,lzhou101,NotShown,2026/9/7 11:01,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,F10S
+1434,NotShown,lzhou101,NotShown,2026/9/7 11:01,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,FJX
+1435,NotShown,lzhou101,NotShown,2026/9/7 11:01,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,FJS
+1436,NotShown,lzhou101,NotShown,2026/9/7 11:01,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,R
+1437,NotShown,lzhou101,NotShown,2026/9/7 11:00,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,T_MIN
+1438,NotShown,lzhou101,NotShown,2026/9/7 11:00,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,T_MAX
+1439,NotShown,lzhou101,NotShown,2026/9/7 11:00,AWS Station,时 Data,多站点,2023-12-01至2023-12-31,31日,T
+1440,NotShown,lzhou101,NotShown,2026/9/7 10:58,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,T
+1441,NotShown,lzhou101,NotShown,2026/9/7 10:58,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,T_MAX
+1442,NotShown,lzhou101,NotShown,2026/9/7 10:58,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,T_MIN
+1443,NotShown,lzhou101,NotShown,2026/9/7 10:58,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,R
+1444,NotShown,lzhou101,NotShown,2026/9/7 10:57,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,FJS
+1445,NotShown,lzhou101,NotShown,2026/9/7 10:57,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,FJX
+1446,NotShown,lzhou101,NotShown,2026/9/7 10:57,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,F10S
+1447,NotShown,lzhou101,NotShown,2026/9/7 10:57,AWS Station,时 Data,多站点,2024-01-01至2024-01-31,31日,F10X
+1448,NotShown,lzhou101,NotShown,2026/9/7 10:55,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,F10X
+1449,NotShown,lzhou101,NotShown,2026/9/7 10:55,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,F10S
+1450,NotShown,lzhou101,NotShown,2026/9/7 10:55,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,FJX
+1451,NotShown,lzhou101,NotShown,2026/9/7 10:54,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,FJS
+1452,NotShown,lzhou101,NotShown,2026/9/7 10:53,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,R
+1453,NotShown,lzhou101,NotShown,2026/9/7 10:53,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,T_MIN
+1454,NotShown,lzhou101,NotShown,2026/9/7 10:52,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,T_MAX
+1455,NotShown,lzhou101,NotShown,2026/9/7 10:52,AWS Station,时 Data,多站点,2024-02-01至2024-02-29,29日,T
+1456,NotShown,lzhou101,NotShown,2026/9/7 10:51,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,T
+1457,NotShown,lzhou101,NotShown,2026/9/7 10:51,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,T_MAX
+1458,NotShown,lzhou101,NotShown,2026/9/7 10:51,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,T_MIN
+1459,NotShown,lzhou101,NotShown,2026/9/7 10:50,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,R
+1460,NotShown,lzhou101,NotShown,2026/9/7 10:50,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,FJS
+1461,NotShown,lzhou101,NotShown,2026/9/7 10:50,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,FJX
+1462,NotShown,lzhou101,NotShown,2026/9/7 10:50,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,F10S
+1463,NotShown,lzhou101,NotShown,2026/9/7 10:49,AWS Station,时 Data,多站点,2024-03-01至2024-03-31,31日,F10X
+1464,NotShown,lzhou101,NotShown,2026/9/7 10:48,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,F10X
+1465,NotShown,lzhou101,NotShown,2026/9/7 10:48,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,F10S
+1466,NotShown,lzhou101,NotShown,2026/9/7 10:47,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,FJX
+1467,NotShown,lzhou101,NotShown,2026/9/7 10:47,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,FJS
+1468,NotShown,lzhou101,NotShown,2026/9/7 10:47,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,R
+1469,NotShown,lzhou101,NotShown,2026/9/7 10:47,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,T_MIN
+1470,NotShown,lzhou101,NotShown,2026/9/7 10:46,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,T_MAX
+1471,NotShown,lzhou101,NotShown,2026/9/7 10:46,AWS Station,时 Data,多站点,2024-11-01至2024-11-30,30日,T
+1472,NotShown,lzhou101,NotShown,2026/9/7 10:44,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,T
+1473,NotShown,lzhou101,NotShown,2026/9/7 10:44,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,T_MAX
+1474,NotShown,lzhou101,NotShown,2026/9/7 10:44,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,T_MIN
+1475,NotShown,lzhou101,NotShown,2026/9/7 10:44,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,R
+1476,NotShown,lzhou101,NotShown,2026/9/7 10:43,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,FJS
+1477,NotShown,lzhou101,NotShown,2026/9/7 10:42,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,FJX
+1478,NotShown,lzhou101,NotShown,2026/9/7 10:42,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,F10S
+1479,NotShown,lzhou101,NotShown,2026/9/7 10:41,AWS Station,时 Data,多站点,2024-12-01至2024-12-31,31日,F10X
+1480,NotShown,lzhou101,NotShown,2026/9/7 10:40,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,F10X
+1481,NotShown,lzhou101,NotShown,2026/9/7 10:40,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,F10S
+1482,NotShown,lzhou101,NotShown,2026/9/7 10:40,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,FJX
+1483,NotShown,lzhou101,NotShown,2026/9/7 10:40,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,FJS
+1484,NotShown,lzhou101,NotShown,2026/9/7 10:39,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,R
+1485,NotShown,lzhou101,NotShown,2026/9/7 10:39,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,T_MIN
+1486,NotShown,lzhou101,NotShown,2026/9/7 10:39,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,T_MAX
+1487,NotShown,lzhou101,NotShown,2026/9/7 10:39,AWS Station,时 Data,多站点,2025-01-01至2025-01-31,31日,T
+1488,NotShown,lzhou101,NotShown,2026/9/7 10:34,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,F10X
+1489,NotShown,lzhou101,NotShown,2026/9/7 10:34,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,F10S
+1490,NotShown,lzhou101,NotShown,2026/9/7 10:34,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,FJX
+1491,NotShown,lzhou101,NotShown,2026/9/7 10:33,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,FJS
+1492,NotShown,lzhou101,NotShown,2026/9/7 10:33,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,R
+1493,NotShown,lzhou101,NotShown,2026/9/7 10:33,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,T_MIN
+1494,NotShown,lzhou101,NotShown,2026/9/7 10:32,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,T_MAX
+1495,NotShown,lzhou101,NotShown,2026/9/7 10:32,AWS Station,时 Data,多站点,2025-03-01至2025-03-31,31日,T
+1496,NotShown,lzhou101,NotShown,2026/9/7 10:31,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,T
+1497,NotShown,lzhou101,NotShown,2026/9/7 10:30,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,T_MAX
+1498,NotShown,lzhou101,NotShown,2026/9/7 10:30,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,T_MIN
+1499,NotShown,lzhou101,NotShown,2026/9/7 10:30,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,R
+1500,NotShown,lzhou101,NotShown,2026/9/7 10:30,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,FJS
+1501,NotShown,lzhou101,NotShown,2026/9/7 10:29,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,FJX
+1502,NotShown,lzhou101,NotShown,2026/9/7 10:29,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,F10S
+1503,NotShown,dg001,NotShown,2026/9/7 10:29,National Station,年条件查询 Data,东莞,1978至2025,48年,MULTI
+1504,NotShown,lzhou101,NotShown,2026/9/7 10:29,AWS Station,时 Data,多站点,2026-03-01至2026-03-31,31日,F10X
+1505,NotShown,lzhou101,NotShown,2026/9/7 10:28,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,F10X
+1506,NotShown,lzhou101,NotShown,2026/9/7 10:28,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,F10S
+1507,NotShown,lzhou101,NotShown,2026/9/7 10:27,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,FJX
+1508,NotShown,lzhou101,NotShown,2026/9/7 10:27,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,FJS
+1509,NotShown,lzhou101,NotShown,2026/9/7 10:26,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,R
+1510,NotShown,lzhou101,NotShown,2026/9/7 10:26,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,T_MIN
+1511,NotShown,lzhou101,NotShown,2026/9/7 10:26,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,T_MAX
+1512,NotShown,lzhou101,NotShown,2026/9/7 10:25,AWS Station,时 Data,多站点,2026-02-01至2026-02-28,28日,T
+1513,NotShown,lzhou101,NotShown,2026/9/7 10:24,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,T
+1514,NotShown,lzhou101,NotShown,2026/9/7 10:23,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,T_MAX
+1515,NotShown,lzhou101,NotShown,2026/9/7 10:23,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,T_MIN
+1516,NotShown,lzhou101,NotShown,2026/9/7 10:23,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,R
+1517,NotShown,lzhou101,NotShown,2026/9/7 10:22,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,FJS
+1518,NotShown,lzhou101,NotShown,2026/9/7 10:22,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,FJX
+1519,NotShown,lzhou101,NotShown,2026/9/7 10:22,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,F10S
+1520,NotShown,lzhou101,NotShown,2026/9/7 10:21,AWS Station,时 Data,多站点,2026-01-01至2026-01-31,31日,F10X
+1521,NotShown,lzhou101,NotShown,2026/9/7 10:06,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,F10X
+1522,NotShown,lzhou101,NotShown,2026/9/7 10:06,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,F10S
+1523,NotShown,lzhou101,NotShown,2026/9/7 10:05,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,FJX
+1524,NotShown,lzhou101,NotShown,2026/9/7 10:05,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,FJS
+1525,NotShown,lzhou101,NotShown,2026/9/7 10:05,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,R
+1526,NotShown,lzhou101,NotShown,2026/9/7 10:04,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,T_MIN
+1527,NotShown,lzhou101,NotShown,2026/9/7 10:04,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,T_MAX
+1528,NotShown,lzhou101,NotShown,2026/9/7 10:04,AWS Station,时 Data,多站点,2025-12-01至2025-12-31,31日,T
+1529,NotShown,lzhou101,NotShown,2026/9/7 10:03,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,F10X
+1530,NotShown,lzhou101,NotShown,2026/9/7 10:02,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,F10S
+1531,NotShown,lzhou101,NotShown,2026/9/7 10:01,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,FJX
+1532,NotShown,lzhou101,NotShown,2026/9/7 10:00,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,FZX
+1533,NotShown,lzhou101,NotShown,2026/9/7 10:00,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,FJS
+1534,NotShown,lzhou101,NotShown,2026/9/7 9:59,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,FZS
+1535,NotShown,lzhou101,NotShown,2026/9/7 9:59,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,R
+1536,NotShown,lzhou101,NotShown,2026/9/7 9:58,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,T_MIN
+1537,NotShown,lzhou101,NotShown,2026/9/7 9:58,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,T_MAX
+1538,NotShown,lzhou101,NotShown,2026/9/7 9:55,AWS Station,时 Data,多站点,2025-11-01至2025-11-30,30日,T
+1539,NotShown,yde101,NotShown,2026/9/7 9:08,National Station,逐年时段 Data,多站点,1960至2025,66年,T_MAX
+1540,NotShown,st001,NotShown,2026/9/7 9:05,National Station,月 Data,汕尾;揭阳;汕头;潮州,1966-01至1967-12,24月,
+1541,NotShown,fs001,NotShown,2026/9/7 9:01,National Station,年 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,1957至2025,69年,
+1542,NotShown,fs001,NotShown,2026/9/7 9:00,National Station,年 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,1957至2025,69年,
+1543,NotShown,fs001,NotShown,2026/9/7 8:53,National Station,年 Data,东莞;深圳;惠州;广州;珠海;中山;江门;肇庆;佛山;清远;云浮;肇庆,1957至2025,69年,

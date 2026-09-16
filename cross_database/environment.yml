@@ -1,0 +1,14 @@
+name: cross_database
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - numpy
+  - sqlalchemy<2.0
+  - lxml
+  - beautifulsoup4
+  # Oracle driver: the server uses one of cx_Oracle or oracledb for the
+  # `oracle://` SQLAlchemy dialect - confirm which on the server and pin it
+  # here (they are not interchangeable at the dialect-registration level).
+  # - oracledb

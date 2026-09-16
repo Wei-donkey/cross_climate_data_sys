@@ -1,0 +1,7 @@
+# AI assistant working notes -- not part of the shipped project
+memory/
+
+# OS junk (matches at any depth)
+Thumbs.db
+desktop.ini
+.DS_Store

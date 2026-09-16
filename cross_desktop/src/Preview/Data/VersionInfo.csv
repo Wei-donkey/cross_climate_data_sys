@@ -1,0 +1,163 @@
+[New Feature] All child windows now resize automatically with the main window, adapting to both small screens (avoiding clipped content) and large screens (avoiding excess blank space).
+[New Feature] The Conditional Query module now supports dekad/monthly/seasonal/annual data queries -- users can query all statistics for 36 elements at once, including rain-day counts and high/low-temperature day counts by threshold, eliminating repetitive manual downloads across single-element modules.
+[Relaxed Limit] Conditional Query no longer requires a threshold value (relabeled "Filter Output Results") -- leaving it at the default returns all records.
+[Bug Fix] Fixed incorrect selected-station counts in Station Selection when clearing the city list while selecting via the station list.
+[New Feature] Built a "Dynamic Statistics" auto-updater on the Custom Period engine: hourly, it recalculates precipitation and temperature statistics for multiple periods (past 12 months / year-to-date / since flood season / since Dragon Boat rains) across the whole province / 21 cities / 86 counties (this year / normal / last year / anomaly / historical max with year / historical min with year / rank). The business-network "Dynamic Statistics" page will be rebuilt on this dataset, so its results will match CROSS's Custom Period results exactly.
+[New Feature] Histogram/Time Series/Scatter Plot: added axis start/end/interval controls alongside axis title and font size; added point-size control for time series and scatter points; added output pixel-height control when saving charts (width auto-matches). Together these meet publication-quality figure requirements.
+[New Feature] User Activity: added a daily active-IP bar chart.
+[Database] Removed fragmentary daily/dekad/monthly/seasonal/annual records predating each national station's official start date (now uniformly set to Jan 1 of its start year), keeping multi-station averages accurate during early station history.
+[Database] Backfilled sunshine-duration data for all provinces in the Pearl River Basin since station founding, with real-time updates and recalculated monthly/annual statistics.
+[Bug Fix] Fixed missing sort functionality in the Climate Season Classification and Import Data table grids.
+[Bug Fix] Fixed Climate Season Classification showing season-onset date 1998-10-14 and normal-onset date 1974-10-14 for station-less regions in non-station-scale queries; these now show blank instead.
+[Bug Fix] Fixed the first three columns in Climate Season Classification not being frozen, which broke chart plotting by station code.
+[Relaxed Limit] Dekad data queries extended from 24 dekads (2 years) to 240 dekads (20 years); the Monthly data query limit (previously 24 months) was removed; Seasonal/Annual data remain unlimited. Hourly data stays capped at 720 hours and Daily data at 366 days (a test query of 2 years of daily data across 86 national + 5,943 land-based AWS stations took 296.3s with no practical use case, so extending those was dropped).
+[Improvement] All data-query table grids now support inline cell editing -- users can double-click a cell to delete or correct a suspect value before plotting, avoiding outliers in charts.
+[Improvement] Surfer Settings now auto-detects the plotting extent: selecting an .srf file auto-matches (or lets the user manually pick) the corresponding .bln file, and the system reads its lat/lon range into the fields below automatically.
+[Improvement] Histogram, Scatter Plot, and Time Series charts can now be saved as .png images.
+[Improvement] Station Selection now offers a Land-based Regional Station option, letting every station type be selected independently: National (87), Land Regional (5,939), Hydrological (2,422), and Marine Regional (139).
+[Improvement] Sorting across all data modules now places blank values at the end regardless of ascending/descending order, making counts easier to read.
+[Database] Reorganized the CROSS server-side Python database-management scripts under a unified config path for DB/API settings, and redeployed all scheduled jobs in order.
+[Database] Loaded CMA-issued 30-year daily/monthly/annual normals for all national stations nationwide, enabling other-province CMA-normal queries in Regional Statistics (thanks to Zhihui for compiling the data).
+[Database] Replaced 2022-2026/07 national-station daily data with a manually audited version (thanks to Aijun for compiling the data).
+[Database] Backfilled Shenzhen Observatory's Sep 2017-2023 daily data from hourly data.
+[Database] Added stat_awst_cli_mul_day_update.py and stat_surf_cli_mul_day_update.py so national/regional station daily data auto-updates whenever the underlying hourly data changes.
+[Database] Connected the regional-station hourly interface, national-station hourly interface, and blended-rainfall interface so server-side hourly data refreshes in sync with upstream correction timestamps.
+[Database] Dropped the legacy "Tianqing" daily-data interface in favor of deriving CROSS daily data from national/regional hourly data.
+[Bug Fix] Fixed the Regional Statistics window dropping behind other windows after completing station selection.
+[Bug Fix] Fixed province/city/county/township names in Station Selection not sorting correctly by pinyin since v2.0.
+[Code Optimization] Refined the Station Selection code so region/city/county/township filters build correct SQL conditions and selected stations no longer get written to the temp station table, improving both setup and query performance.
+[Code Optimization] Fixed the Regional Statistics station-selection dialog's temp station table overwriting the main Station Selection dialog's temp table.
+[Improvement] Regional Statistics now includes more open stations, including Hong Kong and Macao, and national stations with data only from 1990 onward.
+[Improvement] Message Center now highlights unread rows when opened.
+[Improvement] Refined the login flow: renamed "Preview" to "Guest"; clicking "Guest" loads sample data and hides the login screen.
+[Bug Fix] Fixed anomaly percentages (for precipitation, sunshine duration, etc.) not being computed in the Regional Statistics table (only the raw anomaly was shown).
+[Bug Fix] Removed the (broken) multi-select option for elements in Single Period.
+[Backend Data] Rebuilt the core daily/monthly/annual/extremes tables with matching ORDER BY clauses to improve query performance.
+[Enhancement] Moved the Cold Air / Season Classification submenu items onto the main toolbar as buttons.
+[Enhancement] Rebuilt Conditional Query as an MDI child window and adjusted its layout to fit the main window.
+[Enhancement] User List: removed the "IP Allowlist" column, kept "Data-Download IP," and added "Last Login IP."
+[Enhancement] Surfer Settings: selecting a custom .srf template now auto-matches its .bln file, with a warning if none is found.
+[Enhancement] Reworked Guest Mode: renamed the entry button to "Preview" and added a Preview folder holding city/county/township code and boundary files, sample national/regional station info (lat/lon randomized -- for illustration only, not real data), user-activity/user-info/user-message files, and sample data for every time scale. These let CROSS's Preview Mode (Guest) open and preview every module, with Station Selection still able to switch the result's spatial scale. In Preview Mode, Surfer plotting is disabled by default and only becomes available once a guest completes custom template/range setup under Surfer Settings.
+[Enhancement] Polished Histogram/Time Series/Scatter Plot to publication standard: refined axis titles, tick intervals, tick labels, and plot margins; changing the data row/column selection now auto-refreshes the chart; added manual axis-title and font-size controls; Scatter Plot gained "Add Regression Line" and "Show Regression Equation"; moved these three chart submenus onto the main toolbar; Time Series now keeps a missing time point on the axis with a gap instead of dropping it.
+[Enhancement] Season Classification: added a multi-station average alongside the onset-date table; added region-scale season statistics (average / earliest / latest onset dates); data columns can now be plotted as a histogram or scatter plot.
+[Enhancement] Regional Statistics: added a climate-baseline source indicator in the status bar (Climate Center average vs. CMA-issued normals), with CMA-issued data now selectable as a baseline source; added Histogram/Scatter Plot buttons.
+[Enhancement] Regional Statistics: added a Save Data button.
+[Other] All tables now support mouse-wheel scrolling; minor visual adjustments to several windows.
+[Enhancement] Climate Season Classification: normal onset-date format changed from yyyy-mm-dd to mm-dd.
+[Enhancement] Climate Season Classification: switched from the QX/T 152-2012 season-classification standard to GB/T 4274-2022.
+[Enhancement] Import Data now auto-detects longitude/latitude columns from headers containing common variants of those names; users can still set these columns manually.
+[New Service] Stood up a web service -- files and source code can be downloaded from the CROSS service URL.
+[New Feature] Added Guest Mode: no account needed to view the system's main features. Import Data, contour maps, and Histogram/Time Series/Scatter Plot all work normally; data-query windows open normally but with empty station info and results. The login form stays on top so the user can log in for real data at any time.
+[New Feature] Added the Regional Climate Statistics module: query custom-period statistics for 651 historical stations (since 1951) across Pearl River Basin provinces -- open to all users, for a quick read on each region's baseline climate.
+[New Feature] Added the Climate Season Classification module: computes the onset dates of spring/summer/autumn/winter per the QX/T 152-2012 standard.
+[New Feature] Added Histogram / Time Series / Scatter Plot visualization tools for any module's query results; Time Series supports trend lines with slope, R-squared, F-value, P-value and significance testing, and Scatter Plot supports correlation coefficient, regression equation, and significance testing.
+[New Feature] Added the User Activity module: query data-download/query logs by date range, department, username, or saved IP, with usage-heatmap charts by feature.
+[New Feature] Added the Import Data module: import any .csv into a data-table window, then plot it as a contour map, histogram, time series, or scatter plot.
+[New Feature] Added "Copy Table Data" -- copy any selected cells directly, instead of saving then reopening in Excel.
+[New Feature] Added "Copy Chart" -- copy Histogram, Time Series, Scatter Plot, or User Activity charts directly.
+[Backend Data] Added a continuously running Python script computing monthly/historical extremes for every province in the Pearl River Basin.
+[Backend Data] Extended national-station coverage from Guangdong's 86 historical stations to 651 across the Pearl River Basin, and corrected their county/city metadata; flagged Guangdong's offshore regional stations.
+[Backend Data] Created a dedicated tablespace for user info, region info, and other CROSS metadata.
+[Backend Data] Created a dedicated tablespace for all national/regional station hourly data.
+[Enhancement] Merged Cold Air Statistics and Climate Season Classification under a "Process Statistics" toolbar group.
+[Enhancement] Province-level login no longer auto-selects station 59486 (Shenzhen Observatory) by default, so users don't need to manually deselect it every time.
+[Enhancement] Station-list import/export now uses .csv format.
+[Removed Feature] Removed the custom chart-drawing feature -- users can achieve more flexible plots via Import Data instead.
+[Bug Fix] Fixed empty results for certain elements in multi-element Custom Period queries.
+[Custom Period / Single Period] Improved early-station-history filtering: if a station has incomplete data in a given early year, that station is excluded from that year's regional average, resolving mismatches against Year-by-Year Custom Period (which already filtered early data).
+[Station Selection] Improved station-list import/export to fully preserve hydrological-station codes.
+[Station Selection] Added county/township filtering for regional/hydrological stations, so a selection can be narrowed to multiple counties or townships at once. To keep only hydrological stations, export the selected list, remove the regional-station codes from it, and re-import.
+[Data Statistics] Added roughly 1,800 hydrological stations with all hourly precipitation data available since 2019, with daily/monthly/annual statistics derived from it. For process-based statistics, it's recommended to use hydrological stations with the Hourly and Daily modules only, to stay consistent with the Guangdong Meteorological Observatory's data outputs.
+[Backend/User Management] Now logs each "Query" button click to gauge user activity; accounts are auto-logged-off every Sunday at midnight, requiring users to log back in for account security.
+[Result Scale] Relabeled multi-station average/max/min headers as regional average/max/min, since users checking e.g. which townships hit a given rainfall threshold should read the regional-max table.
+[Custom Period] Added max/min-value columns to the historical-max/min tables, fixing a charting bug on those two columns.
+[Save Data] Added the year to daily-data header dates, and the year and month to hourly-data header times, for precise output.
+[Result Scale] In Station Selection, selecting one or more counties with result scale set to "Township" now outputs only townships under the selected counties; result scale "County" outputs just those counties -- easier to read without empty cells cluttering the view.
+[Hourly/Daily Data] Fixed incorrect cumulative-value totals when the result scale is township/county/city rather than station, so users can correctly total rainfall over any period.
+[Chart Plotting] Fixed a crash when user-selected data files contained blank cells.
+[Conditional Query] Fixed hourly data on the end date itself not being returned.
+[General] Added a "Log Off All Sessions" admin action to periodically clear stale "online" sessions left behind after an error, which combined with a password change helps stop unauthorized remote logins.
+[General] Fixed a "subscript out of range" error on regional-station queries by excluding a known placeholder date from the filter SQL.
+[Custom Period / Year-by-Year Custom Period] Fixed an error popup when computing max statistics under a high-temperature threshold query.
+[Dekad/Monthly/Seasonal/Annual/Custom/Year-by-Year Custom Period] Fixed the "show as zero or blank when condition unmet" logic.
+[Dekad/Monthly/Seasonal/Annual/Custom/Year-by-Year Custom Period] Fixed cumulative sunshine-duration queries returning nothing.
+[Backend Data] Updated the scheduled job to run the dekad/monthly/seasonal/annual update script once daily, keeping internal statistics consistent.
+[Custom Period] Fixed Dongguan station's missing 1967-1969 daily data causing an incorrect ranking end-year.
+[Backend/User Management] Replaced the legacy user-login-log table with an upgraded one that tracks per-terminal IP and online status, so the number of terminals logged into each account can be checked.
+[Dekad/Monthly/Seasonal/Annual] Changed accumulated-temperature queries to require a lower threshold before running.
+[Custom Period] Fixed an error querying cumulative values for any element over more than a month.
+[Custom Period] Fixed CMA-issued statistics not showing for rainfall-threshold queries.
+[Backend Data] Renamed fields across 32 national/regional-station tables spanning every time scale and climate state, and updated the matching field-name config in the backend.
+[Backend Data] Completed historical-extreme statistics for regional-station daily/dekad/monthly/seasonal/annual data.
+[Custom Conditional Query Module] Added a "Township" (station attribute) column to query results.
+[General] Standardized internal placeholder dates; stations with no data are now skipped at startup; added a status-bar line showing regional-station multi-year averages as "Climate Center 20xx-20xx average."
+[New Feature] Added the Single Period module: for any custom period (start/end up to 10 years apart) and any threshold on one element, get average, max (with date), min (with date), cumulative total, and day count. Recommended over Custom Period when no year-over-year comparison is needed, for much faster queries.
+[Dekad/Monthly/Seasonal/Annual] Aligned with Custom Period by removing "Conditional Query" and adjusting related options -- thresholds can no longer be set freely, only chosen from existing presets, so results come directly from precomputed tables. Also removed the "Average/Max/Min" headers from the rightmost three columns of the lower table, to avoid confusion about what those columns represent.
+[Custom Period] For max/min statistics: at station scale, added the regional max/min occurrence dates for max(min)/historical extreme/yearly-extreme values to the lower table; at township/county/city scale, added the occurrence dates to the middle (max) and lower (min) tables.
+[Custom Period] Removed "Conditional Query" and its day-count/total statistics; default statistics are now average/max/min/cumulative/day-count, with a fuller set of selectable statistics per element. Thresholds can now be applied to any statistic (not just cumulative/day-count) to filter out bad source data.
+[Backend Data] Fixed the station-info update script not syncing newly added stations; start dates are now computed in real time per station; merged the two databases' station-info scripts into one; station info is now also saved to CSV before being written to the database, to avoid losing all station info if the write fails.
+[Backend Data] Updated the dekad/monthly/seasonal/annual refresh script to drop fully-blank records and default empty valid-day-count fields to 0, then reran it for 2004-present.
+[Backend Data] Regional-station monthly averages are now stored to 3 decimal places; updated the refresh script accordingly.
+[Backend Data] Backfilled CROSS daily data gaps since 2004 using a legacy server's daily data.
+[Custom Period] Fixed -9999 showing in non-station-scale queries.
+Fixed a sorting bug affecting table data across all modules.
+[Custom Period] Ranking year no longer changes based on station selection -- even with regional stations selected, the default ranking start year stays 1951.
+[Custom Period] Data tables now say "multi-year average" instead of "normal" for the climate baseline.
+[Climate Baseline] Per a Guangdong Meteorological Service directive, CMA-issued normals are no longer the default climate baseline; users can set their preferred baseline (e.g., the mandated 30-year average) under System > System Settings -- the choice is saved and restored on next login.
+[Save Data] Fixed an "ORA-12899: value too large for column" error by writing the user's IP correctly to the save-tracking field.
+[Message Center] Added filters for message type (system notice / user feedback) and status (read / unhandled / replied).
+[User Management] Added IP-allowlist self-registration for users.
+[Custom Period / Year-by-Year Custom Period] Fixed normals not showing after running a non-conditional query following a custom-threshold conditional query.
+Removed a slow, unnecessary null-check from all query SQL for speed, and corrected an inland-station flag comparison throughout.
+[Custom Period / Year-by-Year Custom Period] Fixed incorrect averages when the end date is in the future.
+[Backend Data] Corrected all stations' pre-2023 08h daily rainfall where a "trace precipitation" flag caused errors, by recomputing it from 08-20h and 20-08h rainfall; recalculated the dependent dekad/monthly/seasonal/annual values and Climate Center normals accordingly.
+[Backend Data] Monthly statistics are now stored to 3 decimal places to avoid rounding error.
+[Backend Data] Removed dekad/monthly/seasonal/annual records predating each station's valid data start, preventing incorrect multi-station averages.
+[Custom Period / Year-by-Year Custom Period] Full-year queries now read directly from annual statistics instead of re-deriving them from 12 months of data, avoiding rounding error.
+[Backend Data] Dekad/seasonal/annual statistics are now stored to 1 decimal place instead of 2.
+[Custom Period] Fixed a severe slowdown caused by the "check for and backfill missing monthly values" step.
+[Dekad/Monthly/Seasonal/Annual Data] Fixed the table not resetting row count after toggling an extreme-value-by-year query off.
+[Custom Period] Fixed an out-of-range error when the start date is in December (not the 1st) and the end date falls in the following year.
+[Year-by-Year Custom Period] Fixed Feb 29 being excluded from leap-year statistics when the selected range spans February to March.
+[Custom Period / Year-by-Year Custom Period] Relaxed the Feb 29 date rules: a range starting before Feb 1 and ending Feb 29 now includes the full February in every year; ending Feb 28 still includes all of February in non-leap years but excludes the 29th in leap years; climate normals never include Feb 29 (CMA doesn't issue one).
+Login now flags unread system messages/replies with a button to jump straight to Message Center; the "Reply" field auto-fills "No reply needed" for system notices.
+Removed a redundant sentinel-value check from all query SQL, for speed and simpler SQL.
+Added a null-safety check on database query results, to stop blank values from crashing the app when assigned to memory variables.
+[Custom Period Statistics] When regional stations are selected, the default ranking range now starts at 2005 instead of pulling in years with no regional-station data before that.
+[Station Selection] Added a per-filter IP/user log to the server-side temp station table, fixing a bug where one account used on two machines could have its station selection overwritten.
+[Custom / Year-by-Year Statistics] Added a sixth period-decomposition case (multi-day + multi-day), fixing missing CMA climate-state results for multi-day statistics spanning a year boundary.
+[Cold Air] Added cold-air-intensity plotting for province-level regions; level filtering now includes a "None" option so stations with missing data can be excluded from distribution maps; built the matching Surfer template and uploaded it to the FTP server.
+[Station Selection] Fixed clicking "Confirm" incorrectly popping open the Conditional Query module.
+[Custom Period Statistics] Fixed incorrect anomaly values in regional results at township/county/city scale.
+[Data Sorting] Result sets over 500 rows now use the grid control's built-in sort for speed; results under 500 rows still use a bubble sort to avoid an unresolved edge-case bug in the built-in sort.
+[Save Data] Short time-series raw data can now be downloaded without IP registration.
+[Custom / Year-by-Year Period Statistics] All elements now support conditional queries, and any element with a cumulative total can also be queried by total-threshold condition.
+[System Update] Fixed the updater failing to recognize a relative path with a Null value.
+Fixed an "Invalid procedure call or argument" error on minimizing the app.
+The system now logs large data query/download actions by users.
+[Surfer Settings] Added a custom option for the plotting region, letting users select their own .srf template and plot custom data over a custom-drawn region.
+On startup, only National Stations are selected by default -- even if Regional Stations were selected last session, National Stations become the default again after a restart.
+[Custom Period Statistics] Added a toggle button on the "prior-year value" selector to switch between CMA normals and Climate Center normals.
+[Custom Period Statistics] Fixed CMA normals not appearing in average-value results for cross-month (non-full-month) periods.
+[Contour Map] Removed Surfer-based disaster-level distribution map plotting.
+[Interface Settings] Removed this module -- hiding/showing menu and toolbar items is no longer supported.
+[General] Disabled dynamic form-resize behavior on all windows (screen resolution of at least 1920x1080 is recommended).
+[General] Removed all agrometeorological statistics features (disaster-type statistics, growth-stage statistics, etc. -- now offered by a separate dedicated system).
+[General] Dropped Excel export in favor of CSV only (which opens directly in Excel).
+Added an [Upgrade Management] module for admins to log new feature entries in the database and upload new version files to the FTP server.
+Added precise validation of user-entered dates/times -- an invalid entry now shows a warning and cancels the query instead of closing the app.
+[Data Sorting] Replaced the grid control's built-in sort (which occasionally hit an unresolved bug) with a custom sort for both row and column sorting.
+[System Update] The updater now runs unattended via a script that downloads CROSS.exe and related files from the server.
+[Conditional Query] Can now query and output national- and regional-station data together.
+Corrected an error in CMA-normal temperature statistics under [Custom Period].
+Messages between users and admins are now flagged at login so both sides can respond promptly.
+[Custom Period Statistics] Added multi-element custom-period statistics -- outputs each element's default statistics plus its normal, anomaly, and historical extremes for the same period, replacing an older assessment module.
+Added province-level plotting templates for East, West, and North Guangdong, the Pearl River Delta, and the Guangdong-Hong Kong-Macao Greater Bay Area.
+Every module now merges national- and regional-station statistics, with regional stations offering the same query options as national ones.
+Hourly/Daily/Dekad/Monthly/Seasonal/Annual modules now highlight (in pink) results that stand out.
+Regional-station normals (for reference only) default to the multi-year average since station founding (left blank if under 5 years of data).
+National-station normals can be switched between "CMA-issued" and "Climate Center calculated," with a freely configurable period for the latter.
+Queryable data states: regular-interval data, climate normals, and historical extremes (with selectable extreme-year).
+Derived statistics are now fully queryable, with a new diurnal-temperature-range field added -- 36 meteorological elements are now queryable in total.
+Spatial scale: station / township / county / city, with results shown in three separate tables -- average, max, and min.
+Time scale: hourly / daily / dekad / monthly / seasonal / annual / custom period / multi-year custom period.

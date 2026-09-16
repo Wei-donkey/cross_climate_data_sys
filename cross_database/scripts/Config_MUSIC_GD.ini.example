@@ -1,0 +1,39 @@
+﻿# configure the data interface of music platform
+
+[CONNECT_qhztj]
+url = http://10.148.90.120:28088/di/http.action?&serviceNodeId=GMODC_MUSIC_MI_1
+user = 
+password = 
+
+[INTERFACE]
+SURF_CLI_MUL_HOR = getRACNewAuto4Prov
+SURF_CLI_MUL_HOR_UPDATE = getSurfAutoQcZdUpdateTimeRange4Prov
+AWST_CLI_MUL_HOR = getSurfAwst4Prov
+AWST_CLI_MUL_HOR_STACODE = getSurfAwst4Iiiii
+AWST_CLI_MUL_HOR_UPDATE = getSurfAwstQcZdUpdateTimeRange4Prov
+SURF_CLI_S_DAY = getSunlight4Prov
+STATION_META_BASIC = getStationInfo4Prov
+SURF_CLI_MUL_DAY = getSurfAutoDayBdb4Prov
+SURF_CLI_MUL_DAY_UPDATE = getSurfAutoDayBdbUpdateTime4Prov
+HYDRO_PRE_HOR = getSurfBlendGdHDRainByStationType
+STAT_SURF_AWST_PRE_HOR_XTRM = getSurfBlendGdHDRainByStationType
+STAT_SURF_AWST_PRE_HOR_XTRM_UPDATE = getSurfBlendGdHDRainUpdateTimeRange
+
+[COLUMNS_IN]
+SURF_CLI_MUL_HOR = ddatetime,v01301,v10004,v10051,v10301,v10301_052,v10302,v10302_052,v12001,v12011,v12011_052,v12012,v12012_052,v12003,v13003,v13007,v13007_052,v13004,v13019,v13033,v11290,v11291,v11292,v11293,v11296,v11042,v11042_052,v11201,v11202,v11211,v11046,v11046_052,v12310,v12311,v12311_052,v12121,v12121_052,v12030_005,v12030_010,v12030_015,v12030_020,v12030_040,v12030_080,v12030_160,v12030_320,v12314,v12315,v12315_052,v12316,v12316_052,v20001,v20059,v20059_052
+AWST_CLI_MUL_HOR = ddatetime,v01301,v10004,v10051,v10301,v10301_052,v10302,v10302_052,v12001,v12011,v12011_052,v12012,v12012_052,v12003,v13003,v13007,v13007_052,v13019,v13032,v11290,v11291,v11292,v11293,v11296,v11042,v11042_052,v11201,v11202,v11211,v11046,v11046_052,v12310,v12311,v12311_052,v12121,v12121_052,v12030_005,v12030_010,v12030_015,v12030_020,v12030_040,v12030_080,v12030_160,v12030_320,v12314,v12315,v12315_052,v12316,v12316_052,v20313,v20059,v20059_052
+SURF_CLI_S_DAY = d_datetime,v01301,v14032_005,v14032_006,v14032_007,v14032_008,v14032_009,v14032_010,v14032_011,v14032_012,v14032_013,v14032_014,v14032_015,v14032_016,v14032_017,v14032_018,v14032_019,v14032_020
+STATION_META_BASIC = v01301,v06001,v05001,v07001,v08001,v02001,v01300,v02301,v_county,v_city,v_prcode,vf01015_cn,v01300_1,v_village,v_town,slm,vertime,d_update_time
+SURF_CLI_MUL_DAY = ddatetime,v01301,v10004_701,v10301,v10301_052,v10302,v10302_052,v10051_701,v12001_701,v12011,v12011_052,v12012,v12012_052,v13004_701,v13003_701,v13007,v13007_052,v13308,v13309,v13305,v13306,v13033,v11291_701,v11042,v11296,v11042_052,v11046,v11211,v11046_052,v12120_701,v12311,v12311_052,v12121,v12121_052,v12030_701_005,v12030_701_010,v12030_701_015,v12030_701_020,v12030_701_040,v12030_701_080,v12030_701_160,v12030_701_320,v12314_701,v12315,v12315_052,v12316,v12316_052,v20059,v20059_052
+HYDRO_PRE_HOR = ddatetime,v01301,v13019
+STAT_SURF_AWST_PRE_HOR_XTRM = ddatetime,v02301,v01301,v13019,v13020,v13021,v13022,v13023 
+
+[COLUMNS_OUT]
+SURF_CLI_MUL_HOR = ddatetime,stacode,p,p0,p_max,p_maxtime,p_min,p_mintime,t,t_max,t_maxtime,t_min,t_mintime,td,u,u_min,u_mintime,e,r,l_b,f2x,f2s,f10x,f10s,fzx,fzs,fzstime,fsx,fss,fjx,fjs,fjstime,d,d_max,d_maxtime,d_min,d_mintime,d5,d10,d15,d20,d40,d80,d160,d320,b,b_max,b_maxtime,b_min,b_mintime,v,v_min,v_mintime
+AWST_CLI_MUL_HOR = ddatetime,stacode,p,p0,p_max,p_maxtime,p_min,p_mintime,t,t_max,t_maxtime,t_min,t_mintime,td,u,u_min,u_mintime,r,l_b,f2x,f2s,f10x,f10s,fzx,fzs,fzstime,fsx,fss,fjx,fjs,fjstime,d,d_max,d_maxtime,d_min,d_mintime,d5,d10,d15,d20,d40,d80,d160,d320,b,b_max,b_maxtime,b_min,b_mintime,v,v_min,v_mintime
+SURF_CLI_MUL_DAY = ddatetime,stacode,p,p_max,p_maxtime,p_min,p_mintime,p0,t,t_max,t_maxtime,t_min,t_mintime,e,u,u_min,u_mintime,r20_08,r08_20,r,r08,l_b,f2s,fzs,fzx,fzstime,fjs,fjx,fjstime,d,d_max,d_maxtime,d_min,d_mintime,d5,d10,d15,d20,d40,d80,d160,d320,b,b_max,b_maxtime,b_min,b_mintime,v_min,v_mintime
+HYDRO_PRE_HOR = ddatetime,stacode,r
+
+[SHRESHOLD]
+SURF_CLI_MUL_HOR = ,,800to1100,800to1100,800to1100,,800to1100,,-20to60,-20to60,,-20to60,,-30to60,0to100,0to100,,0to100,0to500,0to200,0to360,0to99,0to360,0to99,0to360,0to99,,0to360,0to99,0to360,0to99,,-10to80,-10to80,,-10to80,,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,,-10to80,,10to99999,10to99999,
+AWST_CLI_MUL_HOR = ,,800to1100,800to1100,800to1100,,800to1100,,-20to60,-20to60,,-20to60,,-30to60,0to100,0to100,,0to500,0to200,0to360,0to99,0to360,0to99,0to360,0to99,,0to360,0to99,0to360,0to99,,-10to80,-10to80,,-10to80,,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,-10to80,,-10to80,,10to99999,10to99999,
