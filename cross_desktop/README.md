@@ -46,6 +46,7 @@ A feature-by-feature walkthrough with screenshots.
 - [Time-scale queries: Hourly / Daily / Dekad / Monthly](#time-scale-queries-hourly--daily--dekad--monthly)
 - [Single Period Query](#single-period-query)
 - [Arbitrary Period Query](#arbitrary-period-query)
+- [Arbitrary Period Decomposition Flowchart](#arbitrary-period-decomposition-flowchart)
 - [Year-by-Year Period Query](#year-by-year-period-query)
 - [Conditional Query](#conditional-query)
 - [Season Classification](#season-classification)
@@ -117,6 +118,14 @@ side of the workflow.
 ![Arbitrary Period Query (1)](src/Preview/Gallery/fig06.ArbPeriod1.png)
 ![Arbitrary Period Query (2)](src/Preview/Gallery/fig07.ArbPeriod2.png)
 ![Arbitrary Period Query (3)](src/Preview/Gallery/fig08.ArbPeriod3.png)
+
+### Arbitrary Period Decomposition Flowchart
+
+Illustrates how an arbitrary, potentially non-contiguous period is
+decomposed internally to optimize statistical efficiency — the logic
+behind the Arbitrary Period Query feature above.
+
+![Arbitrary Period Decomposition Flowchart](src/Preview/Gallery/fig24.Flowchart_ArbPeriod.png)
 
 ### Year-by-Year Period Query
 
