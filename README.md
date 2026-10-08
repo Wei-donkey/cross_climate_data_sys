@@ -7,6 +7,8 @@ Oracle database and a set of scheduled data pipeline jobs. This repository
 packages the three pieces of that system together for portfolio/reference
 purposes.
 
+![CROSS Overview](cross_desktop/src/Preview/Gallery/fig00.Overall.png)
+
 ## Layout
 
 | Folder | What it is |
