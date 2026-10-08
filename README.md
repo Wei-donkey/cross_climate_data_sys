@@ -8,6 +8,7 @@ packages the three pieces of that system together for portfolio/reference
 purposes.
 
 ![CROSS Overview](cross_desktop/src/Preview/Gallery/fig00.Overall.png)
+*The CROSS desktop client at a glance: data queries, time-series charting, histograms, scatter plots, contour mapping, and usage/active-user statistics shown together.*
 
 ## Layout
 
