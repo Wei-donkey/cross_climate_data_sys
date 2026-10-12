@@ -10,6 +10,7 @@ that [`cross_database`](../cross_database) populates. (See the project
 ## Layout
 
 - `CROSS2.14En_Installer.exe` — the compiled installer for end users. It can be installed on any Windows machine and run in guest mode without any dependencies.
+- [`任意时段累年气候数据统计流程优化及应用_气象科技.pdf`](任意时段累年气候数据统计流程优化及应用_气象科技.pdf) — the published paper (*Meteorological Science and Technology*) describing the arbitrary-period statistics workflow optimization shown in the [Arbitrary Period Decomposition Flowchart](#arbitrary-period-decomposition-flowchart) below.
 - `src/` — the entire VB6 application: the project file (`CROSS.vbp`), every
   form/module (`.frm`/`.frx`/`.bas`), the compiled dev build
   (`CROSS2.14.exe`), and the runtime asset folders the running app locates
